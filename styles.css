@@ -45,18 +45,24 @@ hr{
 }
 .toc-link:hover{
 	opacity: 1;
- 	text-decoration: underline;
+ 	/* text-decoration: underline; */
+ 	color: #ba0029;
 }
 .toc-link:visited{
 	color: #ba0029;
 }
 
 #home{
-	
-} 
+	background-color: #e8e8e0;
+	/* background: url('assets/images/Estlund - Becoming Woman/EDITCloth.png') center no-repeat; */
+	width: 100vw;
+	/* margin-right:-50vh */
+ }
+
 #table-of-contents{
 	padding: 20px;
 	font-size: 20px;
+	background-color: #e8e8e0;
 }
 #exit-poem{
 
@@ -65,7 +71,10 @@ hr{
 	background-color: black; 
 	width: 50vw;
 }
-
+#ismee{
+	background-color: #e31b28;
+	width: 100vw;
+}
 
 .outer-wrapper{
 	width: 100vh;
@@ -91,25 +100,33 @@ hr{
 	height: 100vh;
 	flex-shrink: 0;
 	display: inline-flex;
+
 	margin-right: 50vw;
 	position: relative;
  }
 
 .nav-button{
 	position: fixed;
-	top: 0;
-	right: 0;
+	top: 10px;
+	left: 10px;
+ 	cursor: pointer;
 	width: 100px;
-	border: 3px solid #ba0029;
 	z-index: 100; 
+	/* height: 100px; */
+	width: 100px;
+}
+.nav-button-text{
+	font-weight: bold; 
+ 	opacity: .5;
+ 	color: #ba0029;
+ 	text-decoration: none;
+ 	line-height: 1.5;
+ 	font-family: "futura", sans-serif;
+ }
+.nav-button:visited{
+	color: #ba0029;
 }
 
-.intro{
-	background-color: #e8b283;
-	/* background: url('assets/images/Estlund - Becoming Woman/EDITCloth.png') center no-repeat; */
-	/* background-size: 100vh; */
-	width: 100vw;
- }
 
 .title{
 	position: absolute;
@@ -140,6 +157,13 @@ hr{
 
 .small-image{
 	height: 20vh;
+}
+.ismee-image{
+	position: absolute;
+	bottom: 0px;
+	 height: 60vh; 
+	 transform: scaleX(-1);
+	/* height: 50vh; */
 }
 
 .text-wrapper{
@@ -182,13 +206,13 @@ hr{
 font-family: "futura", sans-serif; font-size: 16px; font-weight: 300; white-space: pre-wrap; line-height:1.5;margin-top:0pt;margin-bottom:0pt; text-align: justify;
 }
 .tolentino-text{
-line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: justify;
+line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: justify;font-family:"futura";
 }
 .tolentino-body{
 font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; vertical-align: baseline ;white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .exit-body{
-font-size: 12pt; font-family: 'Times New Roman';  font-weight: 400; white-space: pre; line-height: 1.5;
+font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre; line-height: 1.5;
 }
 .ismee-body{
 font-size: 12pt; font-weight: 400;  white-space: pre-line;  line-height: 1.5;text-align: justify;
@@ -206,7 +230,7 @@ line-height: 1.5; margin-top :0pt;
 font-size: 12pt; font-family: "Times New Roman",  serif;  font-weight: 400; white-space: pre-wrap;
 }
 .ddg-italic{
-font-size: 12pt;  font-weight: 400; font-style: italic; white-space: pre-wrap;
+font-size: 12pt;  font-weight: 400; font-style: italic; white-space: pre-wrap; 
 }
 .foundations-body{
 font-size: 12pt; font-family: 'Times New Roman';  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
@@ -218,10 +242,10 @@ font-family: "Times New Roman",  serif; font-size: 16px;text-align: justify;
 font-size: 16px; font-family: monospace;  font-weight: 400; white-space: nowrap; line-height: 1.5;
 }
 .missed-bold{
-font-size:16px;font-family:'Times New Roman'; font-weight: 700; white-space: pre; white-space: pre-wrap;text-align: justify;
+font-size:16px;font-family:'futura',sans-serif; font-weight: 700; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .missed-body{
-font-size:16px;font-family:'Times New Roman' ; font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
+font-size:16px;font-family:'futura',sans-serif ; font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .basb-body{
 font-size:16px; font-family: "Times New Roman",  serif;  font-weight: 400; white-space: pre-wrap;line-height:1.5;text-align: justify;
@@ -230,7 +254,7 @@ font-size:16px; font-family: "Times New Roman",  serif;  font-weight: 400; white
 font-size: 16px; font-family: "futura", sans-serif; font-weight: 400 white-space: pre; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .cloudberry-text{
-line-height: 1.2; font-size: 16px; font-family: "Times New Roman", serif;  font-weight: 400; white-space: pre; white-space: pre-wrap; z-index: 50;
+line-height: 1.2; font-size: 16px; font-family:sans-serif;  font-weight: 400; white-space: pre; white-space: pre-wrap; z-index: 50;
 }
 .goldfish-body{
 font-size: 12pt; font-family:monospace;  font-weight: 400; white-space: pre-wrap;line-height: 1.5;
@@ -283,23 +307,34 @@ font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style:
 	height: 80px;
 	margin-top: -80px;
 	/* margin-left: -40px; */
-	width: 87%;
+	width: 100%;
 }
 
 .btn{
 	background:none;
     border:none;
-    margin:0;
-    padding:0;
     text-shadow: 0px;
     font-family: "termina", "futura", sans-serif;
     font-size: 80px;
-    font-style:;
     transition: 0.2s;
     color: #ba0029;
+    height: 80px;
+    display: inline-block;
+    margin: auto 0px auto 0px;
+    z-index: 10;
 }
 .btn:hover{
 	text-shadow: 6px 6px 15px black;
 	transition: 0.2s;
 	color: #ba0029;
+}
+
+.ismee-title{
+	color: white;
+	position: absolute;
+	top: 20vh;
+	left: 50vh;
+}
+.ismee-title:hover{
+	color: white;
 }
