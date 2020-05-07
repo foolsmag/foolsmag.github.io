@@ -20,8 +20,9 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
+	  	      			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 	  	      			<h5 class="modal-title" id="exampleModalLabel">A Letter from the Editor</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -55,14 +56,14 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
+	  	      			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 	  	      			<h5 class="modal-title" id="exampleModalLabel">Looking Glass Self</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
 			  	        	<div class="">
-							<p class="lgs-text-two">Looking Glass Self</p>
-							<p class="lgs-body">You watch&nbsp;<span class="italic"> hairspray</span> &nbsp;on a sick-day, home from school, in the winter of 2007.&nbsp;</p><br>
+							<p class="lgs-body">You watch&nbsp;<span class="italic"> Hairspray</span> &nbsp;on a sick-day, home from school, in the winter of 2007.&nbsp;</p><br>
 							<p  class="lgs-body">You hold an ice pack on your belly (under your shirt) because you think it will soothe the pain of the stomach flu that has kept you awake for nights on end. You have to reconcile with your measurements every time you grope at your own girth. You ache.</p><br>
 							<p  class="lgs-body">You hate being sick.&nbsp;</p><br>
 							<p  class="lgs-body">You hate going to school (perceived, judged) just as much&nbsp;</p><br>
@@ -79,7 +80,7 @@
 							<p class="lgs-body">You think you would not have given up if you had gotten roles (speaking, singing).&nbsp;</p><br>
 							<p class="lgs-body">You wish your castmates invited you to the cast parties.</p><br>
 							<p class="lgs-body">You wish you could&rsquo;ve filled the one role that was (for once) tailored to fit you.</p><br>
-							<p class="lgs-body">You wish your high school performed&nbsp;<span class="italic"> hairspray</span>&nbsp;</p><br>
+							<p class="lgs-body">You wish your high school performed&nbsp;<span class="italic"> Hairspray</span>&nbsp;</p><br>
 							<p class=”lgs-body”><br></p>
 							<p class="lgs-body">You see yourself, your fat body, in Tracy Turnblad unlike how you see yourself in a mirror.&nbsp;</p><br>
 							<p class="lgs-body">She wakes up singing and you latch onto her charisma wondering how she does it; how she can so unabashedly love herself because of (not in spite of) all the things for which she is so viciously scrutinized. Big. Fat. Loud. Desired. Passionate. Driven. Optimistic. Confident. Proud, in a way you are not allowed to be (by your mother, by a fatphobic society whose standards have permeated your perception of your own body).</p><br>
@@ -94,7 +95,7 @@
 							<p class="lgs-body">You see yourself,</p><br>
 							<p class="lgs-body">not Tracy Turnblad.<br></p>
 							
-							<p class="lgs-body">She pulls it off, somehow, in the fantasy world of&nbsp; <span class="italic"> hairspray</span></p>
+							<p class="lgs-body">She pulls it off, somehow, in the fantasy world of&nbsp; <span class="italic"> Hairspray</span></p>
 							<p class="lgs-body">Tracy Turnblad is cast on a TV show</p>
 							<p class="lgs-body">Tracy Turnblad makes people think differently about fatness, about fat bodies.</p>
 							<p class="lgs-body">Tracy Turnblad is endorsed by a plus-sized clothing line</p>
@@ -157,10 +158,9 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">Interview with Jia Tolentino</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-		  	        		<span aria-hidden="true">&times;</span>
+	  	      			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Interview with Jia Tolentino</h5>	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -195,10 +195,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">Ismee</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	  	      			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Ismee</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -356,10 +357,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">Allie Tokarski</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Allie Tokarski</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -382,10 +384,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">Foundations</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	  	      			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Foundations</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -431,10 +434,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">Missed Connections</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Missed Connections</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -462,10 +466,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">Spaces in Between</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Spaces in Between</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -493,10 +498,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">Le Donne</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Le Donne</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -619,10 +625,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">The White Continent</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">The White Continent</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -655,10 +662,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">marching</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">marching</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -700,10 +708,11 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-	  	      			<h5 class="modal-title" id="exampleModalLabel">geese</h5>
-		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		  	        		<span aria-hidden="true">&times;</span>
 		  	       		</button>
+	  	      			<h5 class="modal-title" id="exampleModalLabel">geese</h5>
+		  	        	
 					</div>
 					<div class="modal-body">
 						<div class="scroll">
@@ -777,7 +786,7 @@
 				 </div>
 				<div class="slide" style="margin-right: 0px;" id="editor-letter">
 					<div class="" style="">
-						<button type="button" class="btn" style="" data-toggle="modal" data-target="#modal-letter">A<br> Letter<br> from<br> the<br> Editor</button>
+						<button type="button" class="btn" style="" data-toggle="modal" data-target="#modal-letter">A Letter from<br>the Editor</button>
 					</div>
 				 </div>
 				<div class="slide" id="masthead">
@@ -852,9 +861,11 @@
 					<img class="" style="margin: auto 0px auto 0px; height: 80vh;" src="assets/images/Looking Glass Self/Sandersfeld-post2.png" alt="" style="z-index: -1">
 				 </div>
 				<div class="slide" id="jt">
+					<button type="button" class="btn" style="position: absolute;z-index: 10;text-align: left;left:-10vw;" data-toggle="modal" data-target="#modal-jt">Navigating<br> Self-Delusion:</button>
 					<img class="full-image" src="assets/images/Tolentino Interview/Le-Tolentino.jpg" alt="">
 					<div>	
-						<button type="button" class="btn" data-toggle="modal" data-target="#modal-jt">Navigating<br> Self-Delusion:<br> An Interview with<br> Jia Tolentino</button>
+						
+						<button type="button" class="btn" style="position: absolute;bottom:10vw;right:0px;text-align: right;" data-toggle="modal" data-target="#modal-jt">An Interview with<br> Jia Tolentino</button>
 						<p>By Gabbie Meis<br>Photos by Vivian Le</p>
 					 </div>
 					<img class="small-image" src="assets/images/Tolentino Interview/Le-Tolentino2.jpg" alt="">
@@ -903,15 +914,18 @@
 				 </div>
 				<div class="slide" id="mirrors">
 					<div>
-						<p style="font-size: 60px;">mirrors were the original soul stealers</p>
+						<p style="font-size: 60px;">mirrors were<br>the original<br>soul stealers</p>
 						<p>by Nate Graveen<br>illustrations by Katie Craver</p>
 					 </div>
-					<img class="" style="height:60vh;transform: scaleY(-1);"src="assets/images/Mirrors/Craver-Mirrors2.png" alt="">
-					<img class="" style="height:60vh;transform: scaleX(-1);" src="assets/images/Mirrors/Craver-Mirrors1.png" alt="">
-					<img style="position:absolute;"src="assets/images/Mirrors/Mirrors Text.png" alt="">
+					<div>
+						<img style="position:absolute;z-index: 10;"src="assets/images/Mirrors/Mirrors Text.png" alt="">
+						<img class="" style="height:60vh;transform: scaleY(-1);"src="assets/images/Mirrors/Craver-Mirrors2.png" alt="">
+						<img class="" style="height:60vh;transform: scaleX(-1);" src="assets/images/Mirrors/Craver-Mirrors1.png" alt="">
+						
+					 </div>
 				 </div>
 				<div class="slide" id="ismee">
-					<button type="button" class="btn ismee-title" data-toggle="modal" data-target="#modal-ismee">Ismee</button>
+					<button type="button" style="font-family: 'lust display', serif;font-style: italic;" class="btn ismee-title" data-toggle="modal" data-target="#modal-ismee">Ismee</button>
 					<p>by Rana Hewezi<br>illustrations by Lydia Waheed</p>
 					<img class="ismee-image" src="assets/images/Ismee/ismee1.jpg" alt="">
 					<img class="small-image" src="assets/images/Ismee/ismee2.jpg" alt="">
@@ -965,13 +979,21 @@
 					</div>
 				 </div>
 				<div class="slide" id="tokarski">
+					
 					<button type="button" class="btn" style="font-family:'lust display'; color:lightblue;margin:auto 0px auto 0px;" data-toggle="modal" data-target="#modal-tokarski">A l l i e<br>Tokarski</button>
-					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski1.jpg" alt="">
-					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski2.jpg" alt="">	
-					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski3.jpg" alt="">	
-					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski4.jpg" alt="">	
-					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski5.jpg" alt="">	
-					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski6.jpg" alt="">						
+					<p>a series of works</p>
+					<div style="position: absolute; bottom: 0px;">
+						<img class="tokarski-image" src="assets/images/Allie Tokarski/Tokarski4.jpg" alt="">
+						<img class="tokarski-image" src="assets/images/Allie Tokarski/Tokarski3.jpg" alt="">
+					</div>
+						
+					<img class="tokarski-image" src="assets/images/Allie Tokarski/Tokarski1.jpg" alt="">
+					<img class="tokarski-image" src="assets/images/Allie Tokarski/Tokarski2.jpg" alt="">	
+				
+						
+						
+					<img class="tokarski-image" src="assets/images/Allie Tokarski/Tokarski6.jpg" alt="">
+					<img class="full-image" src="assets/images/Allie Tokarski/Tokarski5.jpg" alt="">						
 				 </div>
 				<div class="slide" id="duckduckgo">
 					<div>
@@ -995,24 +1017,25 @@
 						Weatherman says&nbsp; it cannot be possible</span></span><br>
 						Lake waves break frozen onto crackling</nobr></p>
 					 </div>
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG1.jpg" alt="">
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG2.jpg" alt="">
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG3.jpg" alt="">
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG4.jpg" alt="">
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG5.jpg" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG1.png" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG2.png" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG3.png" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG4.png" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG5.png" alt="">
 
 				 </div>
 				<div class="slide" id="foundations">
+					<div style="width: 90vw; height:100vh; overflow:hidden;position: relative;">
+						<img class="" style="position: absolute; width: 110vw; top: -30vw; left:-10vw;" src="assets/images/Stillman-Foundations.jpeg" alt="">
+						<button type="button" class="btn" style="position: absolute;font-family:'lust display',serif;font-style:italic;color:white;margin: 50vh auto auto 40%; z-index:20;" data-toggle="modal" data-target="#modal-foundations">Foundations</button>
+						</div>
 					<p>By Miranda Jud<br>Illustration by Kerstin Stillman</p>
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-foundations">Foundations</button>
-					
-					<img class="small-image" src="assets/images/Stillman-Foundations.jpeg" alt="">
-				 	
 				 </div>
 				<div class="slide" id="feel-better">
-					<div class="text-container">
+					<div style="width: 600px;">
+						<p style="font-family: sans-serif; font-size: 50px;font-weight: bold;">It Will Feel Better When It Stops Hurting</p>
 						<p>by Avery Tucker</p>
-						<p class="hurting-body">It will feel better when it stops hurting<br>Avery Tucker<br>My series It will feel better when it stops hurting explores the ways divorce alters childhood, memory, and development. These photographs show my half-sister Tuscany on my father’s land. Sometimes they are posed; sometimes they are not. In this project, I explore the connection between our experiences as children of divorce, how our memories and understandings differ. I use the landscape images as a representation of myself and as a meditation on what the future holds. The title comes from an expression my father would say when I scraped my knees or fell off my bike, but in the context of this project, it has transformed into an examination of pain and healing. Will it ever feel better? Does it ever stop hurting?</p>
+						<p class="hurting-body">My series It will feel better when it stops hurting explores the ways divorce alters childhood, memory, and development. These photographs show my half-sister Tuscany on my father’s land. Sometimes they are posed; sometimes they are not. In this project, I explore the connection between our experiences as children of divorce, how our memories and understandings differ. I use the landscape images as a representation of myself and as a meditation on what the future holds. The title comes from an expression my father would say when I scraped my knees or fell off my bike, but in the context of this project, it has transformed into an examination of pain and healing. Will it ever feel better? Does it ever stop hurting?</p>
 	
 					</div>
 					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker1.tiff" alt="">
@@ -1027,8 +1050,9 @@
 					
 				 </div>
 				<div class="slide" id="father-mother">
-					<p>by Mara Smith<br>Illustrations by Allie Tokarski</p>
 					<img class="full-image" style="position:absolute;top:-200px;z-index: -100;" src="assets/images/Father_Mother/FM-Tokarski3.png" alt="">
+					<p style="font-family: 'lust'; font-size: 50px;color:rgb(30,30,50)">Father/Mother</p>
+					<p>by Mara Smith<br>Illustrations by Allie Tokarski</p>
 					<div class="poetry-container" style="padding-top:400px;">
 						<p dir="ltr" class="fm-body">Father&nbsp;</p>
 						<p dir="ltr" class="fm-body">
@@ -1056,7 +1080,7 @@
 						someone stops loving you and<br>
 						the blinds are pulled shut</p>
 					</div>
-					<img class="small-image" src="assets/images/Father_Mother/FM-Tokarski1.png" alt="">
+					<img class="" style="position: absolute;  height: 50vh; bottom: 0px; right:0px; z-index: -2;"src="assets/images/Father_Mother/FM-Tokarski1.png" alt="">
 					<img class="small-image" src="assets/images/Father_Mother/FM-Tokarski2.png" alt="">
 					
 				 	
@@ -1070,18 +1094,27 @@
 					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/Dewitt-Missed Connections.png" alt="">
 				 </div>
 				<div class="slide" id="spaces-in-between">
-					<p>by Madalyn Whitaker<br>illustration by Kate Snyder</p>
-					<img class="full-image" src="assets/images/Snyder-TheBeforetheAfter.png" alt="">
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-spaces">The Before, The After, & the Spaces in Between</button>					
+					<img class="full-image" style="position:absolute;" src="assets/images/Snyder-TheBeforetheAfter--Small.png" alt="">
+					<button type="button" style="text-align: left; color:#4c5223; font-family: 'lust display'; font-style: italic;font-size: 60px;" class="btn" data-toggle="modal" data-target="#modal-spaces">The Before, The After, <br>and the Spaces<br>in Between</button>
+					<p style="color: #4c5223;">by Madalyn Whitaker<br>illustration by Kate Snyder</p>					
 				 </div>
 				<div class="slide" id="le-donne"> 
-					<p>by Carmella Furio<br>illustrations by Zoe Hermsen</p>
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-ledonne">Le Donne alla Tavola</button>
-					<img class="small-image" src="assets/images/" alt="">
+					
+					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 1_Cream Overlay.png" alt="">
+					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 2_MauveOverlay.png" alt="">
+					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 4_Mauve Overlay.png" alt="">
+					<button type="button" class="btn" style="font-family: 'lust display', serif;margin: auto;" data-toggle="modal" data-target="#modal-ledonne">Le Donne alla Tavola</button>
+					<p style="color:beige;">by Carmella Furio          illustrations by Zoe Hermsen</p>
+					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 5_Mauve Overlay.png" alt="">
+					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 6_Mauve Overlay.png" alt="">
+					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 7_Pink Overlay.png" alt="">
+
 				 </div>
 				<div class="slide" id="cloudberry">
-					<p>CLOUDBERRY</p>
-					<p>by Callan Latham<br>illustration by Mollie Phalen</p>
+					<div style="position: absolute; ">
+					<p style="font-family: 'futura', sans-serif; font-weight: bold;font-size: 40px;">CLOUDBERRY</p>
+					<p>by Callan Latham          illustration by Mollie Phalen</p>
+					 </div>
 					<div style="right: 20px; bottom:50px;position:absolute;">
 						<p class="cloudberry-text"><nobr>
 						<br>
@@ -1166,26 +1199,30 @@
 					 	<!-- <img class="full-image" style="position: absolute;"  src="assets/images/Goldfish/Pottebaum - Goldfish.png" alt=""> -->
 				 </div>
 				<div class="slide" id="being-woman">
+					<p style="font-family: 'lust display',serif;font-size: 50px; color: red;">BEING</p>
+					<p style="font-family: sans-serif;font-size: 50px;color: #f9a826;">woman</p>
 					<p>by Gabby Estlund</p>
 					<div class="artist-caption">
 						<p class="woman-body">For so long, my identity as a woman was dictated by others. Though I recognized this early in my life, I never confronted it. I created this project to examine how easily I fall into a habit of comparing myself to the unattainable ideals of womanhood in nearly every realm of pop culture. In this way, I began to explore the bearings that culture has on the individual woman's self-perception, and specifically my own. While each narrative is unique, the overarching experience of being scrutinized remains. Advertising several decades ago boasted blatant sexism toward women, and though it may not be as direct today, it is far from eradicated. Setting scenes from the 1950s and ‘60s is a reminder that remnants from the past persist; women live in a present continually shaped by what came before now. </p>
 					</div>
-					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman1.jpg" alt="">
-					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman2.jpg" alt="">
-					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman3.jpg" alt="">
-					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman4.jpg" alt="">
-					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman5.jpg" alt="">
-					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman6.jpg" alt="">
-					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman7.jpg" alt="">
-					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman8.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman1.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman2.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman3.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman4.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman5.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman6--Small.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman7--Small.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman8--Small.jpg" alt="">
 				 </div>
 				<div class="slide" id="white-continent">
-					<button class="btn" data-toggle="modal" data-target="#modal-continent">The White Continent</button>
+					<img class="small-image" style="transform: ScaleX(-1);position:absolute; bottom:0px;left:0px;z-index: 10;" src="assets/images/White Continent/Hall-Continent.png" alt="">
+					<button class="btn" style="margin:30vh auto;color :#f9a826; font-family: 'lust display', serif;" data-toggle="modal" data-target="#modal-continent">The White<br>Continent</button>
 					<p>by Lauren Arzbaecher<br>illustration by Cailin Hall</p>
-					<img class="small-image" src="assets/images/White Continent/Arzbaecher-Continent.JPG" alt="">
-					<img class="small-image" src="assets/images/White Continent/Hall-Continent.png" alt="">
-					<img class="small-image" src="assets/images/White Continent/Hall-Continent2.png" alt="">
-					<img class="small-image" src="assets/images/White Continent/Hall_Arzbaecher.png" alt="">
+					<div style="height: 90vh; width: 50vw;margin:5vh auto auto auto;overflow:hidden;position:absolute;">
+						<img class="full-image" src="assets/images/White Continent/Arzbaecher-Continent.JPG" alt="">
+					</div>
+					
+					<img class="small-image"style="position:absolute; bottom:0px;right:0px;" src="assets/images/White Continent/Hall-Continent2.png" alt="">
 				 </div>
 				<div class="slide" id="ground-control">
 					<p>by AV</p>
@@ -1240,4 +1277,4 @@
 			</div>
 		</div>
 	 </body>
-</html>
+</html> 

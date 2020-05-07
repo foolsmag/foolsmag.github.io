@@ -9,7 +9,9 @@
 	z-index: 9999;
 	background: url('assets/images/WhiteLogo2.gif') center no-repeat black;
  }
-
+a{
+	color: #ba0029;
+}
 
 body{
 	margin: 0;
@@ -41,12 +43,15 @@ hr{
 .toc-link:visited{
 	color: #ba0029;
 }
+.toc-link:active{
+	color: #ba0029;
+}
 
 #home{
 	background-color: #e8e8e0;
 	/* background: url('assets/images/Estlund - Becoming Woman/EDITCloth.png') center no-repeat; */
 	width: 100vw;
-	margin-right:0vh
+	margin-right:0vw;
  }
 
 #table-of-contents{
@@ -288,6 +293,7 @@ font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style:
  }
  .modal-title{
  	font-size: 25px;
+ 	margin-top: 20px;
  }
 .modal-content{
     -webkit-box-shadow: 0 5px 15px rgba(0,0,0,0);
