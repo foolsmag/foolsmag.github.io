@@ -1,0 +1,1313 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>VOLUME 8 EXPERIENCE</title>
+		<link rel="shortcut icon" href="assets/images/Copy-of-FoolsOfficialLogo_red.png"/>
+		<meta charset="utf-8" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+		<script src="scripts.js" ></script>
+		<script src="jquery-3.4.1.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="styles.css" />
+		<link rel="stylesheet" href="https://use.typekit.net/jab2nlf.css">
+	 </head>
+	<body>
+		<div class="se-pre-con"></div>
+		<div class="nav-button"><a href="#home">home</a></div>
+		
+
+		<!-- fix modal shadow top -->
+		<div class="modal fade" id="modal-lgs" 				tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Looking Glass Self</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+							<p class="lgs-text-two">Looking Glass Self</p>
+							<p class="lgs-body">You watch&nbsp;<span class="italic"> hairspray</span> &nbsp;on a sick-day, home from school, in the winter of 2007.&nbsp;</p><br>
+							<p  class="lgs-body">You hold an ice pack on your belly (under your shirt) because you think it will soothe the pain of the stomach flu that has kept you awake for nights on end. You have to reconcile with your measurements every time you grope at your own girth. You ache.</p><br>
+							<p  class="lgs-body">You hate being sick.&nbsp;</p><br>
+							<p  class="lgs-body">You hate going to school (perceived, judged) just as much&nbsp;</p><br>
+							<p  class="lgs-body">You get over the stomach flu and go back to school.&nbsp;</p><br>
+							<p  class="lgs-body">You wish you were like Tracy Turnblad.</p><br>
+							<p class="lgs-body"><br></p>
+							<p  class="lgs-body">You have a complicated relationship with musicals (with performing, with enjoying)</p><br>
+							<p  class="lgs-body">You try out for shows (and are rejected).</p><br>
+							<p  class="lgs-body">You crave attention (spotlight, speaking role, significant). You crave validation and a stage whereupon you are important, you are valued (because of? in spite of?) your ability to fill a role.</p><br>
+							<p class="lgs-body">( &nbsp;you certainly do fill space &nbsp;)</p><br>
+							<p class="lgs-body">You love to sing. You love singing. You fantasize about becoming a famous singer (complete with clich&eacute; talent-scouting trope). You do not hear music by Adele or Mary Lambert or Lizzo until after you have given up on (the idea of) becoming a singer.</p><br>
+							<p class="lgs-body">You try out for shows (at school and are cast as an extra)</p><br>
+							<p class="lgs-body">You think you would still be chasing such pursuits if only you had been encouraged.&nbsp;</p><br>
+							<p class="lgs-body">You think you would not have given up if you had gotten roles (speaking, singing).&nbsp;</p><br>
+							<p class="lgs-body">You wish your castmates invited you to the cast parties.</p><br>
+							<p class="lgs-body">You wish you could&rsquo;ve filled the one role that was (for once) tailored to fit you.</p><br>
+							<p class="lgs-body">You wish your high school performed&nbsp;<span class="italic"> hairspray</span>&nbsp;</p><br>
+							<p class=”lgs-body”><br></p>
+							<p class="lgs-body">You see yourself, your fat body, in Tracy Turnblad unlike how you see yourself in a mirror.&nbsp;</p><br>
+							<p class="lgs-body">She wakes up singing and you latch onto her charisma wondering how she does it; how she can so unabashedly love herself because of (not in spite of) all the things for which she is so viciously scrutinized. Big. Fat. Loud. Desired. Passionate. Driven. Optimistic. Confident. Proud, in a way you are not allowed to be (by your mother, by a fatphobic society whose standards have permeated your perception of your own body).</p><br>
+							<p class="lgs-body">You crave a proud fat existence.</p><br>
+							<p class="lgs-body">You see yourself in Tracy Turnblad&mdash;but not herself in you&mdash;when your mother makes you try on clothes that don&rsquo;t fit</p><br>
+							<p class="lgs-body">(size, gender)</p><br>
+							<p class="lgs-body">because (you know) she wishes you were thinner</p><br>
+							<p class="lgs-body">You look at yourself&nbsp;</p><br>
+							<p class="lgs-body">in fitting room mirrors</p><br>
+							<p class="lgs-body">in bathroom mirrors</p><br>
+							<p class="lgs-body">in window reflections</p><br>
+							<p class="lgs-body">You see yourself,</p><br>
+							<p class="lgs-body">not Tracy Turnblad.<br></p>
+							
+							<p class="lgs-body">She pulls it off, somehow, in the fantasy world of&nbsp; <span class="italic"> hairspray</span></p>
+							<p class="lgs-body">Tracy Turnblad is cast on a TV show</p>
+							<p class="lgs-body">Tracy Turnblad makes people think differently about fatness, about fat bodies.</p>
+							<p class="lgs-body">Tracy Turnblad is endorsed by a plus-sized clothing line</p>
+							<p class="lgs-body">You wonder, again, how she does it.</p>
+							<p class="lgs-body"> <br></p>
+							<p class="lgs-body">You wish you were thinner.&nbsp;</p>
+							<p class="lgs-body">You wish you were easier to clothe (love).</p>
+							<p class="lgs-body">You feel like a burden (and you wish you were not so heavy).</p>
+							<p class="lgs-body"><br></p>
+							<p class="lgs-body">You enter 7th grade in 2009 and start binding your body (first with belts, then with a</p>
+							<p class="lgs-body">girdle). Your mother gets one for you from WalMart (where she bought her own) and encourages you to wear it to make your clothes look nicer when they adorn your body.&nbsp;</p>
+							<p class="lgs-body">You feel like a doll; dressed by others, for the consumption and entertainment of others.</p>
+							<p class="lgs-body">You wish you could open yourself up, remove the excess stuffing, and sew yourself closed.&nbsp;</p>
+							<br>
+							<p class="lgs-body">You are performing femininity and (you still assume yourself to be a cis girl) you wish your mother was like Edna Turnblad; you wish your mother was as queer as you (if not queerer), as big as you (if not bigger), played by Divine the drag queen.</p>
+							<p class="lgs-body">You wish, so desperately, that your mother could be like Edna Turnblad. You wish she didn&rsquo;t assign a moral judgement to every crumb you ate or the amount of exercise you partook in. Edna Turnblad, the supportive and full-figured mother, never let anyone disrespect Tracy. Edna protected her daughter and opened her mind to the possibility of change. Compared to your mother, Edna was more accepting. Why can&rsquo;t your mother be like that?</p>
+							<p class="lgs-body">Why isn&rsquo;t Tracy Turnblad enough?</p>
+							<p class="lgs-body">Why are you not empowered by virtue of her existence?</p>
+							<p class="lgs-body">and where is your &ldquo;(hey mama) Welcome to the &lsquo;60s&rdquo; moment;&nbsp;</p>
+							<p class="lgs-body">if only to convince your average-sized mother to accept your plus-sized body?&nbsp;</p>
+							<p class="lgs-body">(stop micromanaging, stop portion-controlling her ex-daughter)</p>
+							<p class=”lgs-body”><br></p>
+							<p class="lgs-body">You wish your mother were like Edna Turnblad.</p>
+							<p class="lgs-body">You wish she didn&rsquo;t call you &ldquo;pig&rdquo; when you ate (once)&nbsp;</p>
+							<p class="lgs-body">(and once is all it takes)</p>
+							<p class=”lgs-body”><br></p>
+							<p class="lgs-body">&ldquo;You could stand to lose some weight.&rdquo;&nbsp;</p>
+							<p class="lgs-body">Stand. Keep standing, keep standing until you lose it.&nbsp;</p>
+							<p class="lgs-body">Walk, run, try harder in gym class. &ldquo;Get off your fat, lazy ass and&nbsp;</p>
+							<p class="lgs-text lgs-body">keep standing until you lose it.&rdquo;</p>
+							<p class="lgs-text lgs-body">You don&rsquo;t lose the weight, you lose something else entirely.</p>
+							<br>
+							<p  class="lgs-text lgs-body">You enter 11th grade in 2013 and start binding your chest. Your mother remarks on how much thinner you look when you do. You (and your fat body) have a complicated relationship with gender. You wore men&rsquo;s clothes when women&rsquo;s clothes didn&rsquo;t fit you (and you liked them better). Men&rsquo;s Big &amp; Tall was always cheaper than Women&rsquo;s Plus Sizes.&nbsp;</p>
+							<p class="lgs-text lgs-body">You grow into queer identity so comfortably before you learn just how inescapable fatphobia is. The only pictures of trans bodies you see online, being lauded, praised, or supported, are thin; their trans bodies don&rsquo;t pucker at the armpits when they bind their chests. You compare your trans body to theirs many times before you are able to talk yourself down from self-hatred.</p>
+							<p class=lgs-body><br></p>
+							<p class="lgs-text lgs-body">You find that it is very hard to be queer and fat.</p>
+							<p  class="lgs-text lgs-body">You find that it is difficult to be proud of yourself in general.</p>
+							<p  class="lgs-text lgs-body">You start taking testosterone in the fall of 2017.&nbsp;</p>
+							<p class="lgs-text lgs-body">You have mixed feelings about taking it. Your hips and breasts shrink a little; the endocrinologist tells you to expect your body fat to &lsquo;shift&rsquo; (which it does) from your hips and breasts to your gut. You learn that many other trans people find it easier to lose weight once they&rsquo;ve started taking testosterone (their metabolic rate increases, they find it easier to gain muscle mass, and they are already thin to begin with). You hope the same happens for you.&nbsp;</p>
+							<p class="lgs-text lgs-body">You start working out, a little at first, and then to excess. You diet (restrict, restrain) yourself and, when the weight just won&rsquo;t come off, you think it may be time to try accepting your body the way it is. You try and succeed, somewhat, in gaining a feeling of body neutrality. You almost begin to love yourself.</p>
+							<p class="lgs-text lgs-body">You take testosterone for two years before pursuing top surgery. You go to your consultation and your surgeon says &ldquo;you might benefit from dropping a few pounds&rdquo; and you say &ldquo;I don&rsquo;t care about my size.&rdquo; You were telling only half of the truth. You keep your mind occupied and steer it away from the impulse to restrict your food intake, to regiment your exercise. You bide your time until your surgery date. You know it will only be a matter of time before you feel euphoric in your body, before you can wear all the clothes in your closet that have never looked good with your breasts still attached. You are so excited.</p>
+							<p  class="lgs-text lgs-body">You are admitted for top surgery on January 2nd, 2020.&nbsp;</p>
+							<p class="lgs-text lgs-body">You love how your clothes fit you (after you recover enough to try them on). In celebrating the new shape of your body, you wonder if you are betraying your desires for a proudly fat existence. On January 3rd, 2020, your surgeon diagnoses you with morbid obesity and you only find out because you are looking through your patient information online.&nbsp;</p>
+							<p class="lgs-text lgs-body">You wish he hadn&rsquo;t done that.</p>
+							<p class=”lgs-body”><br></p>
+							<p class="lgs-text lgs-body">You feel proud of how tolerable your fat body has become. It is easier to be body-neutral (as opposed to body positive) now that your boobs are no longer staring back at you in the mirror each time you gaze at your reflection. You still suck in your gut for hours and hours at a time in a fruitless attempt to lose weight. You still believe the lies your mother used to tell you about how it would &ldquo;burn calories&rdquo; to breathe from your stomach.&nbsp;</p>
+							<p class="lgs-text lgs-body">You look at yourself wearing button-down shirts, you and your flat-chested body, and each time you feel at ease inside your skin, it only makes you feel like it could be better;&nbsp;</p>
+							<p class=”lgs-body”><br></p>
+							<p  class="lgs-text lgs-body">You could be so much thinner, so much thinner and you can&rsquo;t stop the yearning, you can&rsquo;t stop yourself from desiring thinness.</p>
+							<p class=lgs-body”><br></p>
+							<p  class="lgs-text lgs-body">You cannot escape the confines of mirrors.</p>
+							<hr>
+					 </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<div class="modal fade" id="modal-jt"				tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Interview with Jia Tolentino</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+							<p dir="ltr" class="tolentino-body">I heard Jia Tolentino before she entered the room&ndash;her black boots clipping against the wooden floor in the back of the Dey House, home of the Iowa Writers&rsquo; Workshop. The 31-year-old journalist for&nbsp;<span class="italic”>The New Yorker&nbsp;<span class=".tolentino-body”>and best-selling author of&nbsp;</span><span class="italic">Trick Mirror: Reflections on Self-Delusion</span><span class="tolentino-body">, was this semester&rsquo;s Visiting Writer-in-Residence of the Magid Center for Undergraduate Writing. Her essays span from losing religion in the Houston megachurch community in which she was raised to how she combats, and is complicit in, &ldquo;optimization&rdquo; &ndash; from Sweetgreen to Barre class, she maps her commute through capitalism. No topic is out of range for Tolentino; her beat is far and wide, the only specification being: she&rsquo;s at the point in her career where she can write about whatever she wants.</span></p>
+							<p dir="ltr" class="tolentino-body">Just as confidently as she does with her writing, Tolentino made the large, open library of our meeting into a home quickly, brewing herself a cup of tea with the communal equipment at the back of the room I hadn&rsquo;t been courageous enough to touch in my four years at university. She took the seat across from me, spreading out her many totes and casting off her leopard-print jacket as the water for her tea warmed.</p>
+							<p dir="ltr" class="tolentino-body">I struggled to find the words for how to introduce myself, now that she was sitting in front of me, offering to make an extra cup. I graciously declined and busied collecting myself for our discussion. Tolentino is just a decade older than me, but I felt infinitely warmer and wiser just by being in her presence.</p>
+							<p dir="ltr" class="tolentino-body">Despite writing about herself often in her essays, the world knows very little about Tolentino. Within&nbsp;<span class="italic">Trick Mirror</span><span class="tolentino-body">, she carefully and specifically uses her own experiences to criticize &ldquo;irresolvable conflicts between desire and precedent or between one system and another and escalation.&rdquo; This image projects only a small portion of how she sees herself, and yet qualitatively, all her &ldquo;confident and happy and stupid&rdquo; self. She refuses to take herself too seriously. She doesn&rsquo;t see herself as the &ldquo;next great Joan Didion&rdquo; that some critics have raved her to be, and yet, this separation&ndash;humility, maybe&ndash;makes Tolentino&rsquo;s writings all the more desirable to her readers.</span></p>
+							<p dir="ltr" class="tolentino-body">After writing about the commodification of her identity, Tolentino&rsquo;s personality has, strangely, been commodified by her readers and the industry itself. As a millennial woman, she engages naturally but selectively with her profile. She schedules her social media presence: every three days for Twitter and every two weeks for Instagram for her some-collective-200K followers.</p>
+							<p dir="ltr" class="tolentino-body">Because of this relationship Tolentino has with the economy of her online presence, she seeks to be as honest as possible with her readers. The image they create from reading her work, while often a trick mirror for themselves, is also not that different from who she is. She shares how she was met with anxious hands, passing her their book to sign, and for some, tears blurring vision. Readers have iconicized Tolentino, while also holding her as a close friend; meeting her is a reunion</p>
+							<p dir="ltr" class="tolentino-body">&ldquo;I think it&rsquo;s really easy, because of things I&rsquo;ve done of my own volition, for people that don&rsquo;t know me to feel like they know me very well. I had a bit of a freak out about that, and I was like&nbsp;<span class="italic">wait</span><span class="tolentino-body">&ndash;but then I got over my freak-out, and I was like <span class="italic">okay, whatever. The person that they think they know is actually, unfortunately, you. There&rsquo;s not really a difference.</span> <span class="tolentino-body">And for some reason, realizing that made that feel less weird&ndash;and made it feel weird in a tight way, that someone could think of me as someone they know.&rdquo;</span></p>
+							<p dir="ltr" class="tolentino-body">When she first set out to put this collection together&ndash;and as is generally true of her writing&ndash;Tolentino didn&rsquo;t often think of her readers. Despite being a staff writer for&nbsp;<span class="italic">The New Yorker&nbsp;</span><span class="tolentino-body">and a popular internet writer, she had no notion of how popular her book would become. For Tolentino, appealing to an audience or even anticipating one is an act of self-consciousness. &nbsp;</span></p>
+							<p dir="ltr" class="tolentino-body">&quotI feel like self-consciousness is such a disaster. We&rsquo;re all self-conscious to some degree, you know, and probably, subconsciously I&rsquo;m much more self-conscious than other people, but I&rsquo;ve always thought that to think about your audience too much is to play a losing game. In everything I write, I do hope to make something clearer for people who read it. That&rsquo;s the best&ndash;and all I can hope for. That&rsquo;s what writing does for me: when something&rsquo;s knotted together in my mind and confusing, by the time I&rsquo;m done writing, it&rsquo;s clearer. And hopefully, that&rsquo;s what someone who reads it takes away.&rdquo;</p>
+							<p><br></p>
+							<p dir="ltr" class="tolentino-body">Still, Tolentino&rsquo;s work is rooted in the collective. Although told through her perspective, the concepts she explores&ndash;optimization, self-actualization, the looming terror of capitalism&ndash;are near-universal experiences. She&rsquo;s found, through the response to&nbsp;<span class="italic">Trick Mirror</span><span class="tolentino-body">, people are looking for real answers, something explicit. There&rsquo;s no individual response to any of these, no one way to solve the big questions of life, but Tolentino wants to give her readers a &ldquo;framework to puzzle things out for yourself.&rdquo; She can&rsquo;t provide the answers because she doesn&rsquo;t have them, but she can, and does, lay herself bare for her readers. Next, Tolentino is learning how to write more for them, intentionally dissecting her audience while tilting their view on what it means to be oneself.</span></p>
+							<p dir="ltr" class="tolentino-body">Tolentino shared stories of meeting these unanticipated readers&ndash;many, fans&ndash;on book tour and on other college campuses. She discovered these readers were already ready to give her what she was trying to give them:&nbsp;</span><span class="italic">I&rsquo;m really fucked up about this one thing, and I need to talk about it.</span><span class="tolentino-body">&nbsp;Tolentino&rsquo;s work, now, feels almost unprecedented in its ability to ignite a fiery, viral discussion. Her stories, despite being intimately personal, adapted a sort of universality as her book gained popularity. Tolentino attempted to put together what about the collection, her work, created that; &ldquo;part of it is that whoever comes through is pretty close to the actual me, as close as I can render it, and I think there&rsquo;s some version of honesty in that. I don&rsquo;t know&ndash;I think I&rsquo;m very obviously just a person trying to figure shit out, who I think maybe a lot of people can relate to&ndash;and I hate the lens of relatability, but I&rsquo;m someone who is continually just trying their best in public with very obvious weak points and deficiencies and culpabilities and flaws&ndash;but also with steady effort. I don&rsquo;t know. When I think about the question, I feel a sort of impermeable cloud of&nbsp;</span><span class="italic">you can&rsquo;t know</span><span class="tolentino-body">.&rdquo;</span></p>
+							<p dir="ltr" class="tolentino-body">Despite trying to work through these complex issues of time and identity, Tolentino doesn&rsquo;t like to think about the future. She wants to exist in the present as much as possible, making individual decisions to give herself and her community freedom in these systems that work to confine people as much as possible, while still recognizing the power of collective engagement.</p>
+							<p dir="ltr" class="tolentino-body">&ldquo;I think I wrote this book to hammer home, at a cellular level for myself, that there are no individual solutions to these problems&hellip; it&rsquo;s hard for my brain to understand the degree to which individual effort is both crucial and fucking useless. I think our brains, neoliberalism, get us to think we can figure our own way out, but we absolutely can&rsquo;t. There&rsquo;s no individual way out of anything, and I think, weirdly, that sort of vastness of scale also helps me think about the ways in which my individual actions do matter.&rdquo;</span></p>
+							<p><br></p>
+							<p dir="ltr" class="tolentino-body">When we take this advice of Tolentino, using each decision as an opportunity to step away from capitalist obligation and into those of love and care, we enter this conversation Tolentino&rsquo;s writing primes for us.</p>
+							<p><br></p>
+							<p dir="ltr" class="tolentino-body">She continues, &ldquo;I often think, in terms of the earth&rsquo;s time, we&rsquo;re one breath and we&rsquo;re not even alive&ndash;and I find that really galvanizing. I find the prospect of meaninglessness to be incredibly invigorating, and it makes me want to do more things, because it doesn&rsquo;t matter anyway. You might as well do shit. I still feel that feeling I wrote about in the intro [to&nbsp;<span class="italic">Trick Mirror</span><span class="tolentino-body">]: that I&rsquo;ll never feel sure about anything again. But I think that&rsquo;s just how my brain&rsquo;s going to be: just unsure.&rdquo; &nbsp; &nbsp; &nbsp;</span></p>
+							<p dir="ltr" class="tolentino-body">Tolentino and her work offer a sounding board onto which we&rsquo;ve learnt to cast our own thoughts and delusions to better understand ourselves. We&rsquo;re all thinking about the same things all the time&ndash;and instead of offering the world answers, Tolentino gives us a new pathway to consider how the world works. On the future, she remarks, &ldquo;it&rsquo;s sort of a delusional response to feel sure or clear.&rdquo; Instead, her essays explore and reflect the universality of nihilism and, oppositely, earnest attention in this moment and time. Although she doesn&rsquo;t foresee writing a book anytime soon, Tolentino&rsquo;s work can still be found regularly in&nbsp;<span class="italic">The New Yorker.</span></p>
+							<hr>
+					</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<!-- <div class="modal fade" id="modal-exit" 			tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">[exit poem so in the mouth]</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<!-- <div class="modal fade" id="modal-mirrors" 			tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">mirrors were the original soul stealers</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<div class="modal fade" id="modal-ismee" 			tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Ismee</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+			  	        		<p dir="ltr" class="italic ismee-body">Ismee</p>
+			  	        		<p dir="ltr" class="ismee-body">The only other <span class="italic">Rana</span> I&rsquo;ve met was from my father&rsquo;s village.
+
+			  	        		One year older than I. The daughter of an uneducated falahee,
+			  	        		or farmer.
+
+			  	        		I met her when I was 17. She was 18 and engaged.
+
+			  	        		She reminded me of a flickering lightbulb, desperate to bring light in fear of the imminent darkness.
+
+			  	        		How much I envied her.
+
+			  	        		~
+
+			  	        		As a young girl, I grieved a life unlived. A life unspoken, yet vaguely heard between the forceful, international phone calls and faintly witnessed between the detached visits to my extended family. While my parents straddled the line between then and now, I sought refuge on paper.
+
+			  	        		I watched tentatively as my  words took form. They were unyielding. Peppering at my pre-adolescent shield until I knew better than to deflect.
+
+			  	        		I learned to embrace my words. I found comfort in them while I hid from a country I had abandoned. A country my parents had forsaken long before I was born. And one that could not seem to make room for me when I would return.
+			  	        		
+			  	        		With each visit, the remnants of an unlived life hung over my shoulders. Taunting me. Haunting me.
+
+			  	        		I did not recognize this country that had birthed me, yet felt the sting from its sharp rejection.
+
+			  	        		I quickly grew to despise my nickname.
+
+			  	        		 El Amrikeya .
+
+			  	        		The American.
+
+			  	        		My extended family repeated it with a mix of reverence and envy. 
+			  	        		Of remorse and awe.
+
+			  	        		To leave Egypt, or Masr was no small feat and to return to it was 
+			  	        		larger still.
+
+			  	        		It seems everywhere I went, people would become mirrors. 
+			  	        		Reflecting my appearance and deflecting my allegiance.
+
+			  	        		For once, I wished to be called for what I was. What I am.
+
+			  	        		 Masreya 
+
+			  	        		Egyptian.
+
+			  	        		~
+
+			  	        		Even continents apart, Rana served to tether me to my origins.
+
+			  	        		Regardless of how far I separated myself, I was inextricably linked. Unable to stray too far without circling back to her. Without circling back to Masr \
+			  	        		Through it all, she remained consistent and unchanged, in stark contrast to the ceaseless state of development that Masr class="ismee-body">was undergoing.
+			  	        		With each visit, Masr shed the crumb of familiarity from our previous encounter. Resolute in its objective of casting me out further.
+
+			  	        		Determined to be inaccessible. Impenetrable. Foreign.
+
+			  	        		Each visit represented a different manifestation of Masr . I never met the same country twice. I welcomed each version apprehensively as I arrived and grieved them behind the screens of my mind as I departed it.
+
+			  	        		I grieved the country and the girl I had become in its company, albeit for a short time. A girl who welcomed the frenzy commotion of the haggling of prices and surrendered to goulash and the intoxicating waft of gasoline. Who preferred a hmar over standard automobiles. Who proudly bore the Arab pronunciation of her name. Who fashioned mud castles from the side of the road after a downpour. One who did not retreat from the sun&rsquo;s kiss as her feet sank in the feverish sand.
+
+			  	        		One who did not question her worth.
+
+			  	        		Or her place.
+
+			  	        		~
+
+			  	        		When I initially met Rana , I did not see her as my extended family&rsquo;s domestic help.
+
+			  	        		I saw a girl leaking with identity. Leaking with an assurance that I lacked.
+
+			  	        		She wore that look well.
+
+			  	        		Her clarity burned through me with an unforgiving nature. To be only as you are rather than a dynamic composite where you are neither. That was all I wanted. That was all she had.
+
+			  	        		She saw a girl leaking with privilege. One who wore the face of defiance. It was a face reserved only for the entitled and the indulged. To want more than you were given was a desire Rana could not afford.
+
+			  	        		Yet, it suited me.
+
+			  	        		My ingratitude must&rsquo;ve scorched through her and stained her drooping, overworked frame. It must&rsquo;ve been another rebuke of her status and a reminder of my own.
+
+			  	        		That same night, while I fantasized about a time where I did not stumble over my Arabic tongue, where I could place the stories my grandparents recalled of my childhood mishaps, where I exchanged expletives and devoured sudanee on the streets, where I wore the hijab , where I recognized the Egyptian land and monuments as my own, Rana was married off to a stranger.
+
+			  	        		~
+
+			  	        		I distinctly remember voicing my envy to Rana . My namesake. Ismee.
+
+			  	        		She had just returned from bringing the produce my grandma had requested from the market. It was unceasingly hot that day. An impressive 109 in June. Even the sky revolted against the Sun by trying to entice the clouds.
+
+			  	        		All in vain.
+
+			  	        		My paternal grandparents&rsquo; house did not have air conditioning then. Just a fan that solely served to move hot air around. My cousins and brother and I would take turns opening the freezer and sticking our heads in when my aunt gave us her back. We risked her reprimands and the preservation of the meat all for an instance of cool air. When that lost its appeal, we all fought for our turn in the restroom with the bucket of water that was our shower head. Even lukewarm water was preferable to the sweat coating our skin.
+
+			  	        		Sometimes, when we got reckless, we would go out on our third-floor veranda and pelt the passing by-standers with whatever we could get our hands on. Orange peels. Peanut shells. Whoever had the best aim would win. Often the reward was shaped in a good smack. Battle scars, we called it. At times, we even splashed water on the streets. The kids outside would run up to the water and cup it with their hands, eager to drink.
+
+			  	        		To us, this was nothing but harmless fun. To the kids on the street, it was probably the only clean water they had to drink.
+
+			  	        		That day, privilege was dictated by who could afford to bask in the shade. My cousins and I tossed time away while Rana and other hired help, exposed, tempted fate out in the Sun.
+
+			  	        		A sun that feeds on the hungry and thirsty.
+
+			  	        		During mid-afternoon, Rana entered our home with the unforgiving Sun&rsquo;s blemish on her skin. It was as if she was covered in soot.
+
+			  	        		Her beige clothes were now a permanent brown.
+
+			  	        		My hair was still wet from my shower. I was wearing Egyptian cotton from Cairo.
+
+			  	        		Still, we envied her. I envied her.
+
+			  	        		While we exchanged sweat in this hot room, she was allowed to wander the streets, unaccompanied. Especially as a woman. I wasn&rsquo;t allowed to bask outside our front door, let alone mark the muddy road. It wasn&rsquo;t proper. I wasn&rsquo;t familiar with the roads of this town and my clothes and accent exposed me as I was: a foreigner disguised as a local. One worthy of a pickpocket and catcalls.
+
+			  	        		Another reminder of how my roots had denounced me.
+
+			  	        		Haggler and all, Rana&rsquo;s pocket betrayed the extra change that remained from her trip in the market. As she handed the extra money to Teta class="ismee-body">, my grandma, which she promptly refused, Rana shared the accounts of her day. Riding the tok-tok to the market. Bargaining with the men. Adding new expletives to her library.
+
+			  	        		I was captivated.
+
+			  	        		While doing so, she was mindful to cover up the sunburns on her nape by unfolding her collar and her cracked lips by repeatedly coating them with a fresh coat of saliva. Her whole mouth looked inflamed up close.
+
+			  	        		However, I didn&rsquo;t fixate on that. Or her grimy nails. Her depleted eyes. Her bleeding heel.
+
+			  	        		Her forged energy did not match her appearance. Rana held the firm security of being nothing more than expected. She did not have to conform. She did not have to question. She was defined by an identity that served to self-assure and to impede.
+
+			  	        		I was constrained by my lack of restrictions.
+
+			  	        		To be too much, I risked not being anything at all.
+
+			  	        		I expressed this to her, while complaining about my day. How monotonous it was. Mundane compared to hers. She listened, attentively, and I divulged further. I complained to her about the life my family had chosen for me. The life they had stolen from me.
+
+			  	        		Immediately, I watched her undress the composure she had so painstakingly worn all these years. Her words were suddenly filled with a malice that struck my face with the force of a thousand blows.
+			  	        		&ldquo;Foolish girl, this is the life they spared you from.&rdquo;
+
+			  	        		~
+
+			  	        		When I met Rana &rsquo;s mom, I remember thinking she looked like a hardened version of her daughter. Every angle of her face was sharper. I used to think that her eyes could cut.
+
+			  	        		I tried making casual talk as she waited for Teta to get her wallet. I asked about Rana&rsquo;s wedding. The planning and the festivities. The goodbyes.
+
+			  	        		My words barely registered on her face.
+
+			  	        		Surely, she would miss her daughter, I asked.
+
+			  	        		&ldquo;One less mouth to feed,&rdquo; she replied.</p><hr>
+
+
+			  	        	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<!-- <div class="modal fade" id="modal-prospect" 		tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+					<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Prospect, PA</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<div class="modal fade" id="modal-tokarski" 		tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Allie Tokarski</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+						<p class="tokarski-body">My work is a practice of poking at the wound; I’m interested in pain and control. In particular, I focus on the subjective nature of reality, and the place that reality’s afterimages–dreams, memories–hold in the reconciliation between truth and emotion. </p>
+
+						<p class="tokarski-body">The paintings oscillate between legibility and abstraction, coherence and confusion. The work is representational but distorted, like a dream, featuring altered senses of space, time, and figure. As in memory, I amplify ostensibly minor details, giving them weight in their recall.</p>
+						 
+						<p class="tokarski-body">The body is an important subject in my work, acting as a vessel for the self and as a machine that actualizes abstract thoughts and emotions into actions and words. It is the vehicle through which we experience our world and the literal physical barrier between one person and the next. As such, it holds the record, keeps the score, acts as history corporeal; dissecting, examining, and reassembling is my way of making sense of it. </p>
+						 
+						<p class="tokarski-body">As the work progresses materially, it becomes a body in its own right, its unique history accumulating with each action I take against it. In replicating the visual cues of dreams and memories, the art object becomes a relic—the combination of material history and visual narrative both suspends and sanctifies specific moments in time, creating a space for reflection on both the past and the future.
+						</p><hr>
+					</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<!-- <div class="modal fade" id="modal-ddg" 				tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">"bad habits or addiction"</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<div class="modal fade" id="modal-foundations" 		tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Foundations</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+						<p dir="ltr" class="foundations-body">Foundations</p>
+						<p dir="ltr" class="foundations-body">I remember the idea first being proposed.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">&ldquo;We should do shrooms.&rdquo;</p>
+						<p dir="ltr" class="foundations-body">&nbsp;My heart raced and I felt like I had just been given something that I had been waiting a long time for, even though I didn&rsquo;t know I&rsquo;d been waiting at all.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">In the summer of 2016, I was 17 and happy to have completed my junior year of high school. A friend group where I actually felt loved, appreciated, and accepted had blossomed and it was a wonderful feeling to be surrounded by people I could truly be myself around. Something still didn&rsquo;t feel complete about me, though. It felt like restlessness at first, and I just brushed it off as early-onset senioritis, but it felt deeper than that. It was like super glue was holding my foundation together when it should have been cement. I needed something to really help solidify me.</p>
+						<p dir="ltr" class="foundations-body">For some reason, I never felt nervous about taking them, which was somewhat unsettling to me. Drugs are bad and shouldn&rsquo;t be taken so lightly, right? That didn&rsquo;t feel so true anymore. I felt calm and excited and maybe a little guilty, but not enough to keep me from doing it or regretting the decision. And so, one summer&rsquo;s day, my two friends Rylan and Bailey and I went down to the creek in our small hometown and took the shrooms.</p>
+						<p dir="ltr" class="foundations-body">About thirty minutes after taking them, Bailey&rsquo;s body broke out in a rash from the mushrooms, but she said she felt fine. We examined her body, looking at the little pink splotches that were popping up on her. At first, they just seemed a little off. Her skin was a little greener than skin should be and the splotches were pretty pink. Then they started to wiggle around a little bit, and we all giggled and pointed to our favorites as they really started to get funky.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">I looked down at my feet and the rocks were now moving around like an optical illusion. Rocks are so cool. Always changing, withering away to become something new. Hiding things inside of them that might not ever be seen if they&rsquo;re not split open. I dug my toes into them and watched as a swirl of space dust erupted from the planets my toes had just thrown out of orbit with a single wiggle.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">I smiled.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">My gaze shifted to my legs and I laughed. Swirls of kaleidoscope patterns were layered on top of my skin. I touched it and it was like feeling myself for the first time. My skin was so smooth and nice. The best part was that it was part of my body. I was fucking art. Beautiful, living, breathing, wonderful art and I was here sitting in this stream with two people who I loved!&nbsp;</p>
+						<p><br></p>
+						<p dir="ltr" class="foundations-body">I laughed and laughed and laughed because I was so happy. The kind of laughing that makes spit fly out of your mouth and makes your jaw begin to ache and your stomach hurt, but every time the giggles start to die down they explode out of you all over again. The kind of laughs that happen only when you&rsquo;re truly, genuinely enjoying something for everything that it is. I was making myself feel that way, and it was so relieving. Laughing felt like a way to release everything inside of me.</p>
+						<p dir="ltr" class="foundations-body">Bailey put her head in my lap and I started stroking her hair. I couldn&rsquo;t look at her face anymore because things were starting to get really weird. Her eyes were becoming disproportionate, the patterns on her face moving a little too much. It wasn&rsquo;t a bad thing. It just wasn&rsquo;t for me, ya know?</p>
+						<p dir="ltr" class="foundations-body">&ldquo;Who&rsquo;s supposed to take care of me?&rdquo; she asked.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">&ldquo;I&rsquo;ll take care of you,&rdquo; I said. And I meant it.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">Eventually, Rylan made her way to deeper waters and started swimming. She splashed and laughed and played and it made my heart so full to see her like that. Bailey went to a different rock to lay down. I glanced over at her and had to do a double take because, stick with me here, she kind of looked like a lizard. Her skin was still pretty green and the way she was laying on the rock just looked so lizard-like. It reminded me of that&nbsp; Planet Earth &nbsp;episode about the marine iguanas that sit on the jagged rocks and eat scum off the ocean floor. Bailey was like a hybrid version of those. Of course, I knew it was just Bailey and there&rsquo;s no way she was turning into a lizard. I didn&rsquo;t see an actual lizard. It was more like when you see something out of the corner of your eye that&rsquo;s just impossible, but for a split second, you&rsquo;re a little confused and have to remind yourself of what it actually was. It was that feeling, but just a bit more complex and harder to talk yourself out of.</p>
+						<p dir="ltr" class="foundations-body">I got up from my rock and walked back to land. I&rsquo;ve always been an Earth person. Water was too impulsive, Air just never felt that reliable, and Fire had a habit of consuming too much to ever make me feel safe around it. Earth, however, made me feel stable and strong.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">Everything seemed better being surrounded by shrubs and trees and life again. I sat in the green, soft grass to help truly ground myself. I brushed my fingers through it and felt the cool soil beneath me. It felt amazing, like hugging a friend you hadn&rsquo;t seen in years but still loved just the same. I thought about all of the organisms and worms and other little critters that lived their entire lives in the dirt, thanking them. I tried my best to radiate love into the ground for them all to feel.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">I wandered over to the tall grass and shrubs that were growing on the edge of the clearing. My kaleidoscope hands reached out and touched leaves. Friends! Some of the best friends I&rsquo;ll ever have.</p>
+						<p dir="ltr" class="foundations-body">Soft, spiky, hard, crunchy, velvet, rough, all wonderful and unique in their own ways. I talked to them. I laid down next to them and told them about my worries and whispered my fears to them and I knew that they wouldn&rsquo;t tell anyone else, not even the worms and bacteria and ground critters below them.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">&ldquo;I have to stop eating animals, don&rsquo;t I?&rdquo; I asked.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">You don&rsquo;t have to do anything.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">I talked to them about how I was realizing at that moment that my body was not me. My conscious being and my body lived together, but they weren&rsquo;t each other. My body was amazing and I needed to start treating it like so. It was where I slept and lived every day. I spent all of my time inside it. It brought me to new places and made me feel safe and protected. Its physical presence was something I could rely on at all times. It provided the hands I used to hold these leaves and the mouth I used to talk to them. If I wanted it to do a good job of housing my consciousness then I needed to start taking care of it. One of the first steps from that point was to stop ingesting other conscious being&rsquo;s bodies to fuel my own. That act of selfishness was killing every part of me.</p>
+						<p dir="ltr" class="foundations-body">When I thought about me, I meant the real essence of who and what I am. The thing that makes up my little quirks and wonders. The reason why I would sometimes get so overwhelmed with feelings for and from others that the only thing to do was seclude myself. It was what made me always try to do the right thing instead of the easy one. To see good in people and me before deciding we&rsquo;re all useless. The part of me that I&rsquo;m not sure how it came into existence, but I know it&rsquo;s stronger and more durable than cells and proteins. It&rsquo;s connected with everything around, including things I&rsquo;ve never come into contact with. Whether I envision it as a glowing, mystical mist that inhabits my body, or a little orb that floats, I know that our consciousness, our souls, are way too complex to be simplified into the form of human bodies.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">I looked up at the filtered sunlight that wavered and was tinged with a bit of purple through the trees, my psychedelic fingers playing with a dainty leaf above me.</p>
+						<p dir="ltr" class="foundations-body">I felt like my foundation was beginning to be held together by love, which made me feel stronger than a brick house held together by concrete.</p>
+						<p dir="ltr" class="foundations-body">&ldquo;My body&rsquo;s worth it,&rdquo; I whispered. &ldquo;I love myself.&rdquo;</p>
+						<p dir="ltr" class="foundations-body">As you should.&nbsp;</p>
+						<p dir="ltr" class="foundations-body">&ldquo;I love you.&rdquo;</p>
+						<p dir="ltr" class="foundations-body">As you should. The grass seemed a little softer.</p><hr>
+
+					</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<!-- <div class="modal fade" id="modal-feel-better" 		tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">It Will Feel Better When It Stops Hurting</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<!-- <div class="modal fade" id="modal-f-m" 				tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Father/Mother</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<div class="modal fade" id="modal-connections" 		tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Missed Connections</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+							<p dir="ltr" class=“missed-bold”> A Series of Missed Connections</p>
+							<p dir="ltr" class=”missed-body”>&nbsp; &nbsp;&nbsp; &ldquo;Missed Connections,&rdquo; while accessible to most, serves both as a vacancy and a message board. An underrepresented section of the popular Craigslist website, &ldquo;Missed Connections&rdquo; are meant to be what the name supposes: a place for people to reconnect when contact information was not exchanged in a moment or circumstances made it hard to follow up organically. If it sounds like a platitude extracted from a favored TV show or rom-com, then it&rsquo;s working. Drafted as the &ldquo;you-smiled-at-me-on-the-subway-platform&rdquo;, &ldquo;Missed Connections&rdquo; is meant for the idyllic rendezvous. And if one finds herself in that situation, there is a place under the &ldquo;Community&rdquo; tab, sandwiched between &ldquo;lost+found&rdquo; and &ldquo;musicians&rdquo;, where you can (anonymously) ask &ldquo;is anyone still looking for me?&rdquo; Albeit, an endearing gesture, there is something equally disturbing about communicating with a void of potential respondents.&nbsp;</p>
+							<p dir="ltr" class=“missed-body”> &nbsp; &nbsp;&nbsp;> &nbsp; &nbsp;&nbsp;>&nbsp; &nbsp;&nbsp;>&nbsp; &nbsp;&nbsp;>&nbsp; &nbsp;&nbsp;>&nbsp; &nbsp;&nbsp;</p>
+							<p dir="ltr" class="missed-body">In this new city, I&rsquo;m desperately looking for companionship. I wear lipstick every day, just to curve the corners up and slide my hands out slowly when collecting change from a very tall and ghostly pale cashier. Like a spell has been cast, he retracts his hands and mumbles his next few words. I move on, work in the corner, almost completely out of sight of the cash register and its bashful operator. But somehow, whenever the hair on my neck rises, I look from my computer to see he is cleaning or sweeping the same spot away from his post, gaze completely concentrated on my sector of the room. When I smile or wave with my fingers, his expression never changes, and I halt attempts to bring attention to myself, embarrassed I ever tried. So it goes for a few hours, first like a game, and then like a plague. When I pack up, he&rsquo;s cashing out another customer. I pause to dig the keys out of my bag and look back, certain there will be a pair of callous eyes staring back. The cashier is nowhere in sight. Apprehensive, I fall into the night, checking to see if there&rsquo;s anyone following until I reach my car door. Maybe I&rsquo;m just paranoid, but who is that lurking in the corner of the parking garage? What good is a spell if magic is so fallible. Maybe I need to be more selective with who I&rsquo;m seeking connection from.&nbsp;</p>
+							<p dir="ltr" class="missed-bold">missed connection:High Grounds at 5:00pm. Blonde with no bra and sweet lips. Be careful, there are a lot of weirdos out there Sweetie. I bet you&rsquo;d look good in red. See ya around.</p>
+							<p><br></p>
+							<p dir="ltr" class="missed-body">The late summer, as late as you can get, pretty much fall, but still driving with the windows down&mdash;summer&mdash;I&rsquo;m keeping pace with traffic in the left lane, thinking about how murders are correlated with ice cream sales, moderated by heat. The highway empties when a grey Silverado revs its engine, driver peeking through the window, a macabre smile and baseball cap trying to make eye contact. I pull forward, my foot falls towards the floor, and warm wind blows into my hair. The man in the Silverado keeps up and cuts me off only to slow down almost 10 mph. My temperature rises to match the summer fever, infuriated by these damn Iowa drivers. I swing into the right lane, get back up to speed, and eventually drift into the left lane when the grey pickup shrinks as the seconds between us grow. A few exits to go and a few mile markers behind me, just like the rampant truck now neck and neck with my sedan. Again its driver stares into my car, ear-to-ear in an affair of laughter. As is the flu&mdash;contagious&mdash; I feel my face stretch, throat vibrate, accompanied by a reprimanding head shake. I pull off on my exit, trembling, despite the sun bearing down on my driver&rsquo;s side window.</p>
+							<p dir="ltr" class="missed-bold"> missed connection: &nbsp;Driving on 218 South last Thursday around 2:15pm. I couldn&rsquo;t keep my eyes off of you. You&rsquo;re so beautiful I almost swerved off the road. I just wanted to get your attention. Please don&rsquo;t be mad. We should go out sometime. I&rsquo;ll drive.&nbsp;</p>
+							<p><br></p>
+							<p dir="ltr" class="missed-body">  &nbsp; &nbsp;&nbsp;It&rsquo;s a temporary damnation that the only person I know in this city hasn&rsquo;t talked to me in two years. I bet he hates it here. The front yards are almost non-existent, and the residential transformers are placed on the side of the houses or stuffed in bushes. It&rsquo;s a nightmare. I am strangled by thoughts driving home each night, thinking about how he could possibly make a life here. Incidentally, I learn the streets of the city (not that there are many) and places to eat. I fall in love with walking from the library to a grocery store to a coffee shop and then a gym. I start working, make friends, pick up a&nbsp; boyfriend, and stop looking for his face. My need to circle the Pedestrian Mall seven times in a trance fades to occasionally taking a long way home. Three months later, I&rsquo;m watching the sunset behind Old Capitol through the passenger side window when something obstructs my view. He stands at the corner like a shadow of the twilight. Two years estranged from laying across the electrical box in my front yard and all that&rsquo;s changed is the need to carry a messenger bag on his hip. What&rsquo;s missed is all the time between then and all the time since, and it almost kills me. Last I heard, he moved to Maine. </p>
+							<p dir="ltr" class="missed-bold">missed connection: &nbsp;Looking for a static woman with an electrical love. We spent so many nights letting the vibrations run beneath us before I walked you home. I&rsquo;m sorry I killed the power. Forgive me?</p>
+							
+							<p dir="ltr" class="missed-body">The issue with this void being its indeterminable size. At face value, there would be an expected hundreds or thousands of posts on &ldquo;Missed Connections&rdquo; in each city; however, the platform only serves those who are aware it exists, and then, each post is time-sensitive. Missed connections on the current Craigslist platform only last for around a month at a time. Even if a post is answered within the timeframe, there may be greater risk attached to the person seen for only a short moment in a commute, a coffee shop, or from way-back-when. &ldquo;Missed Connections&rdquo; may be less admirable for its ability to reconnect and more for the risk in meeting others without even a username to filter through. Not to mention the violation of one&rsquo;s choice to let imagination fill the gaps of what could have been. Which as far as voids go, is as good as any.</p><hr>
+					</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<div class="modal fade" id="modal-spaces" 			tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Spaces in Between</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+			  	        		<p dir="ltr">The Before, the After, and the Spaces In Between&nbsp;</p>
+			  	        		<p dir="ltr" class="basb-body">The fastest route from Iowa City to Laguna Beach, California is 1,806 miles. This is the trip you made 11 days after we started dating. To my dismay, you never came back. So it was my turn to make that trip. I went back and forth from home to you 12 times over 12 months before you decided to break things off between us. Not break off completely, just leave our relationship dangling in between a before and after.</p>
+			  	        		<p dir="ltr" class="basb-body">I was four, sitting outside the house I grew up in for the first eight years of my life. My best friend and I sat hesitantly underneath the pink canopy of the large magnolia tree in my front yard. My mom stood in front of us, her first digital camera pointed at the two of us. My friend and I sat an arm&rsquo;s-length apart, waiting for my mom to snap the photo so we could go back to playing with our dolls.&nbsp;<span class="italic">Scootch together,&nbsp;</span><span class="basb-body">my mom ordered, waving a hand to signal what we were supposed to do. My friend and I were scared of the bee buzzing between us. We shifted a few centimeters closer to each other, tight smiles on our faces, our eyes shifting back and forth from the bee to my mother&rsquo;s camera lens. She finally dropped her hand, giving up on closing the distance between us, and took the photo. I haven&rsquo;t seen the picture since that day.</span></p>
+			  	        		<p dir="ltr" class="basb-body">The first time I visited you in California I woke up in the middle of the night to your fingers running circles down my spine. The front yard light of the Airbnb we stayed in shone through the blinds right into my tired eyes. The slivers of yellow light fell over our bodies. Yours was curled to the shape of mine, but the only part of us that touched were your fingers on my back that closed the gap between us.</p>
+			  	        		<p dir="ltr" class="basb-body">Distance does not make anything grow fonder. It turns late nights into arguments over a cracked reception, a cracked voice, a crack splitting down the screen of my phone just to pull it from my face and see red. The silence that followed the fights were worse. It fills a room, a pair of lungs.&nbsp;<span class="italic">I hate you,&nbsp;</span><span class="basb-body">would feel better than an unanswered call.&nbsp;</span></p>
+			  	        		<p dir="ltr" class="basb-body">The Top of the World is only 300 meters above sea level. The only thing I could see from here was you and the pollution that hung over the million dollar homes. You told me the pollution dissipates when it rains. It rained the next day and every time after that weekend that I came to visit you. It became a joke between the two of us. We never said if it held any meaning.&nbsp;</p>
+			  	        		<p dir="ltr" class=.basb-body">The median value for a home in Laguna Beach is $2,141,100. You found your new home during our break. The apartment was 250 square feet, built in 1925, and tucked behind all of the million dollar homes that stayed vacant until the summer. You sent me a text in your 65 degree winter about how happy you were where you were. I texted back,&nbsp;<span class="italic">I&rsquo;m happy for you, too,&nbsp;</span><span class="basb-body">my fingers shaking as I typed the words because my radiator couldn&rsquo;t keep up with the subzero temperatures outside my window. You said&nbsp;</span><span class="italic">no you aren&rsquo;t</span><span class="basb-body">. Read:&nbsp;</span><span class="italic">You want me to suffer.</span><span class="basb-body">&nbsp;Part of me did. Part of me wanted you to know how an empty inbox feels, but the part of me that actually spoke left you alone.</span></p>
+			  	        		<p dir="ltr" class="basb-body">But gaps are only gaps because there is something before it and after it and you came back and it was good to feel wanted again. You needed me back because your future was too vague without me in it. During our break, the unknown of how your life would unfold without me loomed over you. It&rsquo;s the same way a bee bothers us. We never know if it will sting or fly away. Sometimes you have to be the one to decide your own fate.&nbsp;</p>
+			  	        		<p dir="ltr" class="basb-body">My childhood friend and I never closed that gap. We stayed the same distance apart until we were twenty years old. We were close enough friends to have someone to laugh with on the weekends, but we never became each other&rsquo;s shoulder to cry on. I found out about her heartbreak through other friends and she found out about my mental illness through the same means. We never addressed these issues. We were comfortable in the space we were in, we were too scared of what might happen if we shared any words that would change the friendship. We were too scared of the unknown. Too scared to touch the bee.&nbsp;</p>
+			  	        		<p dir="ltr" class="basb-body">We stood on an empty picnic table at the Top of The World and looked toward the sun setting in the west. It hung over the ocean that was burning between a gap in the mountains. My eyes watered looking at the crystals of light forcing themselves into my sight. Looking at that gap hurt. It brought tears to my eyes. Eventually, I had to look away.&nbsp;</p>
+			  	        		<p dir="ltr" class="basb-body">These gaps that I have often found so comfortable never really were that great. There was always something pushing me to move forward. A bee waiting for my next move. My friend and I tried to enjoy the space between us, but that space couldn&rsquo;t last forever. There were two options, grow closer or lose each other. We ended up falling into the latter.</p>
+			  	        		<p dir="ltr" class="basb-body">Now when you and I stand at the Top of the World after our break and after our coming back together it is spring. The vibrant green grass around us whips in the wind that comes off the Pacific and makes its way up to us. It carries the fragrance of the bright pink flowers that are meticulously planted throughout the beach city. You have to pee so you walk down an unoccupied path that sits 294 meters above sea level. When a biker tries to go down the same path as you I tell him it&rsquo;s closed because of the rain from earlier in the day and he bikes away in the other direction. You come back up to meet me at 300 meters and placed a kiss on my cheek that made me forget it rains every single time I come to visit you in Laguna Beach.&nbsp;</p>
+			  	        		<p dir="ltr" class="basb-body">You and I, we are constantly planning our future because neither one of us can stand the past and the future is thrilling to focus on. To settle in the space between the before and after is much too boring and once we are in that space it is already being stored as a memory to become a new before. Settling in between the gaps never really is an option.&nbsp;</p><hr>
+			  	        	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<div class="modal fade" id="modal-ledonne" 			tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Le Donne</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+			  	        		<p dir="ltr" class="tavola-body"><span class="italic">Tavola</span> &nbsp;starts as&nbsp; <span class="italic">Tavola</span>&nbsp;normally does, with Irene Lottini striding combat-boot tipped legs down third floor Phillips Hall, keys dangling from one hand, a cheerful chirp of&nbsp; <span class="italic">&ldquo;Ciao!&rdquo;</span>&nbsp;in the other, before she swings the doors to room 315 open for the half-scattered group of language learners gathered in the hall. I am one of them.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Once I&rsquo;ve pulled into my usual spot around the room&rsquo;s table&mdash; hence the reason it&rsquo;s called&nbsp; <span class="italic">Tavola Italiana,&nbsp; </span> literally meaning Italian Table &mdash; Irene smiles and shoots me a quick, &ldquo; <span class="italic">Come va ?</span>&rdquo; I give a shrug, a wince, and a tired &ldquo; <span class="italic">va.</span> &rdquo;&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Claudia Sartini-Rideout is the next to come in, dumping her bag on a chair next to Irene before scuttling to the microwave to make her lunch, shouting across the room as she goes.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I only catch a few verbs, but Irene is laughing and yelling back, voice booming over the table.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Then comes Katja Liimatta, then, five minutes later, Lucia Gemmani. By them Cinzia Blum is talking animatedly, breaking occasionally to repeat some of the harder sections to the&nbsp; <span class="italic">studenti. I lean forward to focus on what she&rsquo;s saying, my brain lagging every few words, and after a few minutes I have to sit back and shake my head, too overwhelmed.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&ldquo; <span class="italic">Cosa significa ragni?&rdquo;&nbsp; </span>I ask Lucia quickly, stumbling over the words, and she translates. It&rsquo;s &lsquo;spiders.&rsquo;&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&ldquo; <span class="italic">E scarafaggi?&rdquo;&nbsp; </span>Roaches. I look to where Claudia is speaking, grabbing her arms and making shuddering motions as she talks.</p>
+						<p dir="ltr" class="tavola-body">The conversation is about bugs, that I can figure out. The rest is mush in my head. I try to listen again, but nothing is making sense, and soon there&rsquo;s a stale kind of frustration bubbling under my forehead.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">There&rsquo;s countless women at this table, all strong and fluent, and I so desperately want to join them, to be able to sit somewhat level with them, but I catch and catch until my brain overloads, until it all shuts down, until all I&rsquo;m listening to is white, fuzzed noise.</p>
+						<p><br></p>
+						<p dir="ltr" class="tavola-body">There are two big facts that I know about myself: I&rsquo;m Italian-American, and I&rsquo;m gay.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I&rsquo;m fully aware that, as someone who identifies as queer, I don&rsquo;t really conventionally fit into the gay community, a place rightfully obsessed with labels. Queer is an umbrella term&nbsp; <span class="italic">and&nbsp; an identity, but when you rarely meet anyone who uses it like you do, it&rsquo;s hard to feel that sense of solidarity.</p>
+						<p dir="ltr" class="tavola-body">My Gay-Straight Alliance advisor thought I was an ally until I graduated, and my sister didn&rsquo;t know until I mentioned it on a call in college, three years after I &lsquo;came out.&rsquo; I&rsquo;ve been told I&rsquo;m the most &ldquo;staight looking gay anyone has ever seen,&rdquo; and I get that it&rsquo;s supposed to be a good thing, especially when dealing with homophobes, but it&rsquo;s still left a gap in my head between me and the overarching community.</p>
+						<p dir="ltr" class="tavola-body">I&rsquo;m here, under the giant queer umbrella, but everyone else is under their own little parasols. I deal with similar struggles <span class="tavola-body">&mdash; class="tavola-body">though I am <span class="italic">&nbsp; cis and white and lucky enough to have the privileges attributed to those identities </span>&mdash; but there&rsquo;s still this feeling of being outside something I&rsquo;m technically included in.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I&rsquo;m protective of the queer community &mdash; >it&rsquo;s still&nbsp; <span class="italic">my </span>&nbsp; <span class="italic">community class="italic-two"">&mdash; </span> but sometimes it feels as if it doesn&rsquo;t love me back. I&rsquo;ve always felt as if I haven&rsquo;t had enough evidence of my sexuality for the queer community.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I don&rsquo;t know what caused this class="tavola-body">&mdash; class="tavola-body">though I&rsquo;m starting to think it&rsquo;s likely a vice I&rsquo;ve internalized >&mdash; but I do know that others&rsquo; perception of me is not something I can control, and I&#39;ve learned that it&rsquo;s not something I need to.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I can&rsquo;t control the fact that I&rsquo;m queer, just like I can&rsquo;t control my heritage, but I do have more freedom when it comes to discovering the Italian parts of myself. While it won&rsquo;t be easy learning an entire language and culture, I know it&rsquo;ll be a fresh start for me.</p>
+						<p dir="ltr" class="tavola-body">So, at 18 I turned to Italian, picked up language courses against my advisor&rsquo;s wishes, and ran full force into detangling my identity.</p>
+						<p><br></p>
+						<p dir="ltr" class="tavola-body"> Claudia Sartini-Rideout is a character in the best sense of the word. She&rsquo;s a Cheshire-smiled, curly haired woman with a habit of leaning over her classroom&#39;s lecture podium like a cat ready to pounce, grinning as she chirps out a quick, &ldquo; <span class="italic">Novita?&rdquo;&nbsp; </span> to the class. She&rsquo;s a stickler for every student speaking in Italian at least once before she starts class.&nbsp;</p>
+						<p dir="ltr" class="tavola-body"> As a reward &mdash; or incentive &mdash;for taking quizzes, she brings a gallon-sized ziplock bag bursting with a variety of candy for her students. The first time she whips the bag out, she announces, &ldquo;Chocolate is good for the brain,&rdquo; and then, after everyone&rsquo;s got a piece, she scrawls &lsquo; <span <span class="italic">cioccolata&rsquo;</span>&nbsp; >on the board in half-dried marker, sounding it out for us.</p>
+						<p dir="ltr" class="tavola-body">When we try to bargain with her for extra credit, extensions on homework, or any other goodies college students desperately try to wrangle out of their teachers, Claudia will prop a hand on her hip and say, &ldquo;Ask me in Italian and maybe I&rsquo;ll do it,&rdquo; and from there it&rsquo;s a flutter of notes and Googling words and sputtered&nbsp; <span class="italic">piacere </span>s, all ending in Claudia scoffing and turning back to the whiteboard to slowly go over how to actually ask the question.</p>
+						<p dir="ltr" class="tavola-body">Claudia has a soft, motherly tone to her voice, one that can&rsquo;t help but make you feel, for once, sorry that you didn&rsquo;t do your homework. She&rsquo;s approachable, if a bit mischievous, and I knew she would be great to interview.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">When I first sit down in Claudia&rsquo;s office, I&rsquo;m imagining her telling me a triumphant story about the&nbsp; <span class="italic">professoresse,&nbsp; </span> about five regal Italian women who beat the odds, fought off the patriarchy, and carved a place for themselves here in Iowa City, which they all did, but not, it turns out, in the way I&rsquo;d thought.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">As Claudia starts to speak, I find out that the&nbsp; <span class="italic">professoresse </span> &nbsp;aren&rsquo;t all Italian professors, most of them are considered lecturers, holding PhDs in other fields.</p>
+						<p dir="ltr" class="tavola-body">Claudia has a PhD in Geology, and to begin with, had only planned on staying in America for grad school, coming to Iowa specifically because her sister was here. But Claudia stayed, met her husband and had a kid and, over the years, veered away from research and more into language. It&rsquo;s more personable for her.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I ask her what it&rsquo;s like on her end, as someone who&rsquo;s living in a culture that&rsquo;s she&rsquo;s not native to, and she pauses a bit, sits back to think.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&rdquo;In a way,&rdquo; she says. &ldquo;I feel like I belong to both places and I don&rsquo;t belong to either place. My family has helped a lot. Or not, when you have a daughter to drive fifteen million places.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">I ask her about her daughter, then, if Claudia&rsquo;s teaching her Italian, or if she just grew up knowing it. Claudia sighs at this, shaking her head as if remembering something funny.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&ldquo;My daughter is a super stubborn individual, and I&rsquo;m not sure where she got it from.&rdquo; She leans back and holds her hands up. &ldquo;My husband says it&#39;s from me, but it&rsquo;s not. I&rsquo;m sure.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">She pauses.</p>
+						<p dir="ltr" class="tavola-body">When Claudia&rsquo;s daughter was two, she refused to speak Italian. &ldquo;And I would say, &lsquo;I will not answer you unless you ask me in Italian,&rsquo; and she would sit down and scream for two hours.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">She eventually gave up, Claudia explains. Her daughter knows Italian, just won&rsquo;t speak it around Claudia, and doesn&rsquo;t really know how to write it, either. Claudia&rsquo;s making her take classes when she starts at Iowa, though.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;I&rsquo;m gonna send her to Irene, I think, or Lucia,&rdquo; Claudia says. &ldquo;I told her, &lsquo;you need to learn it,&rdquo; Claudia continues. &ldquo;I don&rsquo;t care, but you need to learn it.&rsquo;&rdquo;</p>
+						<p dir="ltr" class="tavola-body">I wonder vaguely if that&rsquo;s something that&rsquo;s come out of a generational difference, or maybe if Claudia&rsquo;s more stubborn about retaining culture than my family was. It can&rsquo;t be a societal difference; America is still fighting against immigrants using their native language in public, so much so that even Claudia mentioned how she feels nervous speaking Italian on the phone in public. So is it a difference in perceptions?&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Claudia&rsquo;s interview answered so many things but posed so many more questions, too.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I don&rsquo;t want to project my own self-doubts onto Claudia, don&rsquo;t want to present my own identity issues as her own. I hadn&rsquo;t wanted this essay to be about self-discovery. The&nbsp; <span class="italic">professoresse </span> &nbsp;were all supposed to be seperate from that. But after just one interview with Claudia, I knew that wasn&rsquo;t the case.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Language has the power to become a gateway to self-discovery, and these are the women who hold the key.</p>
+						<p><br></p>
+						<p dir="ltr" class="tavola-body">This semester I&rsquo;m taking a class called Images of Modern Italy. It&#39;s an upper level, discussion based course that, through a whirlwind of coincidental circumstances, I&rsquo;m taking after a single semester of Elementary Italian I. Irene, who teaches it, knows this and helps as best she can, checking to see if I&rsquo;m following in class and making sure to give me the easier parts of our translation projects.</p>
+						<p dir="ltr" class="tavola-body">When I offhandedly mention my frustrations at not being able to say what I want, Irene tells me I&rsquo;m doing fine. &ldquo;You&rsquo;ve only just started,&rdquo; she says, and I know it&rsquo;s true, but, still, it straight up sucks.</p>
+						<p dir="ltr" class="tavola-body">I don&rsquo;t know if it&rsquo;s the Gen Z in me, but I want that immediate satisfaction, want to know everything now. But I don&rsquo;t, and I can&rsquo;t, and it&rsquo;s going to be years before I can get there. I think that&rsquo;s the most frustrating part sometimes.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I can only see the&nbsp; <span class="italic">professoresse </span> &nbsp;for where they are now, not for how they struggled to get there. It doesn&rsquo;t help that I&rsquo;m constantly surrounded by kids my age who can conjugate on the fly, who seem to know every word out there.</p>
+						<p dir="ltr" class="tavola-body">It&rsquo;s not something I&rsquo;m proud of, but I&rsquo;m inherently jealous of my classmates. Not one of them has ever done anything to me. In fact, they&rsquo;re some of the sweetest people I&rsquo;ve ever met.</p>
+						<p dir="ltr" class="tavola-body">They chat with me before class, smile at me if I see them at work, give me advice about studying abroad. It still doesn&rsquo;t change the fact that they&rsquo;ve been to Italy and I haven&rsquo;t, that they&rsquo;re basically fluent in Italian and I&rsquo;m not.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">On days when&nbsp; <span class="italic">Tavola </span> &nbsp;doesn&rsquo;t go well, when I can barely understand what&rsquo;s happening in class and I&rsquo;m too nervous to ask Irene to translate, I can&rsquo;t help but almost feel wronged.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I grew up my whole life saying I was Italian-American, but it doesn&rsquo;t feel true.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">The most Italian thing my family does is make pizzelles from a 1920s recipe my mom found on the internet. We have a cookbook called, unironically,&nbsp; <span class="italic">The Italian-American Immigrant Cookbook </span>, and Mom, on days when she feels like it, will make pasta. On Sundays as a kid I&rsquo;d help her cook spaghetti and meatballs, standing on a little red step-stool and helping roll the ground beef into spheres, but that&rsquo;s about it.</p>
+						<p dir="ltr" class="tavola-body">I&rsquo;m supposed to be Italian-American, but I don&#39;t feel it. My parents say that&rsquo;s what we are, but I just don&rsquo;t have that connection. It&rsquo;s the reason I&rsquo;m doing all this in the first place.</p>
+						<p dir="ltr" class="tavola-body">Some days, I feel like I deserve to know more than my classmates do, like I should be in their place. I know it&rsquo;s stupid, and rude, and ignorant.</p>
+						<p dir="ltr" class="tavola-body">I want to be fluent, want that connection, but I&rsquo;m nowhere close to it. Sometimes it feels like it&rsquo;s ingrained in me to&nbsp; <span class="italic">never </span> &nbsp;get close to it. After all, my name itself is an Italian fuck-up. It&rsquo;s supposed to be Carmela, not Carmella, but Dad got nervous signing my birth certificate and added the extra &lsquo;L.&rsquo;&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Lucia was always correcting my internalized errors on my assignments last semester, a quiet, red slash through the corner of my name.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Once at&nbsp; <span class="italic">Tavola</span> , I was watching the&nbsp; <span class="italic">professoresse</span> &nbsp;prance off in rapid-fire Italian with an Italian visitor. Cinzia, who tends to speak for the&nbsp;<span class="italic">professoresse</span> &nbsp;as a whole often, started going around the room, introducing the&nbsp; <span class="italic">studenti</span> &nbsp;to him with their Italian names, then their real ones. Cinzia got to me, said, &ldquo; <span class="italic">Si chiama Carmela.</span> &rdquo; Then she turned to me, asked, &ldquo; <span class="italic">Il tuo nome inglese?</span> &rdquo;</p>
+						<p dir="ltr" class="tavola-body">&ldquo;Carmella,&rdquo; I said, and Cinzia shook her head no, started to say &lsquo;No, I mean your English name,&rsquo; but Lucia was next to me, speaking up.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;It is Carmella,&rdquo; she said.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Cinzia made an &lsquo;I see&rsquo; kind of face and asked why I&rsquo;m studying Italian, more for the guest to get a feel of the program than anything, and I mumbled out a horrendously conjugated version of &lsquo;my grandparents were Italian, so&hellip;&rsquo;</p>
+						<p dir="ltr" class="tavola-body">Cinzia moved on from me, and I spent the rest of&nbsp; <span class="italic">Tavola&nbsp;</span> curled quietly in my seat.&nbsp;</p>
+						<p><br></p>
+						<p dir="ltr" class="tavola-body">When I call my father for the first time in four weeks, I&rsquo;ve got steaming insta-teriyaki noodles on my desk and what feels like millions of questions in my head.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">18 years of life and I&rsquo;ve never talked to him about being Italian. He&rsquo;d mention things offhand in stories, how he&rsquo;d gone back to Bari for vacation with my&nbsp;<span class="italic">nonna&nbsp; </span> when he was three,&nbsp; then, when she got sick, had ended up staying there for seven months. He came back to America fluent in Italian. Only in Italian.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Now, at 56, my father can only speak English.</p>
+						<p dir="ltr" class="tavola-body">When I talk to him about life as a first-generation kid, he&rsquo;s kind of all over the place. I don&rsquo;t know if he&rsquo;s ever really talked about his identity as Italian-American, or if it was ever something that crossed his mind.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">There isn&rsquo;t really a sadness to his voice. It&rsquo;s just a fact he&rsquo;s seemed to accept. When I ask him what he thinks about all this, he doesn&rsquo;t really say much about it.&nbsp;</p>
+						<p dir="ltr" class=" italic">We speak for 40 minutes, Dad and I, and I find he&rsquo;s just as in limbo as I am, half-in- half-out of cultures and languages, aspects of our identities only semi-spun around ourselves. When I ask him why he never really sought out learning Italian as a kid, if it just didn&rsquo;t appeal to him, if he didn&rsquo;t have the opportunity or the means, I can feel his half-shrug through my phone.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&ldquo;I don&rsquo;t know,&rdquo; he tells me. &ldquo;You don&rsquo;t think about that when you&rsquo;re young.&rdquo;</p>
+						<p><br></p>
+						<p dir="ltr" class="tavola-body">I meet again with Claudia a week later. My coat&rsquo;s soaked from the rain when I walk in and I try not to drip on her floors, giving her an awkward &lsquo;<span class="italic">ciao.</span>&rsquo;&nbsp; class="tavola-body">The word, furiatingly, still sits awkward on my tongue. Claudia smiles at me anyways, and we chat idly before I start the interview.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">We talk about how she&rsquo;s been able to keep connected with her culture through teaching, something she&rsquo;s extremely grateful for.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">It feels like it should be a simple answer for my problem: if I do the same and keep learning Italian in classes, I&rsquo;ll be able to connect with culture, and then later with my background. But, the thing is, it&rsquo;s been months and nothing&rsquo;s been happening. I&rsquo;ve been learning about Italian language and history, but it doesn&rsquo;t feel like anything&rsquo;s changed.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">So I ask, &ldquo;How do you think all this has influenced your identity?&rdquo;</p>
+						<p dir="ltr" class="tavola-body">Claudia pauses.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;I don&rsquo;t feel like I belong anywhere,&rdquo; she muses, a small smile on her face, and I&rsquo;m sucked in, leaning closer as if it&rsquo;d help me absorb her words better. &ldquo;So my identity is kind of weird. [Being Italian] definitely has influenced who I am and how I am and what I do, but I&rsquo;m kind of split in how I identify.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">There&rsquo;s been times, too, when she&rsquo;s afraid her daughter will disconnect, something most apparent back when she was first rejecting the language as a kid. But over the years Claudia has learned that there&rsquo;s more to the situation.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&ldquo;[It] really made me think, &lsquo;oh she&rsquo;s gonna grow that aspect of herself,&rsquo; but no, she just doesn&rsquo;t like to speak the language, but she&rsquo;s really attached to the culture.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">It reminds me a bit of my mom, the way Claudia&rsquo;s talking about her daughter. I&rsquo;ve always talked about how I don&rsquo;t feel like my family does anything Italian-American, like our traditions are watered-down versions of the original, but Claudia&rsquo;s making me start to realize that maybe that&rsquo;s just how my mother is trying to hold onto her heritage. Perhaps there&rsquo;s more to this than just learning language and customs.</p>
+						<p dir="ltr" class="tavola-body">I swerve a bit from that thought, ask Claudia if she&rsquo;s ever seen a student trying to reconnect after their family disconnected.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;I&rsquo;ve had some cases which I thought were interesting,&rdquo; she tells me. &ldquo;Because [these students] were obviously from Italian-American families, but they didn&rsquo;t put any effort whatsoever into learning the language. It was almost like they couldn&rsquo;t care less.&rdquo;&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Claudia can&rsquo;t say much about anything specific students do to reconnect to their culture, but she has mentioned times when students bring in things for her to translate.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&nbsp;&ldquo;... I have some students that brought me old documents, I don&rsquo;t know how they found them, from Italian great-great-grandparents, written in this old Italian with this old, old cursive. I can see it, when we translate something together, it brings something to them.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">I tell her I might bring in my&nbsp; <span class="italic">nonno </span>&rsquo;s old ship logs; he&rsquo;d been a fisherman back in Bari. Claudia grins, overjoyed. &ldquo;I&rsquo;d love to see them!&rdquo; she says. We chat a bit more again, then say our goodbyes.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I&rsquo;ve begun to see the gratefulness in her smile, see just how much Iowa&rsquo;s Italian program means to her. It starts to make me think that maybe, some day, I&rsquo;ll start making progress. I hope that then I can let Claudia and the&nbsp; <span class="italic">professoresse </span>&nbsp;know how much they&rsquo;ve helped people like me.&nbsp;</p>
+						<p><br></p>
+						<p dir="ltr" class="tavola-text"> class="tavola-body">Irene Lottini is a goddamn superhero; it&rsquo;d be a travesty to describe her as anything less. She&rsquo;s a woman with a queenly presence and a booming voice, one that builds like a wave as she presents to her classes. The more animated she gets, the louder her voice goes, until it reaches its peak and evens out.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">The first time I saw Irene at&nbsp; <span class="italic">Tavola </span>, I was afraid of her, but over time I&rsquo;ve grown to see she&rsquo;s a wickedly intelligent woman with an insanely dedicated captivation for Italian film and culture. In Images of Modern Italy, every week before we start a new movie, Irene claps her hands, flares her eyes wide, smiles the most cheek-splitting smile, and says, &ldquo;Now this one is gonna be intense.&rdquo;</p>
+						<p dir="ltr" class="tavola-text"> class="tavola-body">  &nbsp; &nbsp;&nbsp; class="tavola-body">Once, when Claudia was sick, Irene filled in for my Elementary Italian II class. She smiled when she saw me, gave a little wave and a soft &ldquo; <span class="italic">ciao</span>,&rdquo; and then proceeded to pull up a song to teach us about the everyday use of&nbsp; <span class="italic">qualche volta </span>.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Out of all the&nbsp; <span class="italic">professoresse </span>, Irene speaks the fastest. There&rsquo;s times in class when I can&#39;t even begin to translate what she&rsquo;s saying. Still, there&rsquo;s been a handful of moments when I&rsquo;m sitting quiet during&nbsp; <span class="italic">Tavola&nbsp; </span> and she&rsquo;s leaned over to talk with me, albeit knowing my complete inability to conjugate in my head.</p>
+						<p dir="ltr" class="tavola-body">I don&rsquo;t know as much about Irene as I do Claudia, just that she&rsquo;s got a PhD in Comparative Studies and is what I would consider a legitimate genius. She also, in general, is just insanely good at what she does.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;I like my culture,&rdquo; Irene says simply. &ldquo;I like Italian films and I like Italian literature and I like the idea of being able to involve other people, mainly students, in the discussion of Italian culture, at least to present Italian culture to other generations.&rdquo;</p>
+						<p><br></p>
+						<p dir="ltr" class="tavola-body">She explains further, &ldquo;I don&#39;t think you can live today in this world without knowing or at least meeting other cultures. We live in a global world, we cannot really even pretend that we are just here.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">Aside from Images of Modern Italy, Irene teaches a class called the Italian-American Experience, which, aside from covering Italian influences on America, includes a project about students&rsquo; own heritages.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&ldquo;When you build your own identity, of course you have to consider your heritage,&rdquo; she explains, twirling a pen between her fingers. &ldquo;You have to consider that you&rsquo;re a part of a society, so you have to consider that the way you act every day is a result of your interaction with that society. That will have an influence on a student. It can&rsquo;t&nbsp; <span class="italic">not</span>&nbsp;have an influence on a student and [their] own process to build [their] own identity.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">It&rsquo;s an enlightening thing to hear. I know that despite not feeling a connection to the United States, it&rsquo;s still had an influence on me. Like Irene said, it&rsquo;s impossible for it not to have. But it makes me think that maybe I haven&rsquo;t focused enough on understanding why I feel disconnected from my heritage. I&rsquo;ve always known it was due to my family&rsquo;s assimilation but I&rsquo;d never stopped to think about how America has influenced me, or how that influence interacts with my attempts to reconnect with Italian culture.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;When you think about your own reality, it&rsquo;s a way to process your own identity,&rdquo; Irene tells me. &ldquo;Knowing a language forces you to open your mind and opening your mind is always an important step in your own construction of your identity.&rdquo;&nbsp;</p>
+						<p dir="ltr" class="tavola-body">It makes me wonder how many kids out there are trying to do the same thing I am. Are there other Italian-Americans trying to regain their identities, too, or is it less common than I think? Or do others just see it as learning a language and not uncovering part of themselves? I guess, like Claudia said before, the&nbsp; <span class="italic">professoresse&nbsp;>aren&rsquo;t able to see personal growth that much, but I still ask Irene about students she&rsquo;s seen rediscovering Italian.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;Now we are probably talking about third- or fourth-generations [of Italian-Americans] now, so some of the aspects of Italian culture have been lost through different generations,&rdquo; she says.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;Still,&rdquo; Irene says. &ldquo;There is an idea that students have &hellip; a willingness &hellip; to rediscover the language or the culture or at least the journey that some of their own relatives took to go to this country.&rdquo;</p>
+						<p dir="ltr" class="tavola-body">She doesn&rsquo;t have a specific answer for me. She tells me maybe about half of most of her classes are Italian-American kids that have interests in learning about culture. Claudia had said less. Maybe Irene pays more attention, or maybe Claudia just gets more gen-ed kids in her classes. Who&rsquo;s to say.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">All I can really get out of it is that neither Claudia nor Irene have any real examples of students trying to rediscover their identity through Italian. Perhaps it&rsquo;s because they only see them in classroom settings. It could be that I&rsquo;ve been doing this whole thing wrong. Maybe what&rsquo;s going to help me most, whatever it may be, is done outside the classroom setting. Maybe that&rsquo;s why the&nbsp; <span class="italic">professoresse&nbsp;</span>don&rsquo;t have answers for me.</p>
+						<p dir="ltr" class="tavola-body">&ldquo;It might be a little harder [to reconnect] because we are all busy with our own lives, and then cultures change and kids that are fully assimilated lose something,&rdquo; Irene tells me. &ldquo;But at the same time even if you don&rsquo;t reconnect with your grandparents culture, you can connect with the evolution of that culture and how that culture is presented today and is still evolving today.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">&ldquo;That&rsquo;s your choice. To explore a different culture is your choice.&rdquo;</p>
+						<p><br></p>
+						<p dir="ltr" class="tavola-body">It hits me that maybe culture isn&rsquo;t what I thought it was. This whole time I&rsquo;d based it off my own abilities and my own connections, if I did enough Italian things or spoke the language well enough to pass as native. Subconsciously, I&rsquo;d been doing the exact same things that made me feel like an outsider in the queer community. Instead of learning more about my background, I was trying to justify my place in it.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Maybe that&rsquo;s why I&rsquo;d been struggling so hard, why I feel at times like I&rsquo;m going nowhere. Claudia&rsquo;s daughter doesn&rsquo;t? speaks Italian, but has more of a connection to Italian traditions, and Irene showed me that some people can relate back to their heritage in unconventional ways. I want to learn Italian, want to reconnect, but maybe there&rsquo;s other ways to do it.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">Honestly, I don&rsquo;t know. I don&rsquo;t think I can know. Identity is a finicky thing like that.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">In a year I&rsquo;ll be in Viterbo, Italy, studying abroad, and I can&rsquo;t say what that will do for me. Maybe it will widen that disconnect, maybe it will close it. Will being in the center of my estranged heritage make me feel more isolated? Will I start to feel at home instead? What if being there doesn&rsquo;t help make me fluent in Italian? And even if it does, who&rsquo;s to say that will even show me how to be me?</p>
+						<p dir="ltr" class="tavola-body">It&rsquo;s impossible for me to predict how absorbing Italian language and culture will change me, but it&rsquo;s also been amazing to learn more about the&nbsp;<span class="italic">professoresse</span>, to see how the gears of their identities and knowledge turn. If anything they&rsquo;ve become role models for me, these women, learning and teaching in&nbsp; <span class="italic">novita</span>s and workbook pages and tabled conversations, in lectures and desks and third-floor conference rooms. And while it might not be next to them, they&rsquo;ve begun to show me how to craft a space for myself. They&rsquo;ve all extended their hands, pulled out some chairs, and beckoned others to join them, these women at the table.&nbsp;</p><hr>
+
+			  	        	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<!-- <div class="modal fade" id="modal-cloudberry" 	tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Cloudberry</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<!-- <div class="modal fade" id="modal-goldfish" 		tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">goldfish</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<!-- <div class="modal fade" id="modal-woman" 			tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Being Woman</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<div class="modal fade" id="modal-continent" 		tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">The White Continent</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+			  	        		<p dir="ltr" class="continent-body">We departed from the southernmost tip of Argentina, the boat docked in the small port town of Ushuaia, ominously nicknamed &ldquo;The End of the World.&rdquo; It was a two-day trip across the Southern Ocean to the Antarctic Peninsula through the notorious Drake Passage, known to be so rough that one in five passengers experiences seasickness. Brandishing ourselves with armfuls of pressure point bracelets and all the Dramamine we could take, we prepared for the worst. Two days of suspiciously low waves later, the captain came over the intercom to announce that we would be reaching our anchorage point off the peninsula in around an hour, and that he would like to thank us all for bringing good weather with us in our travels across the &ldquo;Drake Lake.&rdquo;&nbsp;</p>
+			  	        		<p dir="ltr" class="continent-body">
+			  	        		Though the ship was a smaller size to navigate around any stray ice flows, our trip was still accompanied by around 200 other guests. People from countries all over the world had joined in on the expedition, but most of those on the trip to &ldquo;The White Continent&rdquo; were travelers from the US and UK. This moniker for Antarctica seemed fiercely ironic while I sat on a boat mainly filled with white people. The realization that wealth could still divide people on an unpopulated continent was more unsettling than any seasickness.&nbsp;</p>
+			  	        		<p dir="ltr" class="continent-body">
+			  	        		My family has traveled to so many places that it became easy for me to forget the majesty and privilege of travel. The facts were these: my father built up his wealth working in a higher-up position for 30-plus years that allows our family the means to travel, and even though it isn&rsquo;t money I worked to earn, I benefit from it. Being appreciative of the opportunity to see the world while grappling with the weight of spending such a large amount of money while wealth inequality in the US continues to exacerbate is a tricky tightrope to walk&mdash;though certainly a fortunate tightrope to even be upon.&nbsp;</p>
+			  	        		<p dir="ltr" class="continent-body">As laughter and arguments overheard throughout the trip revealed, many other passengers also came as families. Some couples were &ldquo;seeing the world&rdquo; in retirement, others taking their first steps abroad. Ages ranged wildly, with people on board between 7 and 88 years old. Throughout the two-week trip, my family became friends with a few of the guests, but mainly revelled in the joy of people-watching. We often holed up at a table in the main lounge area playing one of the games my mother had packed in her suitcase&mdash;<span class="italic">Yahtzee, Sequence, Rat-a-Tat Cat</span>, or others&mdash;but were more focused on the conversations of those around us than the game itself. With little to no Wi-Fi available during the voyage, imagining the history of people&rsquo;s relationships and what their lives were like outside of the boat was our own form of entertainment.&nbsp;</p>
+			  	        		<p dir="ltr" class="continent-body">One night during dinner, we were sitting a table over from an older couple from upstate New York, the wife of which we had overheard say &ldquo;I don&rsquo;t do lines&rdquo; a few nights before when she came upon a small wait to get into the dining room. In almost every way, they were the complete opposite to my family. Quiet, overly concerned with decorum, only wore designer labels. My family had packed one &ldquo;fancy&rdquo; look each, often talked with our mouths full or too loudly, and was more focused on having a good time than anything else. As they eyed my father who donned cargo shorts to dinner, we could sense the judgement towards us emanating from their swirling wine glasses. Our waiter, Arthur, who we had become close with, then came around to take dessert orders. My family debated between a selection of ice cream flavors, chocolate cake, or a cheese plate&mdash;the clear choice for a table of Wisconsinites. Once Arthur had finished with our table, he moved over to our newly appointed enemies.</p>
+			  	        		<p dir="ltr" class="continent-body">My family continued our conversation, finishing off the last of our nightly bottle of wine until we heard the word &ldquo;orange&rdquo; from one table over. Instead of any of the wonderfully crafted dessert options, this woman asked for an orange for dessert. Yes, an orange. Strange, but harmless enough. But she didn&rsquo;t stop there. She then proceeded to request the fruit be cut into precisely four slices, with the peel left on. Arthur nodded in polite appeasement and walked off to the kitchen to enter the orders. We sipped our wine through smiling cheeks, trying to hide any laughs that might escape over the oddity that was occurring next to us. A few minutes later, Arthur returned with a plate containing the lone orange, cut just as the woman had asked. Before he could step away, she scrunched up her nose as the word every person in the service industry dreads came out of her mouth: &ldquo;Actually&hellip;&rdquo; Even though the orange had been brought to her exactly as dictated, she requested it be taken back to the kitchen to be cut twice more, making eight total slices. For optimum citrus consumption, I suppose? We needed another bottle of wine to quell our giggling.</span></span></p>
+			  	        		<p dir="ltr" class="continent-body">Even as we joked about the quirks of some of our fellow passengers, I couldn&rsquo;t escape the commonalities between us all. No matter how easygoing our family may have been in comparison to those who requested ornately cut fruits, we were still on this cruise. To Antarctica. To our seventh continent. Truths that only apply to a very select few. Sure, we may be a carefree, Target-wearing, Midwestern-rich family, but at the end of the day, we are still a rich family. Travel displays a different form of privilege than an expansive collection of Herm&egrave;s bags, but both require wealth.&nbsp;</p>
+			  	        		<p dir="ltr" class="continent-body">The disparities between the guests continued even when we were off the boat. With every penguin or seal that we saw, my sisters and I squealed, fascinated by the wilderness we were fortunate enough to be privy to. I burned through two memory cards taking as many pictures as I could. Yet the more wildlife colonies we saw, the more cruise guests cut their expeditions onto the Antarctic mainland short, simply glancing at the thousands of animals in front of them as if this spectacle was something they could find in their own backyard. As if to say &ldquo;eh, I&rsquo;ve seen enough of these already.&rdquo; They would look around for 5-10 minutes, then get in the tender to be shuttled back to the ship for a snack, or a nap, or both. The warmth of the boat was apparently more appealing than being within spitting distance from some of the rarest species in the world. It was difficult for me to comprehend the logic behind this, but even some of my own family members began to subscribe to this warped mindset as the vacation went on.</p>
+			  	        		<p dir="ltr" class="continent-body">Towards the tail end of the trip, we visited a beach that hosted a king penguin colony of around 80,000 breeding pairs. The landscape was littered with black and white dots for miles, each one of them a penguin. And even if you couldn&rsquo;t see them, you could hear them. One thing&nbsp;<span class="italic">Happy Feet</span><span class=”continent-body">&nbsp;gets right is how much penguins like to sing. Most of our excursions on land were deafening from all of the squawking. I stood in silent awe of the scene next to my father, who, after a few glances through his binoculars, turned to me and said &ldquo;Well, if you&rsquo;ve seen one penguin, you&rsquo;ve seen them all.&rdquo; I just about pushed him into the ocean. What we were seeing was otherworldly and he was just looking towards the next thing, playing a sort of wildlife bingo. His perspective was most definitely shaped by the concept of vacation as a time simply to enjoy&mdash;or party&mdash;and the frequency of travel he has been able to experience for a majority of his life. The ability to travel comes with privilege, and privilege comes with blindspots.&nbsp;</p>
+			  	        		<p dir="ltr" class="continent-body">I am not a perfect traveler. I reckoned with my own blindspots during the last days of the trip, questioning what I took for granted during the voyage. My sisters and I often joked about how small our rooms were on board, but for a ship, these cabins were above average quality and cleaned daily. We were essentially living in a floating hotel, and a nice one at that. There had been three lectures available for guests practically every day of the trip, providing information on subjects spanning from the biology of animals in Antarctica to historical tales of previous expeditions to the continent. Even though learning about new parts of the world and the people, animals, and culture within it is my favorite aspect of traveling, I didn&rsquo;t attend every lecture. My family and I cherry-picked the ones that seemed the most interesting, opting more often than not to miss a lecture in order to sleep in, go to the onboard spa, or watch a movie in our cabins. When there was free time for sightseeing, I didn&rsquo;t always go up on deck to look for wildlife or take in the majestic surroundings. If the weather wasn&rsquo;t ideal or there weren&rsquo;t any animal sightings, I chose to read, edit photos, play a game, or the most frequent option, nap. I am not a perfect traveler.&nbsp;</p>
+			  	        		<p dir="ltr" class="continent-body">But does the perfect traveler exist?</p>
+			  	        		<p dir="ltr" class="continent-body">Socio-economic, cultural, and environmental factors all contribute to the total costs of seeing the world. If you were to truly consider and effectively account for all the ramifications that come with traveling, you couldn&rsquo;t feasibly travel at all. It exploits too many entrenched issues that cannot be tackled on an individual level. I was deeply uncomfortable with the level of disdain some of the other passengers were willing to show towards the smallest inconveniences in such a privileged space, and I wanted to be able to fix the problem myself. My head filled with plots to take over the bridge and sail the ship back to the US and bring everyone who had never left their home country aboard. Sadly, no mutiny could be achieved.&nbsp;</p>
+			  	        		<p dir="ltr" class="continent-body">In the middle of the cold Southern Ocean, I realized how I might start to quantify what my travels mean to my own growth. Being grateful for the wealth of knowledge and emotional expansion one gets from exploring different parts of the world and using that knowledge when I return home. Not just ask for more orange slices.</p><hr>
+
+
+
+			  	        	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<!-- <div class="modal fade" id="modal-gc" 				tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">Ground Control</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>-->
+		<div class="modal fade" id="modal-marching" 		tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">marching</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class=""> 
+			  	        		
+			  	        		<p dir="ltr" class="marching-body">Marching has changed the way I move&mdash;my toes arching into rollstep if I want to be fast without running. Marching has changed the way I hear&mdash;my ears itching to break apart melodies and rearrange them into forms that can be moved to, that can be played by the three tiers of trumpets that occupy my favorite section. Marching has changed the way I interact with people&mdash;challenging me to befriend almost sixty trumpets and navigate a section party. Six years of band camp pain and as many football seasons&rsquo; worth of performances have a way of ingraining themselves into a person, of changing the tune of an identity until its prior melody has become something unrecognizable. Most recently, that change has forced me to reexamine my definition of art, to step back and look through others&rsquo; eyes in an attempt to show the world what I feel to be true: Marching band can be an art form. It can be beautiful.&nbsp;</p>
+			  	        		
+			  	        		<p dir="ltr" class="marching-body">From a musical perspective, it becomes almost too easy to brush aside the question of art. A marching show is a musical performance; the band members play instruments. And, in the words of Emily Laverty, my leader in the Hawkeye Marching Band (HMB) trumpet section, &ldquo;you do have to have a sense of actual musicality.&rdquo; Iowa&rsquo;s HMB has an extra two hours of music rehearsal every Tuesday night, after two hours of visual practice. Under Emily&rsquo;s direction, the trumpet section also meets early before every game day rehearsal, working last minute to find the music in the sound we play. Though these rehearsals are entirely student-run and optional, trumpets are not the only ones to hold them. We don&rsquo;t sound like professionals by any means, most of us aren&rsquo;t even music majors, but there&rsquo;s still a need among the band to sound good, to sound musical&ndash;I can&rsquo;t believe anyone would argue that good music is not a form of art.&nbsp;</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">From a visual perspective, however, art becomes more difficult to find. Ben Stone, leader of the HMB drumline&rsquo;s quad section, argued first that &ldquo;you&rsquo;re creating something and performing&rdquo; as a reason that marching is an art, but it took almost no time for him to second-guess himself, qualifying that &ldquo;[performance] doesn&rsquo;t necessarily make something art, but it does in this case.&rdquo; There is something artistic in the act of marching, something besides the music and the performance. Yet, for both Ben and I, that something resists identification.&nbsp;</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">Even the visual aspect of marching band can be broken down into smaller pieces, parts of a beautiful whole, but those pieces as well resist analysis. The band is made of sections, of squads, of members. Visual technique breaks down into individual movements and the drill that guides our forms, and the accuracy of a single step depends on size, posture, and the angle of my leg, on forms themselves and the collaborative process of guiding a line as it moves. As a whole, all these elements combine to capture flashes of something artful, but it is difficult to say the same for any single part.&nbsp;</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">On the level of each member, it could be argued that artistry hinges on the type and level of marching being performed. When a World Class member of Drum Corps International (DCI), the top level of competitive marching, takes the field, surely they&rsquo;re participating in a form of art. DCI elevates their performance far beyond the need for a football team to open and close for them, and corps members&rsquo; individual performances incorporate an undeniable amount of physical artistry. Over the years, corps have come to include many dance elements, and many shows are downright theatrical. Though their physical prowess is impressive as well, DCI members are undeniably artists.&nbsp;</p>
+			  	        		
+			  	        		<p dir="ltr" class="marching-body">For a collegiate band like the HMB, that assessment becomes much more complicated. Our movements are not those of a dancer. The burning soreness in my legs every August tells me that it takes skill to roll one&rsquo;s toes in time, to keep up a proper high step, but that movement is regimented, not interpretive. Once learned, a style of marching is repeated robotically throughout a show. Is a dancer an artist if they only know two dance moves? Can that be beautiful? Like the controversy of a solid black canvas sold as high art, there seems to be an unspoken rule connecting artistry with complexity.&nbsp;</p>
+			  	        		
+			  	        		<p dir="ltr" class="marching-body">I know that I am not a dancer.&nbsp;</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">Is it possible for individual movements that are not art to add up to something that is? Band members and our steps do not exist in a vacuum, and the combination of our efforts draws massive pictures across football fields. At the very least, the pictures themselves must then be kind of art. &nbsp;Writing drill, the maps that guide our forms, is a complex task. As Emily put it, &ldquo;you can have a vision in your mind of how it&rsquo;s gonna look, but&hellip; it makes me think of impressionist painters. Y&rsquo;know, each dot, each specific point, is helping create a bigger image.&rdquo; And, beyond pulling from the ideas of pointillism, drill writers have to animate between forms, ensure that each image has the same number of points and that those points can reach one another in time and without collision.&nbsp;</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">By this logic, larger movements of a marching show are a work of art by their writer, and the band members are the pieces that make up that art. But, to reference a famous example of pointillism, is each tiny dot of paint in Georges Seurat&rsquo;s&nbsp; <span class="italic">Sunday Afternoon</span>&nbsp;an artwork of its own? What if each of those dots had to train for weeks, months, years in order to perfect its color and learn its spot on the canvas? Though college bands aren&rsquo;t DCI-elite, it&rsquo;s taken me years to learn to march and guide a form the way I can now. Endless reps of basics to teach my muscles how to push and bend my knees to 120-degree angles, my thighs parallel to the ground. Years of straining my peripheral vision and counting yard lines until I can follow a form, until every step is a perfect 22-and-a-half inches. It&rsquo;s hard, rewarding work, but I don&rsquo;t find myself feeling like an artist as I do it. I know as well as anyone that the completed effect of a show, of a set of forms, can be beautiful and exciting to watch, but the process, even in the exhilaration of a show well finished, feels less artful.&nbsp;</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">Though the examination of fine details often holds the key to a mystery, I struggle with that process here. Like the many small notes of a symphony, each point of color in a painting, each step of a marching show is not a work of art, each member not an artist. Yet, somewhere in the process of combining and coordinating all of those pieces, something artful can be found. And, in that act of combination itself, something beautiful can be found.&nbsp;</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">When I asked them about what they found beautiful about marching band, every person whose interviews I&rsquo;ve used here answered that it was the collaboration, the camaraderie. As Josh Neuenschawnder, graduate TA of the HMB trumpets, said, &ldquo;260 people playing as one, to get 260 people on the same page...I think the connection that&rsquo;s drawn together&hellip; that&rsquo;s a really amazing thing. I think that&rsquo;s a really beautiful thing.&rdquo; Or, as Dr. Eric Bush, director of the HMB, often says, &ldquo;the band is a family.&rdquo; We spend countless hours together working to become one unit with 260 moving pieces, and it takes a powerful bond to do that.&nbsp;</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">Band members are only people, only dots on the field, but collective effort creates much more than a collection of dots. A band is a family made out of strangers, a massive pointillist animation where before there was only the gritty turf of a football field. It is a knitting together of countless people, a meshing of athletics and music and visual art. And, as Dr. Bush said, the meshing of all these components does nothing but allow them to &ldquo;complement and facilitate each other.&rdquo; The practice of marching has changed my body and my mind, and when I&rsquo;m on the field, it transforms me into something more than myself, a part of something grand.</p>
+			  	        	
+			  	        		<p dir="ltr" class="marching-body">Marching can be a beautiful, exciting experience, and the whole of it can be beautiful and exciting to watch. Hidden behind grid lines and football fans, behind a pre-rehearsal workout and those infamous marching sock tans, is something beautiful. And in that beauty, in the sum of the many un-artistic parts, is an art of its own. </p><hr>
+			  	        	 
+			  	        	 </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+		<div class="modal fade" id="modal-geese" 			tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+	  	      			<h5 class="modal-title" id="exampleModalLabel">geese</h5>
+		  	        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		  	        		<span aria-hidden="true">&times;</span>
+		  	       		</button>
+					</div>
+					<div class="modal-body">
+						<div class="scroll">
+			  	        	<div class="">
+			  	        		
+			  	        		<p dir="ltr" class="geese-body">My little legs cannot go very fast, even as there is a flock of geese dawdling right beside me. Their legs were tinier than mine, yet they seemed to move faster, even when I&rsquo;d try to sprint. I think they could sense I was not a runner and therefore not a threat, so they ran alongside and eventually past me, gradually diminishing my confidence in my ability to successfully run a half marathon. After each run, my fellow trainees often commiserated about those geese and how they would perch themselves near the side of the lake, hissing and honking at them as they ran past. By the time I would reach the lake&mdash;sometimes hours after my training-mates&mdash;the geese had become tired from defending their land and were rather intrigued by my presence and by my slowness. Maybe they just thought I was a fellow goose.</p>
+			  	        		<p dir="ltr" class="geese-body">My severe slowness seemed to be a recurring hindrance in my half marathon training. I &nbsp;had entirely anticipated this before the start of the course, though. I think it&rsquo;s just that my stubby legs don&rsquo;t have the muscle or endurance to keep up with the strides of normal people. I&rsquo;ve had this self-awareness since my middle school track-running days when I consistently received third place in the 100 meter dash. I would purposely &ldquo;forget&rdquo; to mention to my distant relatives that there were, in fact, only three people competing in the very last and slowest heat. Apparently, I hadn&rsquo;t improved much because once I reached high school and was eligible to compete in the half-marathon, I could not manage to make myself go any faster. In order to complete my daily runs at a reasonable time, I would begin at 4 a.m., two brutal hours before the start of the training.&nbsp;</p>
+			  	        		<p dir="ltr" class="geese-body">Since living in the middle of nowhere meant running in the middle of nowhere, and serving as the slowest runner in the program meant running alone in the midst of a dark forest-like, corn-hidden trail, I often jumped at the rustling of the squirrels or a musical gust of wind. I was comforted by the geese, though, because I figured that since they didn&rsquo;t fear me, they would at least protect me. Mostly, I prayed that the&nbsp;<span class="geese-body italic"> snaps </span><span class="geese-body">and</span><span class="geese-body italic">wooshes</span><span class="geese-body">&nbsp;were only squirrels and wind because unfortunately for me, my geese bodyguards were often asleep during the earliest of my runs.&nbsp;</span></p>
+			  	        		<p dir="ltr" class="geese-body">During my training, I discovered that running was just a mind game because I could run faster and further by focusing on the trees in between each milestone. If I wanted to run a quarter mile without taking a break to walk, I fell into a rhythm of counting each small tree in between the next big tree. Soon enough I forgot that I was running and my thoughts were consumed by numbers and trees. When it was still night and the trees weren&rsquo;t visible, I counted the crunches made by the bottom of my tennis shoes smacking the gravel with each stride.</p>
+			  	        		<p dir="ltr" class="geese-body italic">70 more crunches and you can walk,</span><span class="geese-body">&nbsp;I&rsquo;d tell myself. The monotony of each little game (and some good running music) distracted me enough to complete my races each morning instead of passing out among the geese.&nbsp;</span></p>
+			  	        		<p dir="ltr" class="geese-body">One particular morning, I was feeling extra confident because it had taken the other runners a bit longer than usual to pass me&mdash;I finally felt like I was making some real progress. The sun had emerged for long enough to run without a jacket and the Jonas Brothers were serenading me with one of their classics. I stopped counting trees and crunches and simply let myself run among the breeze and the mist from the tiny stream of melted snow beside me. I felt fast for the first time. I was Forrest Gump. My elation accelerated my heartbeat and I realized how much I loved this trail, though it sometimes smelled of sewage and bird poop. I thought about the various stenches surrounding me and the geese and the sun and all the sleep I was lacking and the Jonas Brothers and I realized that I was experiencing my first runner&rsquo;s high. My heartbeat rose to my ears and throat as I ran faster and faster until I was traveling at the jogging pace of an average person, which was my version of sprinting. I think I had run nearly a mile without stopping, entirely failing to notice the man a few feet back running towards me with a huge grin on his face.&nbsp;</p>
+			  	        		<p dir="ltr" class="geese-body">His presence startled me, but I tried to ignore him&mdash;he was disrupting the serenity of my run. He slowed down a bit when I noticed him and then began to stagger off the trail a little as he jogged. In his right hand was a flip phone and in his left a pointy object of some sort, maybe a needle? My eyes widened and nervous droplets of sweat began to form at my hairline. I longed for the geese to emerge from their slumbers and honk at the man, but they were nowhere to be found and I was entirely alone.&nbsp;</p>
+			  	        		<p dir="ltr" class="geese-body">His bloodshot eyes fluttered open and shut as he made his way about the trail, moving closer towards me with every trip and stumble. I jumped backwards and placed my car keys in between my fingers.&nbsp;</p>
+			  	        		<p dir="ltr" class="geese-body">&ldquo;Come here for a second!&rdquo; he shouted. I sucked in my breath.&nbsp;</p>
+			  	        		<p dir="ltr" class="italic">He can&rsquo;t hurt me. He can&rsquo;t even walk. If there is anybody in this world I could outrun, it&rsquo;s him.</p>
+			  	        		<p dir="ltr" class="geese-body">&ldquo;Eye of the Tiger&rdquo; began to play in my headphones. I chuckled at the absurdity. I was alone in the woods with a discombobulated man and the&nbsp;<span class="geese-body italic">dundundundundundundundundundundundunDUNDUNDUNDUN</span><span class="geese-body">&nbsp;seemed to be the perfect parallel to my predicament.&nbsp;</span></p>
+			  	        		<p dir="ltr" class="geese-body">I began to jog on as my aloneness gradually settled over me like the fog covering the trail ahead. Occasionally peeking behind my shoulder at him, I had sufficiently managed to create some distance between us, and he seemed to be losing coherence.&nbsp;</p>
+			  	        		<p dir="ltr" class="geese-body italic">I don&rsquo;t need the geese,</span><span class="geese-body">&nbsp;I thought.&nbsp;</span>This guy will definitely collapse before he even reaches me.</p>
+			  	        		<p dir="ltr" class="geese-body">His hair hung in loose clumps around his face as he tucked it behind his ears, revealing slits for eyes that had suddenly locked with mine. &ldquo;Eye of the Tiger&rdquo; faded into a song I didn&rsquo;t know.</p>
+			  	        		<p dir="ltr" class="geese-body">&ldquo;Come over here,&rdquo; he shouted among the breeze. He broke into a sprint, and I whipped around and sprinted too, but this time at the sprinting pace of an average person.&nbsp;</p>
+			  	        		<p dir="ltr" class="geese-body">I don&rsquo;t know how long I ran from him. Maybe two miles? Five? He followed closely behind me, occasionally almost close enough to touch. I had caught up with the other runners just before I crossed our makeshift finish line, an accomplishment I never thought I would achieve during the entire course of my training. Just before I turned the corner onto the final 100 feet of the run, the man vanished. &nbsp;He leaped into the bushes on the side of the trail without a word, leaving my training-mates to wonder why tears and snot were dripping down my face and why I was going on about some crazy man with a needle chasing me down the trail. I don&rsquo;t think they believed me, and understandably so; I don&rsquo;t even know if&nbsp;<span class="geese-body italic">I</span>&nbsp;believed me. Was this man just a vivid figment of an adrenaline-surged hallucination? Possibly, or maybe I really was chased down the trail by a madman. Perhaps my coach went so far as to disguise himself as a rugged bush-dweller, forcing me to run faster so he could finally go home. Whatever the case, I bought myself a fresh can of pepper spray and stepped up my game for the following runs and even for the race itself. I think the geese were impressed with me.&nbsp;</p><hr>
+			  	        	 </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		 </div>
+
+		<div class="outer-wrapper">
+			<div class="wrapper">
+				<div class="slide intro" style="margin-right:-50vh" id="home">
+					<!-- <div class="title">Foolsmag<br>Vol.8</div> -->
+					<!-- <div class="media-bar">
+						<img src="assets/images/Copy-of-FoolsOfficialLogo_red.png" alt="Fools Logo" style="height:100px;">
+						<img src="assets/images/Social Media.png" alt="Social Media Links" style="height: 100px;">
+					 </div>	 -->
+					 <img class="full-image" src="assets/images/Estlund - Becoming Woman/FINALFRONT.jpg" >
+					 <img src="assets/images/Fools Title.png" style="position: absolute;height: 300px;" alt="">
+				 </div>
+				<div class="slide" id="table-of-contents">
+					<div>
+						<a class="toc-link" href="#looking-glass">Looking Glass Self</a><br>
+						<a class="toc-link" href="#jt">Interview with Jia Tolentino</a><br>
+						<a class="toc-link" href="#exit-poem">[exit poem so in the mouth]</a><br>
+						<a class="toc-link" href="#mirrors">mirrors were the original soul stealers</a><br>
+						<a class="toc-link" href="#ismee">Ismee</a><br>
+						<a class="toc-link" href="#prospect">Prospect, PA</a><br>
+						<a class="toc-link" href="#tokarski">Allie Tokarski</a><br>
+						<a class="toc-link" href="#duckduckgo">"bad habits or addiction"</a><br>
+						<a class="toc-link" href="#foundations">Foundations</a><br>
+						<a class="toc-link" href="#feel-better">It Will Feel Better When It Stops Hurting</a><br>
+						<a class="toc-link" href="#father-mother">Father/Mother</a><br>
+						<a class="toc-link" href="#missed-connections">Missed Connections</a><br>
+						<a class="toc-link" href="#spaces-in-between">The Before, The After, & the Spaces in Between</a><br>
+						<a class="toc-link" href="#le-donne">Le Donne alla Tavola</a><br>
+						<a class="toc-link" href="#cloudberry">Cloudberry</a><br>
+						<a class="toc-link" href="#goldfish">Goldfish</a><br>
+						<a class="toc-link" href="#being-woman">Being Woman</a><br>
+						<a class="toc-link" href="#white-continent">The White Continent</a><br>
+						<a class="toc-link" href="#ground-control">ground control</a><br>
+						<a class="toc-link" href="#marching">The Art of Marching</a><br>
+						<a class="toc-link" href="#geese">Seeking Validation from the Geese</a><br>
+						<a class="toc-link" href="#back-cover">back-cover</a><br> 
+					 </div>
+				<div class="slide" id="sponsors">
+					<img class="full-image" src="assets/images/PDF Whole Pages/Sponsors.png">
+				 </div>
+				<div class="slide" id="editor-letter">
+					<div class="text-container" style="width:600px;">
+						<p class="le-body">In a year like 2020&ndash;marked by the onset of the U.S. presidential election, ruins left behind by persistent COVID-19, the ongoing burning of Australia, or disaster after disaster after disaster&ndash;there&rsquo;s no room for mindlessness. No way to go through the world with blinders, not completely.</p>
+
+						<p class="le-body">At the same time, there&rsquo;s no way to pull out a sign of the times to hold in front of us and see life for what it is. Instead, we&rsquo;re always peering through some dynamic lens, one scratched and fingerprinted by things bestowed on us, things happened upon, things sought after. In this way, we absorb and reflect upon information ceaselessly, sometimes unknowingly.</p>
+
+						<p class="le-body">With Volume 8 of Fools Magazine, we attempt to make our visions clearer as consumers, as producers. We&rsquo;ve included pieces like Megan DeRiemacker&rsquo;s &ldquo;[Exit poem so in the mouth],&rdquo; a swift tumble of a poem in which proximity and distance are increasing at once; Vashi Chintalapalli&rsquo;s &ldquo;ground control,&rdquo; a photo essay grappling with placeness, how location interacts with a life that rises and falls; and, in the name of a long-standing &ldquo;the art of&rdquo; tradition, Stella Tarlin&rsquo;s &ldquo;The Art of Marching,&rdquo; an essay on marching band, and meditation on the mind and body&ndash;how individuals can become inextricable from a group, and in that way, do nothing but &ldquo;facilitate&rdquo; one another.</p>
+
+						<p class="le-body">As we sat in a circle week after week, discussing the idea of the self&ndash;in relation to works by art critic John Berger, philosopher Martha Nussbaum, writer Jia Tolentino (whose voice appears in this issue), and many, many others&ndash;it became clear we were putting on a performance of some sort, getting at the face of ourselves we wanted inside and outside the issue. As quickly as our conversations expressed some version of this is a truth of the world, we just as quickly swerved: Maybe it&rsquo;s not. Maybe it&rsquo;s one truth in a world of infinite, or none.</p>
+
+						<p class="le-body">There&rsquo;s no producing or consuming art in a way that avoids this dilemma. Jia Tolentino recapitulates the idea: even to articulate a desire to vanish &ldquo;is always to reiterate the self once again.&rdquo; Even as we curated, it became evident we were heading down a one-way street, all signs pointing towards iterations of the self: those we know, those we don&rsquo;t, and those which are there when we make pretend.</p>
+
+						<p class="le-body">Indeed, absorption and reflection are, by their very definitions, antonyms&ndash;in the first, something clings to us; in the other, we throw the thing back&ndash;and yet something is lost if they don&rsquo;t lead to each other. So, we can absorb something by way of reading, writing, making art&ndash;fully embracing the lens&ndash;but we&rsquo;d be better for having cast it in the opposite direction, too. Sharing literature and art in this way is just one instance of sending some absorbed thing back into the world.</p>
+
+						<p class="le-body">To that end, we can have our private selves and our public selves, both. Because nothing we do can entirely skew or un-skew the space of the world. Even in new stories told by new voices, the burning of Australia doesn&rsquo;t get any less fiery. A pandemic (pan &lsquo;all&rsquo; + demos &lsquo;people&rsquo;) knows its rampant course before it can cross any one person&rsquo;s mind. These reflections don&rsquo;t make the world any smaller or bigger, though. They only make our shape in it a little less clouded, some essential quality of ourselves more brilliant and open.</p>
+
+						<p class="le-body">Thank you, dear readers, for your continued support. For every self that&rsquo;s part of this journey.</p>
+
+						<p class="le-body">With love,</p>
+
+						<p class="le-body">Ellie Zupancic &amp; the <span class="le-italic"> Fools</span> team </p>
+					</div>
+				 </div>
+				<div class="slide" id="masthead">
+					<img class="full-image" src="assets/images/PDF Whole Pages/Masthead.png" >
+				 </div>
+				<div class="slide" id="looking-glass">
+					<img class="small-image" src="assets/images/Looking Glass Self/Sandersfeld-pre1.png" alt="">
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-lgs">Looking Glass Self</button>
+					<img class="small-image" src="assets/images/Looking Glass Self/Sandersfeld-post2.png" alt="">
+				 </div>
+				<div class="slide" id="jt">
+					<img class="full-image" src="assets/images/Tolentino Interview/Le-Tolentino.jpg" alt="">
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-jt">Interview with Jia Tolentino</button>
+					
+					
+					<img class="small-image" src="assets/images/Tolentino Interview/Le-Tolentino2.jpg" alt="">
+				 </div>
+				<div class="slide" id="exit-poem">
+					<div style="position: absolute;margin-top:100px;">
+						<p dir="ltr" class="exit-body">
+						Exit poem so in the mouth
+						so hot in the mouth so stuck
+						on its staying intent  ours
+						still beyond fear
+						its re-
+						figuring
+						the city
+						the way we see
+						the city &nbsp; figures
+						from the vantage
+						point. To
+						stay utterly
+						warm im-
+						pressed in
+						cheek I&rsquo;d
+						open
+						to the di-
+						lating day
+						re-
+						versing
+						knot
+						to say
+						a word
+						a sur-
+						face
+						of lips
+						un-
+						raveling
+						scare
+						of tongue so
+						advantageous 
+						so
+						un-
+						forgiving.</p>
+
+					</div>
+					<img class="" style="height:120vh;" src="assets/images/Schumaker-Exit Poem.png" alt="">
+				 </div>
+				<div class="slide" id="mirrors">
+					<img class="" style="height:60vh;transform: scaleY(-1);"src="assets/images/Mirrors/Craver-Mirrors2.png" alt="">
+					<img class="" style="height:60vh;transform: scaleX(-1);" src="assets/images/Mirrors/Craver-Mirrors1.png" alt="">
+					<img style="position:absolute;"src="assets/images/Mirrors/Mirrors Text.png" alt="">
+				 </div>
+				<div class="slide" id="ismee">
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-ismee">Ismee</button>
+					
+					<img class="small-image" src="assets/images/Ismee/ismee1.jpg" alt="">
+					<img class="small-image" src="assets/images/Ismee/ismee2.jpg" alt="">
+					<img class="small-image" src="assets/images/Ismee/ismee3.jpg" alt="">
+				 </div>
+				<div class="slide" id="prospect">
+					<div>
+						<p dir="ltr" class="prospect-body">
+						Prospect, Pennsylvania, 1985, 8:00 PM&nbsp;&nbsp;
+						&nbsp;
+						Winters were cold &nbsp;
+						and vengeful, and lingered &nbsp;
+						like icicles along &nbsp;
+						our slanted porch roof. &nbsp;
+						At night, I climbed tall stairs &nbsp;
+								  to a landing &nbsp;
+						then three steps more &nbsp;
+						to a bed that towered &nbsp;
+						above my head, &nbsp;
+						and I took a running leap &nbsp;
+						diving into the crispness &nbsp;
+						of my covers, starched &nbsp;
+						sheets that smelled of Downy &nbsp;
+						and cracked like pond ice; &nbsp;
+						I pulled my legs up tight &nbsp;
+						beside me, turned my feet &nbsp;
+						against themselves for warmth, &nbsp;
+						and waited for my puff quilt to &nbsp;
+						fill with the bit of heat my body held &nbsp;
+						pushed my face into down- &nbsp;
+						filled pillows and filled my &nbsp;
+						chest with their winter gale. &nbsp;
+						&nbsp;
+						Snow fell outside my window &nbsp;
+						piling on the sill and panes, &nbsp;
+						crazing near wood muntins, &nbsp;
+						turning a quiet forest to &nbsp;
+						clouded obscurance. &nbsp;
+						Tonight myath wanders &nbsp;
+						into endless treelines of sleep.&nbsp;</p>
+
+
+					</div>
+					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect.png" alt="">
+					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect2.png" alt="">
+					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect3.png" alt="">
+					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect4.png" alt="">
+					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect5.png" alt="">
+				 </div>
+				<div class="slide" id="tokarski">
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-tokarski">Allie Tokarski</button>
+					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski1.jpg" alt="">
+					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski2.jpg" alt="">	
+					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski3.jpg" alt="">	
+					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski4.jpg" alt="">	
+					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski5.jpg" alt="">	
+					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski6.jpg" alt="">						
+				 </div>
+				<div class="slide" id="duckduckgo">
+					<div>
+						<p dir="ltr" class="ddg-text ddg-body"><nobr>https://<br>
+						duckduckgo.com/<br>
+						?q=bad+habits+or+addiction%<br>
+						3F&amp;a+b=v112-1_y&amp;ia=web <br><br>
+						Resisting lingerie resisting chapstick call from a burner never<br>
+						A landline too slow to disconnect splintered<br>
+						Knuckles doctor winds up until<br>
+						I can do it myself<br>
+						Orange hospital pill bottle glow&nbsp;<span class="italic">please don&rsquo;t give me fentanyl</span><br>
+						Snow piles up Erie January wasteland in a shoebox<br>
+						<span class="italic">Baby, what do you think this is</span><br>
+						Smudged face ruined mirror reverse<br>
+						Edging towards hysteria assisted upon insistent on&nbsp;<br>
+						Cool white lights bright pills under tongue<br>
+						Heartbeat muddies under sternum chest&nbsp;<br>
+						Under 34th street lamplit the sky unknits itself&nbsp;<br>
+						Weatherman says&nbsp; it cannot be possible</span></span><br>
+						Lake waves break frozen onto crackling</nobr></p>
+					 </div>
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG1.jpg" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG2.jpg" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG3.jpg" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG4.jpg" alt="">
+					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG5.jpg" alt="">
+
+				 </div>
+				<div class="slide" id="foundations">
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-foundations">Foundations</button>
+					
+					<img class="small-image" src="assets/images/Stillman-Foundations.jpeg" alt="">
+				 	
+				 </div>
+				<div class="slide" id="feel-better">
+					<div class="text-container">
+						<p class="hurting-body">It will feel better when it stops hurting<br>Avery Tucker<br>My series It will feel better when it stops hurting explores the ways divorce alters childhood, memory, and development. These photographs show my half-sister Tuscany on my father’s land. Sometimes they are posed; sometimes they are not. In this project, I explore the connection between our experiences as children of divorce, how our memories and understandings differ. I use the landscape images as a representation of myself and as a meditation on what the future holds. The title comes from an expression my father would say when I scraped my knees or fell off my bike, but in the context of this project, it has transformed into an examination of pain and healing. Will it ever feel better? Does it ever stop hurting?</p>
+	
+					</div>
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker1.tiff" alt="">
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker2.png" alt="">
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker3.jpg" alt="">
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker4.jpg" alt="">
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker5.jpg" alt="">
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker6.jpg" alt="">
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker7.jpg" alt="">
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker8.jpg" alt="">
+					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker9.jpg" alt="">
+					
+				 </div>
+				<div class="slide" id="father-mother">
+					<img class="full-image" style="position:absolute;top:-200px;z-index: -100;" src="assets/images/Father_Mother/FM-Tokarski3.png" alt="">
+					<div class="poetry-container" style="padding-top:400px;">
+						<p dir="ltr" class="fm-body">Father&nbsp;</p>
+						<p dir="ltr" class="fm-body">
+						I creep into your house <br>
+						in the white house with red bricks <br>
+						at the top of the cul-de-sac <br>
+						at four in the morning<br>
+						you aren&rsquo;t awake yet <br>
+						I wish you still worried about<br>
+						me coming home<br>
+						nothing good happens after <br>
+						the street lights come on &nbsp; <br>
+						but I&rsquo;ll be home soon.</p>
+
+					</div>
+					<div class="poetry-container"style="padding-top:400px;">
+						<p dir="ltr" class="fm-body">Mother&nbsp;</p>
+						<p dir="ltr" class="fm-body">I wonder how many times you heard me<br>
+						in my room crying and decided this is when<br>
+						she gets older<br>
+						which is not to say you wanted me to suffer<br>
+						moreso this is how you grew<br>
+						a little heartbreak<br>
+						made me grow more than anything<br>
+						someone stops loving you and<br>
+						the blinds are pulled shut</p>
+					</div>
+					<img class="small-image" src="assets/images/Father_Mother/FM-Tokarski1.png" alt="">
+					<img class="small-image" src="assets/images/Father_Mother/FM-Tokarski2.png" alt="">
+					
+				 	
+				 </div>
+				<div class="slide" id="missed-connections">
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-connections">Click to Read</button>
+					
+					
+					<img class="full-image" style=""  src="assets/images/Missed Connections/fools_0020_Missed-Connection_-Driving-on-218-South-last--Thursday-around-2.png" alt="">
+					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/fools_0021_Rectangle-1.png" alt="">
+					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/fools_0002_SCANLINE-by-freeject.net-1.png" alt="">
+					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/Dewitt-Missed Connections.png" alt="">
+				 </div>
+				<div class="slide" id="spaces-in-between">
+					<img class="full-image" src="assets/images/Snyder-TheBeforetheAfter.png" alt="">
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-spaces">Click to Read</button>
+					
+					
+				 </div>
+				<div class="slide" id="le-donne"> 
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-ledonne">Click to Read</button>
+					
+					<img class="small-image" src="assets/images/" alt="">
+					
+				 </div>
+				<div class="slide" id="cloudberry">
+					<div style="right: 20px; bottom:50px;position:absolute;">
+						<p class="cloudberry-text"><nobr>
+						<br>
+						I am burning  / in dusk<br>
+						<br>
+						between your teeth / your<br>
+						tongue / my language / gets<br>
+						<br>
+						to know / silence / our heads<br>
+						start at the tip / of the spine /<br>
+						<br>
+						you do not speak / but here I am<br>
+						standing between / the tongues of<br>
+						nature / and even now I am nothing<br>
+						but / an in between / space /<br>
+						<br>
+						your mouth is a trap door /<br>
+						crashing ice / into the belly<br>
+						<br>
+						of the pond and / something<br>
+						like frost / blooms in empty<br>
+						<br>
+						pockets / you blame it on spring<br>
+						coming too early / for the day<br>
+						<br>
+						and once you pressed the stems /<br>
+						of roses to my hand / whose thorns<br>
+						<br>
+						had been cut / so they could no longer<br>
+						know themselves / as the violence<br>
+						<br>
+						they were born with / and you were<br>
+						born with nothing but sharpness /<br>
+						<br>
+						to make up for your bones / and the melted<br>
+						rivers of your already aging past / dripped<br>
+						<br>
+						from the very first time / dusk was<br>
+						lifted from you / and you became /<br><nobr></p>
+					 </div>
+
+				 	<img class="full-image" src="assets/images/Cloudberry/Phalen-Cloudberry.png" alt="">
+					<!-- <img class="full-image" style="position:absolute; left:0;" src="assets/images/Cloudberry/Pottebaum-Cloudberry.png" alt=""> -->
+				 </div>
+				<div class="slide" id="goldfish">
+					<div class="relative-text-wrapper" style="width: 50vw; z-index: 50;">
+						<p dir="ltr" class="goldfish-body">Goldfish</p>
+						<br>
+						<p dir="ltr" class="goldfish-body"><nobr>
+						<span style="background-color:white;">We did drugs in your car first, in a supermarket parking lot.<br>
+						Later, again, with your sister &nbsp; &nbsp; in her &nbsp; car &nbsp; &nbsp; in the driveway. &nbsp; &nbsp;I couldn&rsquo;t stop&nbsp;<br>
+						<br>
+						checking the time. ten minutes passed between &nbsp; &nbsp; &nbsp;10:31 &nbsp; &nbsp;and &nbsp; &nbsp;10:33<br>
+						which then, inevitably, was lost in the skin around my fingernails.<br>
+						<br>
+						I was homesick in the backseat, you were sick&nbsp;out the window.<br>
+						the thrill had to promise the panic that we&rsquo;d be just fine, just fine.&nbsp;<br>
+						<br>
+						I grew strobe lights behind my eyes, and I shed the muscles in my legs.<br>
+						I said please, I want to go home, but my face had already molted.<br>
+						<br>
+						I scratched the stubborn skin off my fingers and finally drew blood.&nbsp;<br>
+						You fished out that &nbsp; &nbsp;&nbsp; &nbsp;transmutation. &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; Remade me into something vile.<br>
+						<br>
+						If evolution always happened this quickly, the human condition would be self-doubt<br>
+						&nbsp; &nbsp; &nbsp; whose hands are these?&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;whose lungs?<br>
+						<br>
+						I grew a swim bladder to please you and that&rsquo;s what killed me,<br>
+						I gave my thumbs away to pull water but I sank instead.<br>
+						<br>
+						You dragged me out of &nbsp; my house &nbsp; &nbsp; and kept me in yours, a goldfish&nbsp;<br>
+						sharing a room with cats. bad for the body, worse for the mind.<br>
+						<br>
+						All of this to say that if I had gills, I&rsquo;d be a better swimmer, but no better&nbsp;<br>
+						&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;of a smoker.</span></nobr></p>
+
+					 </div>
+					 	<img class="full-image" style="position:absolute;" src="assets/images/Goldfish/Phillippi-Goldfish.png" alt="">
+
+					 	<!-- <img class="full-image" style="position: absolute;"  src="assets/images/Goldfish/Pottebaum - Goldfish.png" alt=""> -->
+				 </div>
+				<div class="slide" id="being-woman">
+					<div class="artist-caption">
+						<p class="woman-body">For so long, my identity as a woman was dictated by others. Though I recognized this early in my life, I never confronted it. I created this project to examine how easily I fall into a habit of comparing myself to the unattainable ideals of womanhood in nearly every realm of pop culture. In this way, I began to explore the bearings that culture has on the individual woman's self-perception, and specifically my own. While each narrative is unique, the overarching experience of being scrutinized remains. Advertising several decades ago boasted blatant sexism toward women, and though it may not be as direct today, it is far from eradicated. Setting scenes from the 1950s and ‘60s is a reminder that remnants from the past persist; women live in a present continually shaped by what came before now. </p>
+					</div>
+					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman1.jpg" alt="">
+					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman2.jpg" alt="">
+					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman3.jpg" alt="">
+					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman4.jpg" alt="">
+					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman5.jpg" alt="">
+					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman6.jpg" alt="">
+					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman7.jpg" alt="">
+					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman8.jpg" alt="">
+				 </div>
+				<div class="slide" id="white-continent">
+					<p class="continent-body">The White Continent</p>
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-continent">Click to Read</button>
+					
+					<img class="small-image" src="assets/images/White Continent/Arzbaecher-Continent.JPG" alt="">
+					<img class="small-image" src="assets/images/White Continent/Hall-Continent.png" alt="">
+					<img class="small-image" src="assets/images/White Continent/Hall-Continent2.png" alt="">
+					<img class="small-image" src="assets/images/White Continent/Hall_Arzbaecher.png" alt="">
+				 </div>
+				<div class="slide" id="ground-control">
+					<div class="text-container">
+						<p class="ground-body">“ground control: using physical space to catalog rising and falling”<br><br>
+
+							Coming from an immigrant family where mental illness is highly stigmatized and quickly dismissed by cultural misconceptions, it was difficult to get the support and treatment I needed growing up. Entering college, I misinterpreted my mental health as a symptom of my high school experience. I figured the collegiate transition would relieve the problems I faced.
+							<br><br>
+							When I came into my first semester without any real understanding of the college lifestyle, I began to experiment with what I assumed was normal —but what began as recreational smoking and drinking quickly diverted into a mode of unhealthy coping. Ongoing abuse developed into a period of poorly regulated self-medicating with opiates. 
+							<br><br>
+
+							Some things became easier. But the irregular, unmoderated substance use only furthered my pre-existing problems of anxiety and depression. 
+							<br><br>
+							Over time, my friend group and I developed a habit of skating. Trapped by the confines of cultural expectations and my congested mind, the boundless feeling of skating also made things feel better. 
+							<br><br>	
+							Eventually, this became a ritual. Whether it was midday or 4 a.m.–when someone in our friend group needed an escape, we went. On our rides, we often talked about ourselves and our problems. Trying to understand one another in those moments was simultaneously a way of starting to understand our surroundings: Iowa City.
+							<br> <br>
+							My photo essay documents this landscape by reflecting on what an irregular mixture of opiates, skating, and cultural expectations can do to the brain over a semester. When skating is floating and self-medication its grounding force, these photographs investigate what coping can look like even in the face of continued addiction. 
+							<br><br>
+
+							[in the end, i just want to talk about space]
+
+						</p>
+					</div>
+					<img class="small-image" src="assets/images/ground control/groundcontrol1.jpg" alt="">
+					<img class="small-image" src="assets/images/ground control/groundcontrol2.jpg" alt="">
+					<img class="small-image" src="assets/images/ground control/groundcontrol3.jpg" alt="">
+					<img class="small-image" src="assets/images/ground control/groundcontrol4.jpg" alt="">
+					<img class="small-image" src="assets/images/ground control/groundcontrol5.jpg" alt="">
+					<img class="small-image" src="assets/images/ground control/groundcontrol6.jpg" alt="">
+					<img class="small-image" src="assets/images/ground control/groundcontrol7.jpg" alt="">
+					<img class="small-image" src="assets/images/ground control/groundcontrol8.jpg" alt="">
+				 </div>
+				<div class="slide" id="marching">
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-marching">Click to Read</button>
+					<p dir="ltr" class="marching-body">The Art of Marching</p>
+					
+					<img class="full-image" src="assets/images/" alt="">
+				 </div>
+				<div class="slide" id="geese">
+					<p dir="ltr" class="geese-body" style="white-space:nowrap;">Seeking Validation from The Geese</p>
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-geese">Click to Read</button>
+					
+					<img class="small-image" src="assets/images/Seeking Validation from the Geese/Reichart-Tree for Validation.png" alt="">
+					<img class="small-image" src="assets/images/Seeking Validation from the Geese/Reichart-Validation.png" alt="">
+				 </div>
+				<div class="slide" id="back-cover">
+					
+				</div>
+			</div>
+		</div>
+	 </body>
+</html>

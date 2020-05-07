@@ -1,0 +1,305 @@
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con{
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url('assets/images/WhiteLogo2.gif') center no-repeat black;
+ }
+
+
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+a:link{
+ 	
+ }
+a:hover{
+ 	
+
+ }
+a:visited{
+ 	
+ }
+
+hr{
+	border-width: 1px;
+	border-color: rgb(80,80,80);
+	width: 50%;
+}
+
+.toc-link{
+	font-weight: bold; 
+ 	opacity: .5;
+ 	color: #ba0029;
+ 	text-decoration: none;
+ 	cursor: pointer;
+ 	line-height: 1.5;
+ 	font-family: "futura", sans-serif;
+}
+.toc-link:hover{
+	opacity: 1;
+ 	text-decoration: underline;
+}
+.toc-link:visited{
+	color: #ba0029;
+}
+
+#home{
+	
+} 
+#table-of-contents{
+	padding: 20px;
+	font-size: 20px;
+}
+#exit-poem{
+
+}
+#goldfish{
+	background-color: black; 
+	width: 50vw;
+}
+
+
+.outer-wrapper{
+	width: 100vh;
+	height: 100vw;
+	transform:  rotate(-90deg) translateX(-100vh);
+	transform-origin: top left;
+	position: absolute;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	scrollbar-width:  none;
+	-ms-overflow-style:  none;
+}
+::-webkit-scrollbar {
+	display: none;
+}
+.wrapper{
+	display: flex;
+	width: 100vw;
+	transform:  rotate(90deg) translateY(-100vh);
+	transform-origin: top left;
+ }
+ .slide{
+	height: 100vh;
+	flex-shrink: 0;
+	display: inline-flex;
+	margin-right: 50vw;
+	position: relative;
+ }
+
+.nav-button{
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 100px;
+	border: 3px solid #ba0029;
+	z-index: 100; 
+}
+
+.intro{
+	background-color: #e8b283;
+	/* background: url('assets/images/Estlund - Becoming Woman/EDITCloth.png') center no-repeat; */
+	/* background-size: 100vh; */
+	width: 100vw;
+ }
+
+.title{
+	position: absolute;
+	font-family: "futura", sans-serif;
+	font-size: 8em;
+	font-weight: bolder;
+	color: #ba0029;
+	padding: 50px;
+ }
+
+.media-bar{
+	position: absolute;
+	bottom: 40px;
+	left: 40px;
+}
+.enter-button{
+	position: absolute;
+	bottom: 100px;
+	left: 80vw;
+	font-family: "futura", sans-serif;
+	color: #ba0029;
+
+}
+
+.full-image{
+	height: 100vh;
+}
+
+.small-image{
+	height: 20vh;
+}
+
+.text-wrapper{
+	/* this does nothing but clear flex child properties. used to let columns expand */
+}
+.poetry-container{
+	height:90vh;
+	width: 300px;
+}
+.text-container{
+	height:90vh;
+	width: 1000px;
+	padding-top: 50px;
+	min-width: 300px;
+	overflow: auto;
+}
+.column-three{
+	min-width: 300px;       /*  Change this value for reflow */
+	/* max-width: 2000px; */
+	column-count: 5;
+	column-fill: auto;
+	columnn-width:;
+	column-gap: 30px;
+}
+.column-one{
+	width: 350px;
+}
+
+.artist-caption{
+	width: 500px;
+}
+
+/* global */
+.italic{
+	font-style: italic;
+}
+
+
+.lgs-body{
+font-family: "futura", sans-serif; font-size: 16px; font-weight: 300; white-space: pre-wrap; line-height:1.5;margin-top:0pt;margin-bottom:0pt; text-align: justify;
+}
+.tolentino-text{
+line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: justify;
+}
+.tolentino-body{
+font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; vertical-align: baseline ;white-space: pre; white-space: pre-wrap;text-align: justify;
+}
+.exit-body{
+font-size: 12pt; font-family: 'Times New Roman';  font-weight: 400; white-space: pre; line-height: 1.5;
+}
+.ismee-body{
+font-size: 12pt; font-weight: 400;  white-space: pre-line;  line-height: 1.5;text-align: justify;
+} 
+.prospect-body{
+font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre; line-height: 1.5;
+ } 
+.tokarski-body{
+font-family:"futura", sans-serif; font-size: 16px; white-space: pre-wrap;text-align: justify;
+}
+.ddg-text{
+line-height: 1.5; margin-top :0pt; 
+}
+.ddg-body{
+font-size: 12pt; font-family: "Times New Roman",  serif;  font-weight: 400; white-space: pre-wrap;
+}
+.ddg-italic{
+font-size: 12pt;  font-weight: 400; font-style: italic; white-space: pre-wrap;
+}
+.foundations-body{
+font-size: 12pt; font-family: 'Times New Roman';  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
+}
+.hurting-body{
+font-family: "Times New Roman",  serif; font-size: 16px;text-align: justify;
+}
+.fm-body{
+font-size: 16px; font-family: monospace;  font-weight: 400; white-space: nowrap; line-height: 1.5;
+}
+.missed-bold{
+font-size:16px;font-family:'Times New Roman'; font-weight: 700; white-space: pre; white-space: pre-wrap;text-align: justify;
+}
+.missed-body{
+font-size:16px;font-family:'Times New Roman' ; font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
+}
+.basb-body{
+font-size:16px; font-family: "Times New Roman",  serif;  font-weight: 400; white-space: pre-wrap;line-height:1.5;text-align: justify;
+}
+.tavola-body{
+font-size: 16px; font-family: "futura", sans-serif; font-weight: 400 white-space: pre; white-space: pre; white-space: pre-wrap;text-align: justify;
+}
+.cloudberry-text{
+line-height: 1.2; font-size: 16px; font-family: "Times New Roman", serif;  font-weight: 400; white-space: pre; white-space: pre-wrap; z-index: 50;
+}
+.goldfish-body{
+font-size: 12pt; font-family:monospace;  font-weight: 400; white-space: pre-wrap;line-height: 1.5;
+}
+.woman-body{
+font-size: 12pt; font-family:"futura", sans-serif;  background-color: #ffffff; font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
+}
+.continent-body{
+font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; white-space: normal;text-align: justify;
+}
+.ground-body{
+font-size:16px;font-family:"futura", sans-serif;  font-weight: 400; white-space: normal;text-align: justify;
+}
+.marching-body{
+font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;/*  text-align: left;line-height:1.2;  */ 
+}
+.geese-body{
+font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
+}
+.le-body{
+font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style: normal; vertical-align: baseline; white-space: pre-wrap; text-align: justify;
+}
+
+.modal-dialog{
+	width: 630px;
+	margin: 0px auto 0px auto;
+	
+}
+.modal-body{
+	height:100%;
+ }
+.scroll{
+	overflow:scroll;
+	height:100%;
+	// width:100px;
+	scrollbar-width:  5px;
+ }
+.modal-content{
+    -webkit-box-shadow: 0 5px 15px rgba(0,0,0,0);
+    -moz-box-shadow: 0 5px 15px rgba(0,0,0,0);
+    -o-box-shadow: 0 5px 15px rgba(0,0,0,0);
+    box-shadow: 0 5px 15px rgba(0,0,0,0);
+    padding: 75px 40px 40px 40px;	
+    border-width: 0px;
+    height: 100vh; 
+} 
+.modal-header{
+	/* position: absolute; */
+	/* top: 0px; */
+	height: 80px;
+	margin-top: -80px;
+	/* margin-left: -40px; */
+	width: 87%;
+}
+
+.btn{
+	background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    text-shadow: 0px;
+    font-family: "termina", "futura", sans-serif;
+    font-size: 80px;
+    font-style:;
+    transition: 0.2s;
+    color: #ba0029;
+}
+.btn:hover{
+	text-shadow: 6px 6px 15px black;
+	transition: 0.2s;
+	color: #ba0029;
+}
