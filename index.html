@@ -14,9 +14,9 @@
 	 </head>
 	<body>
 		<div class="se-pre-con"></div>
-		<img class="nav-button" href="#home" src="assets/images/Copy-of-FoolsOfficialLogo_red.png" alt="">
+		<a href="#home"><img class="nav-button" src="assets/images/Copy-of-FoolsOfficialLogo_red.png" alt=""></a>
 		
-<div class="modal fade" id="modal-letter" 				tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal fade" id="modal-letter" 				tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -738,7 +738,7 @@
 					 <img class="full-image" style="margin-left:200px;" src="assets/images/Estlund - Becoming Woman/FINALFRONT.jpg" >
 					 <img src="assets/images/Fools Title.png" style="position: absolute;left:400px;top:100px;height: 170px;" alt="">
 				     </div>
-				<div class="slide" id="table-of-contents">
+				<div class="slide" style="margin-right: 0px;" id="table-of-contents">
 					<div>
 						<a class="toc-link" href="#looking-glass">Looking Glass Self</a><br>
 						<a class="toc-link" href="#jt">Interview with Jia Tolentino</a><br>
@@ -764,7 +764,7 @@
 						<a class="toc-link" href="#back-cover">back-cover</a><br> 
 					 </div>
 				 </div>
-				<div class="slide" id="sponsors">
+				<div class="slide" style="margin-right: 0px;" id="sponsors">
 					<div>
 					<p style="white-space:pre-wrap;width:400px;">THANK YOU sponsors!</p>
 
@@ -775,7 +775,7 @@
 					</div>
 					<!-- <img class="full-image" src="assets/images/PDF Whole Pages/Sponsors.png"> -->
 				 </div>
-				<div class="slide" id="editor-letter">
+				<div class="slide" style="margin-right: 0px;" id="editor-letter">
 					<div class="" style="">
 						<button type="button" class="btn" style="" data-toggle="modal" data-target="#modal-letter">A<br> Letter<br> from<br> the<br> Editor</button>
 					</div>
@@ -845,17 +845,22 @@
 				 </div>
 				<div class="slide" id="looking-glass">
 					<img class="" style="margin: auto 0px auto 0px; height: 80vh;" src="assets/images/Looking Glass Self/Sandersfeld-pre1.png" alt="">
-					<button type="button" class="btn" style="" data-toggle="modal" data-target="#modal-lgs">Looking<br>Glass<br>Self</button>
+					<div class="title-wrapper">
+						<button type="button" class="btn" style="" data-toggle="modal" data-target="#modal-lgs">Looking<br>Glass<br>Self</button>
+						<p>Text by Adrian Sandersfeld<br>Illustration by Adrian Sandersfeld</p>
+					 </div>	
 					<img class="" style="margin: auto 0px auto 0px; height: 80vh;" src="assets/images/Looking Glass Self/Sandersfeld-post2.png" alt="" style="z-index: -1">
 				 </div>
 				<div class="slide" id="jt">
 					<img class="full-image" src="assets/images/Tolentino Interview/Le-Tolentino.jpg" alt="">
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-jt">Navigating<br> Self-Delusion:<br> An Interview with<br> Jia Tolentino</button>
-						
-					
+					<div>	
+						<button type="button" class="btn" data-toggle="modal" data-target="#modal-jt">Navigating<br> Self-Delusion:<br> An Interview with<br> Jia Tolentino</button>
+						<p>By Gabbie Meis<br>Photos by Vivian Le</p>
+					 </div>
 					<img class="small-image" src="assets/images/Tolentino Interview/Le-Tolentino2.jpg" alt="">
 				 </div>
 				<div class="slide" id="exit-poem">
+					<p style="position: absolute; bottom: 0px;">by Megan DeRiemacker<br>illustrations by Katie Schumaker</p>
 					<div style="position: absolute;margin-top:100px;">
 						<p dir="ltr" class="exit-body">
 						Exit poem so in the mouth
@@ -897,28 +902,36 @@
 					<img class="" style="height:120vh;" src="assets/images/Schumaker-Exit Poem.png" alt="">
 				 </div>
 				<div class="slide" id="mirrors">
+					<div>
+						<p style="font-size: 60px;">mirrors were the original soul stealers</p>
+						<p>by Nate Graveen<br>illustrations by Katie Craver</p>
+					 </div>
 					<img class="" style="height:60vh;transform: scaleY(-1);"src="assets/images/Mirrors/Craver-Mirrors2.png" alt="">
 					<img class="" style="height:60vh;transform: scaleX(-1);" src="assets/images/Mirrors/Craver-Mirrors1.png" alt="">
 					<img style="position:absolute;"src="assets/images/Mirrors/Mirrors Text.png" alt="">
 				 </div>
 				<div class="slide" id="ismee">
 					<button type="button" class="btn ismee-title" data-toggle="modal" data-target="#modal-ismee">Ismee</button>
-					
+					<p>by Rana Hewezi<br>illustrations by Lydia Waheed</p>
 					<img class="ismee-image" src="assets/images/Ismee/ismee1.jpg" alt="">
 					<img class="small-image" src="assets/images/Ismee/ismee2.jpg" alt="">
 					<img class="small-image" src="assets/images/Ismee/ismee3.jpg" alt="">
 				 </div>
 				<div class="slide" id="prospect">
-					<div>
+					<div style="height:90vh; width: 100px; overflow: hidden; margin: auto 50px auto 0px; position: relative;">
+						<img class="" src="assets/images/Prospect, PA/Dean-Prospect--Small.jpg" alt="">
+					</div>
+					<div style="margin-right: 400px;">
+						<span dir="ltr" class=""style="font-family:'lust display',serif;">
+						Prospect, Pennsylvania, 1985, 8:00 PM</span>
+						<p>by Nathan Miller - --- - photos by Henry Dean</p>
 						<p dir="ltr" class="prospect-body">
-						Prospect, Pennsylvania, 1985, 8:00 PM&nbsp;&nbsp;
-						&nbsp;
 						Winters were cold &nbsp;
 						and vengeful, and lingered &nbsp;
 						like icicles along &nbsp;
 						our slanted porch roof. &nbsp;
 						At night, I climbed tall stairs &nbsp;
-								  to a landing &nbsp;
+						&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to a landing &nbsp;
 						then three steps more &nbsp;
 						to a bed that towered &nbsp;
 						above my head, &nbsp;
@@ -943,17 +956,16 @@
 						clouded obscurance. &nbsp;
 						Tonight myath wanders &nbsp;
 						into endless treelines of sleep.&nbsp;</p>
-
-
 					</div>
-					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect--Small.jpg" alt="">
-					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect2--Small.png" alt="">
-					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect3--Small.png" alt="">
-					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect4--Small.png" alt="">
-					<img class="small-image" src="assets/images/Prospect, PA/Dean-Prospect5--Small.png" alt="">
+					<img class="" style="position: absolute; top:100px; right:0px; height: 600px;" src="assets/images/Prospect, PA/Dean-Prospect5--Small.jpg" alt="">
+					<img class="small-image" style="position: relative; right:0px;" src="assets/images/Prospect, PA/Dean-Prospect2--Small.jpg" alt="">
+					<img class="small-image" style="position: relative; top:0px;" src="assets/images/Prospect, PA/Dean-Prospect4--Small.jpg" alt="">
+					<div style="position: absolute; bottom:0px; width: 1000px; height: 100px; overflow:hidden;">
+						<img class="" style="position: relative; top: -200px;" src="assets/images/Prospect, PA/Dean-Prospect3--Small.jpg" alt="">
+					</div>
 				 </div>
 				<div class="slide" id="tokarski">
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-tokarski">Allie Tokarski</button>
+					<button type="button" class="btn" style="font-family:'lust display'; color:lightblue;margin:auto 0px auto 0px;" data-toggle="modal" data-target="#modal-tokarski">A l l i e<br>Tokarski</button>
 					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski1.jpg" alt="">
 					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski2.jpg" alt="">	
 					<img class="small-image" src="assets/images/Allie Tokarski/Tokarski3.jpg" alt="">	
@@ -963,6 +975,7 @@
 				 </div>
 				<div class="slide" id="duckduckgo">
 					<div>
+						<p>by Faith Ellington<br>photos by Jane Freeman</p>
 						<p dir="ltr" class="ddg-text ddg-body"><nobr>https://<br>
 						duckduckgo.com/<br>
 						?q=bad+habits+or+addiction%<br>
@@ -990,6 +1003,7 @@
 
 				 </div>
 				<div class="slide" id="foundations">
+					<p>By Miranda Jud<br>Illustration by Kerstin Stillman</p>
 					<button type="button" class="btn" data-toggle="modal" data-target="#modal-foundations">Foundations</button>
 					
 					<img class="small-image" src="assets/images/Stillman-Foundations.jpeg" alt="">
@@ -997,6 +1011,7 @@
 				 </div>
 				<div class="slide" id="feel-better">
 					<div class="text-container">
+						<p>by Avery Tucker</p>
 						<p class="hurting-body">It will feel better when it stops hurting<br>Avery Tucker<br>My series It will feel better when it stops hurting explores the ways divorce alters childhood, memory, and development. These photographs show my half-sister Tuscany on my father’s land. Sometimes they are posed; sometimes they are not. In this project, I explore the connection between our experiences as children of divorce, how our memories and understandings differ. I use the landscape images as a representation of myself and as a meditation on what the future holds. The title comes from an expression my father would say when I scraped my knees or fell off my bike, but in the context of this project, it has transformed into an examination of pain and healing. Will it ever feel better? Does it ever stop hurting?</p>
 	
 					</div>
@@ -1012,6 +1027,7 @@
 					
 				 </div>
 				<div class="slide" id="father-mother">
+					<p>by Mara Smith<br>Illustrations by Allie Tokarski</p>
 					<img class="full-image" style="position:absolute;top:-200px;z-index: -100;" src="assets/images/Father_Mother/FM-Tokarski3.png" alt="">
 					<div class="poetry-container" style="padding-top:400px;">
 						<p dir="ltr" class="fm-body">Father&nbsp;</p>
@@ -1046,27 +1062,26 @@
 				 	
 				 </div>
 				<div class="slide" id="missed-connections">
+					<p>by Lexys Sillin<br>illustration by Madelyn DeWitt</p>
 					<button type="button" class="btn" data-toggle="modal" data-target="#modal-connections">Missed Connections</button>
-					
-					
 					<img class="full-image" style=""  src="assets/images/Missed Connections/fools_0020_Missed-Connection_-Driving-on-218-South-last--Thursday-around-2.png" alt="">
 					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/fools_0021_Rectangle-1.png" alt="">
 					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/fools_0002_SCANLINE-by-freeject.net-1.png" alt="">
 					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/Dewitt-Missed Connections.png" alt="">
 				 </div>
 				<div class="slide" id="spaces-in-between">
+					<p>by Madalyn Whitaker<br>illustration by Kate Snyder</p>
 					<img class="full-image" src="assets/images/Snyder-TheBeforetheAfter.png" alt="">
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-spaces">The Before, The After, & the Spaces in Between</button>
-					
-					
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-spaces">The Before, The After, & the Spaces in Between</button>					
 				 </div>
 				<div class="slide" id="le-donne"> 
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-ledonne">Click to Read</button>
-					
+					<p>by Carmella Furio<br>illustrations by Zoe Hermsen</p>
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-ledonne">Le Donne alla Tavola</button>
 					<img class="small-image" src="assets/images/" alt="">
-					
 				 </div>
 				<div class="slide" id="cloudberry">
+					<p>CLOUDBERRY</p>
+					<p>by Callan Latham<br>illustration by Mollie Phalen</p>
 					<div style="right: 20px; bottom:50px;position:absolute;">
 						<p class="cloudberry-text"><nobr>
 						<br>
@@ -1112,6 +1127,8 @@
 					<!-- <img class="full-image" style="position:absolute; left:0;" src="assets/images/Cloudberry/Pottebaum-Cloudberry.png" alt=""> -->
 				 </div>
 				<div class="slide" id="goldfish">
+					<p>goldfish</p>
+					<p>by Marielle Asensio<br>photo by Ally Philippi</p>
 					<div class="relative-text-wrapper" style="width: 50vw; z-index: 50;">
 						<p dir="ltr" class="goldfish-body">Goldfish</p>
 						<br>
@@ -1144,11 +1161,12 @@
 						&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;of a smoker.</span></nobr></p>
 
 					 </div>
-					 	<img class="full-image" style="position:absolute;" src="assets/images/Goldfish/Phillippi-Goldfish.png" alt="">
+					<img class="full-image" style="position:absolute;" src="assets/images/Goldfish/Phillippi-Goldfish.png" alt="">
 
 					 	<!-- <img class="full-image" style="position: absolute;"  src="assets/images/Goldfish/Pottebaum - Goldfish.png" alt=""> -->
 				 </div>
 				<div class="slide" id="being-woman">
+					<p>by Gabby Estlund</p>
 					<div class="artist-caption">
 						<p class="woman-body">For so long, my identity as a woman was dictated by others. Though I recognized this early in my life, I never confronted it. I created this project to examine how easily I fall into a habit of comparing myself to the unattainable ideals of womanhood in nearly every realm of pop culture. In this way, I began to explore the bearings that culture has on the individual woman's self-perception, and specifically my own. While each narrative is unique, the overarching experience of being scrutinized remains. Advertising several decades ago boasted blatant sexism toward women, and though it may not be as direct today, it is far from eradicated. Setting scenes from the 1950s and ‘60s is a reminder that remnants from the past persist; women live in a present continually shaped by what came before now. </p>
 					</div>
@@ -1162,15 +1180,15 @@
 					<img class="small-image" src="assets/images/Estlund - Becoming Woman/e-woman8.jpg" alt="">
 				 </div>
 				<div class="slide" id="white-continent">
-					<p class="continent-body">The White Continent</p>
-					<span class="btn" data-toggle="modal" data-target="#modal-continent">The White Continent</span>
-					
+					<button class="btn" data-toggle="modal" data-target="#modal-continent">The White Continent</button>
+					<p>by Lauren Arzbaecher<br>illustration by Cailin Hall</p>
 					<img class="small-image" src="assets/images/White Continent/Arzbaecher-Continent.JPG" alt="">
 					<img class="small-image" src="assets/images/White Continent/Hall-Continent.png" alt="">
 					<img class="small-image" src="assets/images/White Continent/Hall-Continent2.png" alt="">
 					<img class="small-image" src="assets/images/White Continent/Hall_Arzbaecher.png" alt="">
 				 </div>
 				<div class="slide" id="ground-control">
+					<p>by AV</p>
 					<div class="text-container">
 						<p class="ground-body">“ground control: using physical space to catalog rising and falling”<br><br>
 
@@ -1202,14 +1220,16 @@
 					<img class="small-image" src="assets/images/ground control/groundcontrol8.jpg" alt="">
 				 </div>
 				<div class="slide" id="marching">
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-marching">Click to Read</button>
+					<p>by Stella Tarlin<br>photos by Meria Ivy</p>
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-marching">The Art of Marching</button>
 					<p dir="ltr" class="marching-body">The Art of Marching</p>
 					
 					<img class="full-image" src="assets/images/" alt="">
 				 </div>
 				<div class="slide" id="geese">
+					<p>by Hannah Reynoso<br>illustration by Julia Reichart</p>
 					<p dir="ltr" class="geese-body" style="white-space:nowrap;">Seeking Validation from The Geese</p>
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-geese">Click to Read</button>
+					<button type="button" class="btn" data-toggle="modal" data-target="#modal-geese">Seeking Validation from the Geese</button>
 					
 					<img class="small-image" src="assets/images/Seeking Validation from the Geese/Reichart-Tree for Validation.png" alt="">
 					<img class="small-image" src="assets/images/Seeking Validation from the Geese/Reichart-Validation.png" alt="">

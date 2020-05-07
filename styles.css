@@ -11,22 +11,10 @@
  }
 
 
-
 body{
 	margin: 0;
 	padding: 0;
 }
-
-a:link{
- 	
- }
-a:hover{
- 	
-
- }
-a:visited{
- 	
- }
 
 hr{
 	border-width: 1px;
@@ -42,10 +30,12 @@ hr{
  	cursor: pointer;
  	line-height: 1.5;
  	font-family: "futura", sans-serif;
+ 	 /* -webkit-backface-visibility: hidden; antialiasing and transition issues
+ 	 transition: .2s; */
+
 }
 .toc-link:hover{
 	opacity: 1;
- 	/* text-decoration: underline; */
  	color: #ba0029;
 }
 .toc-link:visited{
@@ -56,7 +46,7 @@ hr{
 	background-color: #e8e8e0;
 	/* background: url('assets/images/Estlund - Becoming Woman/EDITCloth.png') center no-repeat; */
 	width: 100vw;
-	/* margin-right:-50vh */
+	margin-right:0vh
  }
 
 #table-of-contents{
@@ -114,6 +104,7 @@ hr{
 	z-index: 100; 
 	/* height: 100px; */
 	width: 100px;
+	opacity: .5;
 }
 .nav-button-text{
 	font-weight: bold; 
@@ -126,7 +117,10 @@ hr{
 .nav-button:visited{
 	color: #ba0029;
 }
+.nav-button:hover{
+	opacity: 1;
 
+}
 
 .title{
 	position: absolute;
@@ -218,7 +212,7 @@ font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre; li
 font-size: 12pt; font-weight: 400;  white-space: pre-line;  line-height: 1.5;text-align: justify;
 } 
 .prospect-body{
-font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre; line-height: 1.5;
+font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre-line; line-height: 1.5;
  } 
 .tokarski-body{
 font-family:"futura", sans-serif; font-size: 16px; white-space: pre-wrap;text-align: justify;
@@ -319,8 +313,8 @@ font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style:
     transition: 0.2s;
     color: #ba0029;
     height: 80px;
-    display: inline-block;
-    margin: auto 0px auto 0px;
+    display: inline;
+   /*  margin: auto 0px auto 0px; */
     z-index: 10;
 }
 .btn:hover{
@@ -337,4 +331,8 @@ font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style:
 }
 .ismee-title:hover{
 	color: white;
+}
+
+.title-wrapper{
+	 margin: auto 0px auto 0px;
 }
