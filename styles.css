@@ -55,7 +55,7 @@ hr{
  }
 
 #table-of-contents{
-	padding: 20px;
+	padding: 40px;
 	margin-right: 0px;
 	font-size: 20px;
 	background-color: #e8e8e0;
@@ -67,17 +67,20 @@ hr{
 	padding-top: 0px;
 }
 #sponsors{
-	width: 50vw;
+	/* width: 50vw; */
 	background: url('assets/images/sponsors-katie.png') center no-repeat;
 	background-size: auto 100%;
 	margin-right: 0px;
 }
-#mashead{
-	margin-right: 0px;
+#masthead{
+	margin-right: 10vw;
+	overflow: hidden;
+
 }
 #exit-poem{
 	width: 50vw;
 	text-align: center;
+	margin-right: 20vh;
 }
 #goldfish{
 	background-color: black; 
@@ -86,7 +89,7 @@ hr{
 }
 #ismee{
 	background-color: #e31b28;
-	width: 80vw;
+	width: 1000px;
 	margin-right: 20vw;
 }
 #mirrors{
@@ -111,8 +114,14 @@ hr{
 #jt{
 	padding-left: 15vw;
 	background-color: #f9a826;
+	width: 2000px;
 }
-
+#geese{
+	margin-right: 15vw;
+}
+#marching{
+	width: 1500px;
+}
 .outer-wrapper{
 	width: 100vh;
 	height: 100vw;
@@ -382,9 +391,7 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 
 .ismee-title{
 	color: #126e95;
-	position: absolute;
-	top: 25vh;
-	left: 50vh;
+
 	font-family: 'lust display', serif; 
 	font-style: italic;
 }
@@ -444,14 +451,19 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 	color: white;
 }
 
-.foundations-title{
+.prospect-title{
 	position: relative;font-family:'lust display',serif;font-style:italic;
-	color: white;
+	color: black;
+	text-shadow: 6px 6px 15px silver;
 }
-.foundations-title:hover{
-	color: white;
+.prospect-title:hover{
+	color: white; 
+	text-shadow: 4px 4px 18px #black;
 }
-
+.foundations-title, .foundations-title:hover{
+	color: white;
+	display: inline-block;
+}
 .cont-title, .cont-title:hover{
 	color :#f9a826;
 	font-family: 'lust', serif;
@@ -459,4 +471,28 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 
 .exit-title, .exit-title:hover{
 	font-family:'futura-pt', sans-serif;font-size: 40px;color: black; font-weight: 100;
+}
+.tolentino-image{
+	height: 30vh;
+}
+.cloudberry-title, .cloudberry-title:hover{
+	color: #212529;
+	font-family: 'futura', sans-serif; font-weight: bold;font-size: 40px;
+}
+.gc-image{
+	height: 40vh;
+}
+.hurting-image{
+	height: 40vh;
+}
+
+.march-wrapper{
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	margin: 20px 40px 20px 40px;
+
+}
+.march-image{
+	height: 35vh;
 }
