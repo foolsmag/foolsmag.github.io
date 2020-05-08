@@ -31,7 +31,7 @@ hr{
  	text-decoration: none;
  	cursor: pointer;
  	line-height: 1.5;
- 	font-family: "futura", sans-serif;
+ 	font-family: "futura-pt", sans-serif;
  	 /* -webkit-backface-visibility: hidden; antialiasing and transition issues
  	 transition: .2s; */
 
@@ -64,11 +64,22 @@ hr{
 }
 #goldfish{
 	background-color: black; 
-	width: 50vw;
+	width: 60vw;
 }
 #ismee{
 	background-color: #e31b28;
-	width: 100vw;
+	width: 80vw;
+	margin-right: 20vw;
+}
+#mirrors{
+	margin-right: 10vw;
+}
+#duckduckgo{
+	width: 60vw;
+	margin-right: 30vw;
+}
+#prospect{
+
 }
 
 .outer-wrapper{
@@ -96,7 +107,7 @@ hr{
 	flex-shrink: 0;
 	display: inline-flex;
 
-	margin-right: 50vw;
+	margin-right: 30vw;
 	position: relative;
  }
 
@@ -117,7 +128,7 @@ hr{
  	color: #ba0029;
  	text-decoration: none;
  	line-height: 1.5;
- 	font-family: "futura", sans-serif;
+ 	font-family: "futura-pt", sans-serif;
  }
 .nav-button:visited{
 	color: #ba0029;
@@ -129,7 +140,7 @@ hr{
 
 .title{
 	position: absolute;
-	font-family: "futura", sans-serif;
+	font-family: "futura-pt", sans-serif;
 	font-size: 8em;
 	font-weight: bolder;
 	color: #ba0029;
@@ -145,7 +156,7 @@ hr{
 	position: absolute;
 	bottom: 100px;
 	left: 80vw;
-	font-family: "futura", sans-serif;
+	font-family: "futura-pt", sans-serif;
 	color: #ba0029;
 
 }
@@ -168,9 +179,10 @@ hr{
 .text-wrapper{
 	/* this does nothing but clear flex child properties. used to let columns expand */
 }
-.poetry-container{
-	height:90vh;
+.fm-container{
+	/* height:90vh; */
 	width: 300px;
+	margin:50vh 50px;
 }
 .text-container{
 	height:90vh;
@@ -202,16 +214,16 @@ hr{
 
 
 .lgs-body{
-font-family: "futura", sans-serif; font-size: 16px; font-weight: 300; white-space: pre-wrap; line-height:1.5;margin-top:0pt;margin-bottom:0pt; text-align: justify;
+font-family: "futura-pt", sans-serif; font-size: 16px; font-weight: 300; white-space: pre-wrap; line-height:1.5;margin-top:0pt;margin-bottom:0pt; text-align: justify;
 }
 .tolentino-text{
-line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: justify;font-family:"futura";
+line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: justify;font-family:"futura-pt";
 }
 .tolentino-body{
-font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; vertical-align: baseline ;white-space: pre; white-space: pre-wrap;text-align: justify;
+font-size: 12pt; font-family:"futura-pt", sans-serif;  font-weight: 400; vertical-align: baseline ;white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .exit-body{
-font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre; line-height: 1.5;
+font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre-line; line-height: 1.5;
 }
 .ismee-body{
 font-size: 12pt; font-weight: 400;  white-space: pre-line;  line-height: 1.5;text-align: justify;
@@ -220,37 +232,31 @@ font-size: 12pt; font-weight: 400;  white-space: pre-line;  line-height: 1.5;tex
 font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre-line; line-height: 1.5;
  } 
 .tokarski-body{
-font-family:"futura", sans-serif; font-size: 16px; white-space: pre-wrap;text-align: justify;
-}
-.ddg-text{
-line-height: 1.5; margin-top :0pt; 
+font-family:"futura-pt", sans-serif; font-size: 16px; white-space: pre-wrap;text-align: justify;
 }
 .ddg-body{
-font-size: 12pt; font-family: "Times New Roman",  serif;  font-weight: 400; white-space: pre-wrap;
-}
-.ddg-italic{
-font-size: 12pt;  font-weight: 400; font-style: italic; white-space: pre-wrap; 
+font-size: 12pt; font-family: monospace;  font-weight: 400; white-space: pre-wrap;line-height: 1.5;
 }
 .foundations-body{
 font-size: 12pt; font-family: 'Times New Roman';  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .hurting-body{
-font-family: "Times New Roman",  serif; font-size: 16px;text-align: justify;
+font-family: "futura-pt", sans-serif; font-size: 16px;text-align: justify;
 }
 .fm-body{
 font-size: 16px; font-family: monospace;  font-weight: 400; white-space: nowrap; line-height: 1.5;
 }
 .missed-bold{
-font-size:16px;font-family:'futura',sans-serif; font-weight: 700; white-space: pre; white-space: pre-wrap;text-align: justify;
+font-size:16px;font-family:'futura-pt',sans-serif; font-weight: 700; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .missed-body{
-font-size:16px;font-family:'futura',sans-serif ; font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
+font-size:16px;font-family:'futura-pt',sans-serif ; font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .basb-body{
 font-size:16px; font-family: "Times New Roman",  serif;  font-weight: 400; white-space: pre-wrap;line-height:1.5;text-align: justify;
 }
 .tavola-body{
-font-size: 16px; font-family: "futura", sans-serif; font-weight: 400 white-space: pre; white-space: pre; white-space: pre-wrap;text-align: justify;
+font-size: 16px; font-family: "futura-pt", sans-serif; font-weight: 400 white-space: pre; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .cloudberry-text{
 line-height: 1.2; font-size: 16px; font-family:sans-serif;  font-weight: 400; white-space: pre; white-space: pre-wrap; z-index: 50;
@@ -259,70 +265,84 @@ line-height: 1.2; font-size: 16px; font-family:sans-serif;  font-weight: 400; wh
 font-size: 12pt; font-family:monospace;  font-weight: 400; white-space: pre-wrap;line-height: 1.5;
 }
 .woman-body{
-font-size: 12pt; font-family:"futura", sans-serif;  background-color: #ffffff; font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
+font-size: 12pt; font-family:"futura-pt", sans-serif;  background-color: #ffffff; font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .continent-body{
-font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; white-space: normal;text-align: justify;
+font-size: 12pt; font-family:"futura-pt", sans-serif;  font-weight: 400; white-space: normal;text-align: justify;
 }
 .ground-body{
-font-size:16px;font-family:"futura", sans-serif;  font-weight: 400; white-space: normal;text-align: justify;
+font-size:16px;font-family:"futura-pt", sans-serif;  font-weight: 400; white-space: normal;text-align: justify;
 }
 .marching-body{
-font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;/*  text-align: left;line-height:1.2;  */ 
+font-size: 12pt; font-family:"futura-pt", sans-serif;  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;/*  text-align: left;line-height:1.2;  */ 
 }
 .geese-body{
-font-size: 12pt; font-family:"futura", sans-serif;  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
+font-size: 12pt; font-family:"futura-pt", sans-serif;  font-weight: 400; white-space: pre; white-space: pre-wrap;text-align: justify;
 }
 .le-body{
-font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style: normal; vertical-align: baseline; white-space: pre-wrap; text-align: justify;
+font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-style: normal; vertical-align: baseline; white-space: pre-wrap; text-align: justify;
 }
 
+
+@media (min-width: 576px){
+.modal-dialog {
+    max-width: 1000px;
+    margin: 1.75rem auto;
+}
+}
 .modal-dialog{
 	width: 700px;
-	margin: 0px auto 0px auto;
-	
+	margin: 0px auto 0px auto;	
 }
+
 .modal-body{
-	height:100%;
+	height:90%;
  }
 .scroll{
 	overflow:scroll;
 	height:100%;
-	// width:100px;
 	scrollbar-width:  5px;
  }
  .modal-title{
- 	font-size: 25px;
- 	margin-top: 20px;
+ 	/* font-size: 25px; */
+ 	 /* margin-top: -80px;  */
+ 	display: block;
+ }
+ .close{
+ 	display: block;
+ 	float: none;
+
  }
 .modal-content{
     -webkit-box-shadow: 0 5px 15px rgba(0,0,0,0);
     -moz-box-shadow: 0 5px 15px rgba(0,0,0,0);
     -o-box-shadow: 0 5px 15px rgba(0,0,0,0);
     box-shadow: 0 5px 15px rgba(0,0,0,0);
-    padding: 75px 40px 40px 40px;	
+    padding: 0px 40px 40px 40px;	
     border-width: 0px;
     height: 100vh; 
 } 
 .modal-header{
-	/* position: absolute; */
-	/* top: 0px; */
-	height: 80px;
-	margin-top: -80px;
+	position: relative; 
+	top: 0px; 
+	height: 10%;
+	/* margin-top: -80px; */
 	/* margin-left: -40px; */
+	/* margin-bottom: -60px; */
 	width: 100%;
+	display: block;
 }
 
 .btn{
 	background:none;
     border:none;
     text-shadow: 0px;
-    font-family: "termina", "futura", sans-serif;
+    font-family: "termina", "futura-pt-pt", sans-serif;
     font-size: 80px;
     transition: 0.2s;
     color: #ba0029;
     height: 80px;
-    display: inline;
+    /* display: inline; */
    /*  margin: auto 0px auto 0px; */
     z-index: 10;
 }
@@ -333,17 +353,22 @@ font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style:
 }
 
 .ismee-title{
-	color: white;
+	color: #126e95;
 	position: absolute;
 	top: 20vh;
 	left: 50vh;
+	font-family: 'lust display', serif; 
+	font-style: italic;
 }
 .ismee-title:hover{
-	color: white;
+	color: #126e95;
+	text-shadow: 6px 6px 15px #f5dec1;
 }
 
 .title-wrapper{
 	 margin: auto 0px auto 0px;
+	 display: flex;
+	 flex-direction: column;
 }
 
 .tokarski-image{
@@ -355,8 +380,11 @@ font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style:
 
 #le-donne{
 	background-color: #2c1219;
+	margin-right: 0px;
 }
-
+#missed-connections{
+	width: 50vw;
+}
 .woman-image{
 	height: 70vh;
 	margin:  auto 50px;
@@ -395,4 +423,14 @@ font-family:"futura", sans-serif; font-size: 11pt; font-weight: 300; font-style:
 background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(44,18,25,1) 80%);
 	width: 300px
 
+}
+
+.ddg-image{
+	position: absolute;
+	height: 40vh;
+}
+
+.mc-title{
+	text-align: left;
+	color: white;
 }

@@ -2,15 +2,13 @@
 <html>
 	<head>
 		<title>VOLUME 8 EXPERIENCE</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 		<link rel="shortcut icon" href="assets/images/Copy-of-FoolsOfficialLogo_red.png"/>
 		<meta charset="utf-8" />
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-		<script src="scripts.js" ></script>
-		<script src="jquery-3.4.1.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="styles.css" />
 		<link rel="stylesheet" href="https://use.typekit.net/jab2nlf.css">
+		<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+		<script src="scripts.js"></script>
 	 </head>
 	<body>
 		<div class="se-pre-con"></div>
@@ -855,26 +853,25 @@
 				<div class="slide" id="looking-glass">
 					<img class="" style="margin: auto 0px auto 0px; height: 80vh;" src="assets/images/Looking Glass Self/Sandersfeld-pre1.png" alt="">
 					<div class="title-wrapper">
-						<button type="button" class="btn" style="" data-toggle="modal" data-target="#modal-lgs">Looking<br>Glass<br>Self</button>
-						<p>Text by Adrian Sandersfeld<br>Illustration by Adrian Sandersfeld</p>
+						<div><button type="button" class="btn" style="" data-toggle="modal" data-target="#modal-lgs">Looking<br>Glass<br>Self</button></div>
+						<div><p>Text by Adrian Sandersfeld<br>Illustration by Adrian Sandersfeld</p></div>
 					 </div>	
 					<img class="" style="margin: auto 0px auto 0px; height: 80vh;" src="assets/images/Looking Glass Self/Sandersfeld-post2.png" alt="" style="z-index: -1">
 				 </div>
 				<div class="slide" id="jt">
-					<button type="button" class="btn" style="position: absolute;z-index: 10;text-align: left;left:-10vw;" data-toggle="modal" data-target="#modal-jt">Navigating<br> Self-Delusion:</button>
+					<button type="button" class="btn" style="position: absolute;z-index: 10;text-align: left;left:-10vw;" data-toggle="modal" data-target="#modal-jt">navigating<br> self-delusion:</button>
 					<img class="full-image" src="assets/images/Tolentino Interview/Le-Tolentino.jpg" alt="">
 					<div>	
 						
-						<button type="button" class="btn" style="position: absolute;bottom:10vw;right:0px;text-align: right;" data-toggle="modal" data-target="#modal-jt">An Interview with<br> Jia Tolentino</button>
+						<button type="button" class="btn" style="position: absolute;bottom:15vw;right:0px;text-align: right;" data-toggle="modal" data-target="#modal-jt">an interview with<br> Jia Tolentino</button>
 						<p>By Gabbie Meis<br>Photos by Vivian Le</p>
 					 </div>
 					<img class="small-image" src="assets/images/Tolentino Interview/Le-Tolentino2.jpg" alt="">
 				 </div>
 				<div class="slide" id="exit-poem">
-					<p style="position: absolute; bottom: 0px;">by Megan DeRiemacker<br>illustrations by Katie Schumaker</p>
-					<div style="position: absolute;margin-top:100px;">
-						<p dir="ltr" class="exit-body">
-						Exit poem so in the mouth
+					<p style="position: relative; bottom: 0px;">by Megan DeRiemacker<br>illustrations by Katie Schumaker</p>
+					<div style="position: relative">
+						<p dir="ltr" class="exit-body">Exit poem so in the mouth
 						so hot in the mouth so stuck
 						on its staying intent  ours
 						still beyond fear
@@ -908,14 +905,14 @@
 						so
 						un-
 						forgiving.</p>
-
-					</div>
-					<img class="" style="height:120vh;" src="assets/images/Schumaker-Exit Poem.png" alt="">
+						<img class="" style="height:120vh;position: absolute;top:-5vh;" src="assets/images/Schumaker-Exit Poem.png" alt="">
+					 </div>
+					
 				 </div>
 				<div class="slide" id="mirrors">
-					<div>
-						<p style="font-size: 60px;">mirrors were<br>the original<br>soul stealers</p>
-						<p>by Nate Graveen<br>illustrations by Katie Craver</p>
+					<div style="margin: auto 100px auto 0px;">
+						<span style="font-size: 60px;color: #ee373a; border-bottom-style: solid; border-bottom-width: 4px;">mirrors were</span><br><span style="font-size: 60px;color: #ee373a; border-bottom-style: solid; border-bottom-width: 4px;">the original</span><br><span style="font-size: 60px;color: #ee373a; border-bottom-style: solid; border-bottom-width: 4px;">soul stealers</span>
+						<p style="color: #ee373a;margin-top:20px;">by Nate Graveen<br>illustrations by Katie Craver</p>
 					 </div>
 					<div>
 						<img style="position:absolute;z-index: 10;"src="assets/images/Mirrors/Mirrors Text.png" alt="">
@@ -925,11 +922,11 @@
 					 </div>
 				 </div>
 				<div class="slide" id="ismee">
-					<button type="button" style="font-family: 'lust display', serif;font-style: italic;" class="btn ismee-title" data-toggle="modal" data-target="#modal-ismee">Ismee</button>
-					<p>by Rana Hewezi<br>illustrations by Lydia Waheed</p>
+					<button type="button" class="btn ismee-title" data-toggle="modal" data-target="#modal-ismee">Ismee</button>
+					<div style="color: #f5dec1;font-family:'futura-pt'; position:absolute; margin:30% 0px auto 40%;z-index: 10;"> <p>by Rana Hewezi<br>illustrations by Lydia Waheed</p></div>
 					<img class="ismee-image" src="assets/images/Ismee/ismee1.jpg" alt="">
-					<img class="small-image" src="assets/images/Ismee/ismee2.jpg" alt="">
-					<img class="small-image" src="assets/images/Ismee/ismee3.jpg" alt="">
+					<img class="" style="position: absolute; top:-80px; right:30%;height:50vh;" src="assets/images/Ismee/ismee2.png" alt="">
+					<img class="" style="position: absolute; bottom:0px; right:-10%;height:50vh;" src="assets/images/Ismee/ismee3.png" alt="">
 				 </div>
 				<div class="slide" id="prospect">
 					<div style="height:90vh; width: 100px; overflow: hidden; margin: auto 50px auto 0px; position: relative;">
@@ -971,9 +968,10 @@
 						Tonight myath wanders &nbsp;
 						into endless treelines of sleep.&nbsp;</p>
 					</div>
-					<img class="" style="position: absolute; top:100px; right:0px; height: 600px;" src="assets/images/Prospect, PA/Dean-Prospect5--Small.jpg" alt="">
-					<img class="small-image" style="position: relative; right:0px;" src="assets/images/Prospect, PA/Dean-Prospect2--Small.jpg" alt="">
-					<img class="small-image" style="position: relative; top:0px;" src="assets/images/Prospect, PA/Dean-Prospect4--Small.jpg" alt="">
+					
+					<img class="" style="position: absolute; top:100px; right:20px; height: 600px; " src="assets/images/Prospect, PA/Dean-Prospect5--Small.jpg" alt="">
+					<img class="" style="height: 30vh; position: relative; right:50px;top:200px;" src="assets/images/Prospect, PA/Dean-Prospect2--Small.jpg" alt="">
+					<img class="small-image" style="position: relative; top:0px;z-index: -10;" src="assets/images/Prospect, PA/Dean-Prospect4--Small.jpg" alt="">
 					<div style="position: absolute; bottom:0px; width: 1000px; height: 100px; overflow:hidden;">
 						<img class="" style="position: relative; top: -200px;" src="assets/images/Prospect, PA/Dean-Prospect3--Small.jpg" alt="">
 					</div>
@@ -996,13 +994,22 @@
 					<img class="full-image" src="assets/images/Allie Tokarski/Tokarski5.jpg" alt="">						
 				 </div>
 				<div class="slide" id="duckduckgo">
-					<div>
-						<p>by Faith Ellington<br>photos by Jane Freeman</p>
-						<p dir="ltr" class="ddg-text ddg-body"><nobr>https://<br>
+					
+					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG1.png" alt="">
+					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG2.png" alt="">
+					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG3.png" alt="">
+					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG4.png" alt="">
+					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG5.png" alt="">
+					<div style="z-index: 20;">
+						<div style="background-color:white;">
+						<p style="font-family: monospace;">by Faith Ellington<br>photos by Jane Freeman</p>
+						<p dir="ltr" class="ddg-body"><nobr>https://<br>
 						duckduckgo.com/<br>
 						?q=bad+habits+or+addiction%<br>
 						3F&amp;a+b=v112-1_y&amp;ia=web <br><br>
-						Resisting lingerie resisting chapstick call from a burner never<br>
+						</nobr></p></div>
+						<div style="background-color:white;">
+						<p dir="ltr" class="ddg-body"><nobr>Resisting lingerie resisting chapstick call from a burner never<br>
 						A landline too slow to disconnect splintered<br>
 						Knuckles doctor winds up until<br>
 						I can do it myself<br>
@@ -1017,22 +1024,17 @@
 						Weatherman says&nbsp; it cannot be possible</span></span><br>
 						Lake waves break frozen onto crackling</nobr></p>
 					 </div>
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG1.png" alt="">
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG2.png" alt="">
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG3.png" alt="">
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG4.png" alt="">
-					<img class="small-image" src="assets/images/DuckDuckGo/Freeman-DDG5.png" alt="">
-
 				 </div>
 				<div class="slide" id="foundations">
 					<div style="width: 90vw; height:100vh; overflow:hidden;position: relative;">
 						<img class="" style="position: absolute; width: 110vw; top: -30vw; left:-10vw;" src="assets/images/Stillman-Foundations.jpeg" alt="">
 						<button type="button" class="btn" style="position: absolute;font-family:'lust display',serif;font-style:italic;color:white;margin: 50vh auto auto 40%; z-index:20;" data-toggle="modal" data-target="#modal-foundations">Foundations</button>
+						<p style="color: white;">By Miranda Jud                -                 Illustration by Kerstin Stillman</p>
 						</div>
-					<p>By Miranda Jud<br>Illustration by Kerstin Stillman</p>
+					
 				 </div>
 				<div class="slide" id="feel-better">
-					<div style="width: 600px;">
+					<div style="width: 400px;margin:10vh 100px;">
 						<p style="font-family: sans-serif; font-size: 50px;font-weight: bold;">It Will Feel Better When It Stops Hurting</p>
 						<p>by Avery Tucker</p>
 						<p class="hurting-body">My series It will feel better when it stops hurting explores the ways divorce alters childhood, memory, and development. These photographs show my half-sister Tuscany on my father’s land. Sometimes they are posed; sometimes they are not. In this project, I explore the connection between our experiences as children of divorce, how our memories and understandings differ. I use the landscape images as a representation of myself and as a meditation on what the future holds. The title comes from an expression my father would say when I scraped my knees or fell off my bike, but in the context of this project, it has transformed into an examination of pain and healing. Will it ever feel better? Does it ever stop hurting?</p>
@@ -1051,9 +1053,11 @@
 				 </div>
 				<div class="slide" id="father-mother">
 					<img class="full-image" style="position:absolute;top:-200px;z-index: -100;" src="assets/images/Father_Mother/FM-Tokarski3.png" alt="">
-					<p style="font-family: 'lust'; font-size: 50px;color:rgb(30,30,50)">Father/Mother</p>
-					<p>by Mara Smith<br>Illustrations by Allie Tokarski</p>
-					<div class="poetry-container" style="padding-top:400px;">
+					<div style="position: absolute;">
+						<p style="font-family: 'lust'; font-size: 50px;color:rgb(30,30,50)">Father/Mother</p>
+						<p>by Mara Smith<br>Illustrations by Allie Tokarski</p>
+					</div>
+					<div class="fm-container">
 						<p dir="ltr" class="fm-body">Father&nbsp;</p>
 						<p dir="ltr" class="fm-body">
 						I creep into your house <br>
@@ -1068,7 +1072,7 @@
 						but I&rsquo;ll be home soon.</p>
 
 					</div>
-					<div class="poetry-container"style="padding-top:400px;">
+					<div class="fm-container">
 						<p dir="ltr" class="fm-body">Mother&nbsp;</p>
 						<p dir="ltr" class="fm-body">I wonder how many times you heard me<br>
 						in my room crying and decided this is when<br>
@@ -1086,8 +1090,10 @@
 				 	
 				 </div>
 				<div class="slide" id="missed-connections">
-					<p>by Lexys Sillin<br>illustration by Madelyn DeWitt</p>
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-connections">Missed Connections</button>
+					<div style="position: absolute">
+						<button type="button" class="btn mc-title" data-toggle="modal" data-target="#modal-connections">A<br>SERIES OF MISSED<br>CONNECTIONS</button>
+						<p style="font-weight: bold;color:white;">by Lexys Sillin<br>illustration by Madelyn DeWitt</p>
+					 </div>
 					<img class="full-image" style=""  src="assets/images/Missed Connections/fools_0020_Missed-Connection_-Driving-on-218-South-last--Thursday-around-2.png" alt="">
 					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/fools_0021_Rectangle-1.png" alt="">
 					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/fools_0002_SCANLINE-by-freeject.net-1.png" alt="">
@@ -1095,16 +1101,20 @@
 				 </div>
 				<div class="slide" id="spaces-in-between">
 					<img class="full-image" style="position:absolute;" src="assets/images/Snyder-TheBeforetheAfter--Small.png" alt="">
-					<button type="button" style="text-align: left; color:#4c5223; font-family: 'lust display'; font-style: italic;font-size: 60px;" class="btn" data-toggle="modal" data-target="#modal-spaces">The Before, The After, <br>and the Spaces<br>in Between</button>
-					<p style="color: #4c5223;">by Madalyn Whitaker<br>illustration by Kate Snyder</p>					
+					<div>
+						<button type="button" style="text-align: left; color:#4c5223; font-family: 'lust display'; font-style: italic;font-size: 60px;" class="btn" data-toggle="modal" data-target="#modal-spaces">The Before, The After, <br>and the Spaces<br>in Between</button>
+						<p style="color: #4c5223;">by Madalyn Whitaker<br>illustration by Kate Snyder</p>		
+					</div>			
 				 </div>
 				<div class="slide" id="le-donne"> 
 					
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 1_Cream Overlay.png" alt="">
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 2_MauveOverlay.png" alt="">
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 4_Mauve Overlay.png" alt="">
-					<button type="button" class="btn" style="font-family: 'lust display', serif;margin: auto;" data-toggle="modal" data-target="#modal-ledonne">Le Donne alla Tavola</button>
-					<p style="color:beige;">by Carmella Furio          illustrations by Zoe Hermsen</p>
+					<div style="margin: auto;">
+						<button type="button" class="btn" style="font-family: 'lust display', serif;" data-toggle="modal" data-target="#modal-ledonne">Le Donne alla Tavola</button>
+						<p style="color:beige;margin-top: 20px;text-align: center;">by Carmella Furio          illustrations by Zoe Hermsen</p>
+					</div>
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 5_Mauve Overlay.png" alt="">
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 6_Mauve Overlay.png" alt="">
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 7_Pink Overlay.png" alt="">
@@ -1153,18 +1163,16 @@
 						rivers of your already aging past / dripped<br>
 						<br>
 						from the very first time / dusk was<br>
-						lifted from you / and you became /<br><nobr></p>
+						lifted from you / and you became /<br></nobr></p>
 					 </div>
 
 				 	<img class="full-image" src="assets/images/Cloudberry/Phalen-Cloudberry.png" alt="">
 					<!-- <img class="full-image" style="position:absolute; left:0;" src="assets/images/Cloudberry/Pottebaum-Cloudberry.png" alt=""> -->
 				 </div>
 				<div class="slide" id="goldfish">
-					<p>goldfish</p>
+					<p style="font-family: 'futura-pt';">GOLDFISH</p>
 					<p>by Marielle Asensio<br>photo by Ally Philippi</p>
 					<div class="relative-text-wrapper" style="width: 50vw; z-index: 50;">
-						<p dir="ltr" class="goldfish-body">Goldfish</p>
-						<br>
 						<p dir="ltr" class="goldfish-body"><nobr>
 						<span style="background-color:white;">We did drugs in your car first, in a supermarket parking lot.<br>
 						Later, again, with your sister &nbsp; &nbsp; in her &nbsp; car &nbsp; &nbsp; in the driveway. &nbsp; &nbsp;I couldn&rsquo;t stop&nbsp;<br>
@@ -1194,9 +1202,7 @@
 						&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;of a smoker.</span></nobr></p>
 
 					 </div>
-					<img class="full-image" style="position:absolute;" src="assets/images/Goldfish/Phillippi-Goldfish.png" alt="">
-
-					 	<!-- <img class="full-image" style="position: absolute;"  src="assets/images/Goldfish/Pottebaum - Goldfish.png" alt=""> -->
+					<img class="full-image" style="position:absolute;right 0px;" src="assets/images/Goldfish/Phillippi-Goldfish.png" alt="">
 				 </div>
 				<div class="slide" id="being-woman">
 					<p style="font-family: 'lust display',serif;font-size: 50px; color: red;">BEING</p>
@@ -1276,5 +1282,11 @@
 				</div>
 			</div>
 		</div>
+		
+		
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
 	 </body>
 </html> 
