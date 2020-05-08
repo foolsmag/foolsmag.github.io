@@ -14,7 +14,7 @@
 		<div class="se-pre-con"></div>
 		<a href="#home"><img class="nav-button" src="assets/images/Copy-of-FoolsOfficialLogo_red.png" alt=""></a>
 		
-		<div class="modal fade" id="modal-letter" 				tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal fade" id="modal-letter" 			tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -519,7 +519,7 @@
 						<p dir="ltr" class="tavola-body">I&rsquo;m fully aware that, as someone who identifies as queer, I don&rsquo;t really conventionally fit into the gay community, a place rightfully obsessed with labels. Queer is an umbrella term&nbsp; <span class="italic">and&nbsp; an identity, but when you rarely meet anyone who uses it like you do, it&rsquo;s hard to feel that sense of solidarity.</p>
 						<p dir="ltr" class="tavola-body">My Gay-Straight Alliance advisor thought I was an ally until I graduated, and my sister didn&rsquo;t know until I mentioned it on a call in college, three years after I &lsquo;came out.&rsquo; I&rsquo;ve been told I&rsquo;m the most &ldquo;staight looking gay anyone has ever seen,&rdquo; and I get that it&rsquo;s supposed to be a good thing, especially when dealing with homophobes, but it&rsquo;s still left a gap in my head between me and the overarching community.</p>
 						<p dir="ltr" class="tavola-body">I&rsquo;m here, under the giant queer umbrella, but everyone else is under their own little parasols. I deal with similar struggles <span class="tavola-body">&mdash; class="tavola-body">though I am <span class="italic">&nbsp; cis and white and lucky enough to have the privileges attributed to those identities </span>&mdash; but there&rsquo;s still this feeling of being outside something I&rsquo;m technically included in.&nbsp;</p>
-						<p dir="ltr" class="tavola-body">I&rsquo;m protective of the queer community &mdash; >it&rsquo;s still&nbsp; <span class="italic">my </span>&nbsp; <span class="italic">community class="italic-two"">&mdash; </span> but sometimes it feels as if it doesn&rsquo;t love me back. I&rsquo;ve always felt as if I haven&rsquo;t had enough evidence of my sexuality for the queer community.&nbsp;</p>
+						<p dir="ltr" class="tavola-body">I&rsquo;m protective of the queer community &mdash; >it&rsquo;s still&nbsp; <span class="italic">my </span>&nbsp; <span class="italic">community </span>&mdash; </span> but sometimes it feels as if it doesn&rsquo;t love me back. I&rsquo;ve always felt as if I haven&rsquo;t had enough evidence of my sexuality for the queer community.&nbsp;</p>
 						<p dir="ltr" class="tavola-body">I don&rsquo;t know what caused this class="tavola-body">&mdash; class="tavola-body">though I&rsquo;m starting to think it&rsquo;s likely a vice I&rsquo;ve internalized >&mdash; but I do know that others&rsquo; perception of me is not something I can control, and I&#39;ve learned that it&rsquo;s not something I need to.&nbsp;</p>
 						<p dir="ltr" class="tavola-body">I can&rsquo;t control the fact that I&rsquo;m queer, just like I can&rsquo;t control my heritage, but I do have more freedom when it comes to discovering the Italian parts of myself. While it won&rsquo;t be easy learning an entire language and culture, I know it&rsquo;ll be a fresh start for me.</p>
 						<p dir="ltr" class="tavola-body">So, at 18 I turned to Italian, picked up language courses against my advisor&rsquo;s wishes, and ran full force into detangling my identity.</p>
@@ -742,7 +742,10 @@
 		<div class="outer-wrapper">
 			<div class="wrapper">
 				<div class="slide" id="home">
-					 <img class="full-image" style="margin-left:200px;" src="assets/images/Estlund - Becoming Woman/FINALFRONT.jpg" >
+					<div style="background-color:#ba0029;width: 200px;">
+						
+					</div>
+					 <img class="full-image" style="margin-left:0px;" src="assets/images/FINALFRONT--edit.jpg" >
 					 <img src="assets/images/Fools Title.png" style="position: absolute;left:400px;top:100px;height: 170px;" alt="">
 				     </div>
 				<div class="slide" style="margin-right: 0px;" id="table-of-contents">
@@ -771,20 +774,17 @@
 						<a class="toc-link" href="#back-cover">back-cover</a><br> 
 					 </div>
 				 </div>
-				<div class="slide" style="margin-right: 0px;" id="sponsors">
-					<div>
-					<p style="white-space:pre-wrap;width:400px;">THANK YOU sponsors!</p>
+				<div class="slide" style="margin-right: 0px;padding:40px;" id="sponsors">
+					<div style="width: 400px;background-color:  #deded6;">
+					<p class="italic" style="font-family: 'lust'; text-align: center; font-size: 40px; white-space:pre-wrap;color:#ba0029">THANK<br>YOU<br><span style="font-family: 'futura-pt';">sponsors!</span></p>
 
-					<p style="white-space:pre-wrap;width:400px;">Fools Magazine is principally supported by the University of Iowa’s Magid Center for Undergraduate Writing, and generously funded by the University of Iowa Student Government, the School of Journalism and Mass Communication, and the Department of English. Thank you to these sponsors for supporting our mission and efforts.</p>
-
-					<p style="white-space:pre-wrap;width:400px;">The ideas and opinions expressed in this magazine are not necessarily representative of the University of Iowa.</p>
-					</p>
+					<p style=" white-space:pre-wrap;width:350px;text-align: justify;">Fools Magazine is principally supported by the University of Iowa’s Magid Center for Undergraduate Writing, and generously funded by the University of Iowa Student Government, the School of Journalism and Mass Communication, and the Department of English. Thank you to these sponsors for supporting our mission and efforts.</p>
 					</div>
-					<!-- <img class="full-image" src="assets/images/PDF Whole Pages/Sponsors.png"> -->
+					
 				 </div>
 				<div class="slide" style="margin-right: 0px;" id="editor-letter">
 					<div class="" style="">
-						<button type="button" class="btn" style="" data-toggle="modal" data-target="#modal-letter">A Letter from<br>the Editor</button>
+						<button type="button" class="btn" style="font-size: 40px;font-family: 'lust', serif;" data-toggle="modal" data-target="#modal-letter">a letter from<br>The Editor</button>
 					</div>
 				 </div>
 				<div class="slide" id="masthead">
@@ -923,7 +923,7 @@
 				 </div>
 				<div class="slide" id="ismee">
 					<button type="button" class="btn ismee-title" data-toggle="modal" data-target="#modal-ismee">Ismee</button>
-					<div style="color: #f5dec1;font-family:'futura-pt'; position:absolute; margin:30% 0px auto 40%;z-index: 10;"> <p>by Rana Hewezi<br>illustrations by Lydia Waheed</p></div>
+					<div style="color: #f5dec1;font-family:'futura-pt'; position:absolute; margin:30% 0px auto 40%;z-index: 10;"> <p>by Rana Hewezi               illustrations by Lydia Waheed</p></div>
 					<img class="ismee-image" src="assets/images/Ismee/ismee1.jpg" alt="">
 					<img class="" style="position: absolute; top:-80px; right:30%;height:50vh;" src="assets/images/Ismee/ismee2.png" alt="">
 					<img class="" style="position: absolute; bottom:0px; right:-10%;height:50vh;" src="assets/images/Ismee/ismee3.png" alt="">
@@ -995,55 +995,61 @@
 				 </div>
 				<div class="slide" id="duckduckgo">
 					
-					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG1.png" alt="">
-					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG2.png" alt="">
-					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG3.png" alt="">
-					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG4.png" alt="">
-					<img class="ddg-image" src="assets/images/DuckDuckGo/Freeman-DDG5.png" alt="">
+					<img class="ddg-image"  style="left:0px;" src="assets/images/DuckDuckGo/Freeman-DDG1.png" alt="">
+					<img class="ddg-image"  style=""src="assets/images/DuckDuckGo/Freeman-DDG2.png" alt="">
+					<img class="ddg-image"  style=""src="assets/images/DuckDuckGo/Freeman-DDG3.png" alt="">
+					<img class="ddg-image"  style=""src="assets/images/DuckDuckGo/Freeman-DDG4.png" alt="">
+					<img class="ddg-image"  style=""src="assets/images/DuckDuckGo/Freeman-DDG5.png" alt="">
 					<div style="z-index: 20;">
-						<div style="background-color:white;">
-						<p style="font-family: monospace;">by Faith Ellington<br>photos by Jane Freeman</p>
-						<p dir="ltr" class="ddg-body"><nobr>https://<br>
-						duckduckgo.com/<br>
-						?q=bad+habits+or+addiction%<br>
-						3F&amp;a+b=v112-1_y&amp;ia=web <br><br>
-						</nobr></p></div>
-						<div style="background-color:white;">
-						<p dir="ltr" class="ddg-body"><nobr>Resisting lingerie resisting chapstick call from a burner never<br>
-						A landline too slow to disconnect splintered<br>
-						Knuckles doctor winds up until<br>
-						I can do it myself<br>
-						Orange hospital pill bottle glow&nbsp;<span class="italic">please don&rsquo;t give me fentanyl</span><br>
-						Snow piles up Erie January wasteland in a shoebox<br>
-						<span class="italic">Baby, what do you think this is</span><br>
-						Smudged face ruined mirror reverse<br>
-						Edging towards hysteria assisted upon insistent on&nbsp;<br>
-						Cool white lights bright pills under tongue<br>
-						Heartbeat muddies under sternum chest&nbsp;<br>
-						Under 34th street lamplit the sky unknits itself&nbsp;<br>
-						Weatherman says&nbsp; it cannot be possible</span></span><br>
-						Lake waves break frozen onto crackling</nobr></p>
-					 </div>
+						<div style="">
+							<p style="font-family: monospace;">by Faith Ellington<br>photos by Jane Freeman</p>
+							<p dir="ltr" class="ddg-body"><nobr>https://<br>
+							duckduckgo.com/<br>
+							?q=bad+habits+or+addiction%<br>
+							3F&amp;a+b=v112-1_y&amp;ia=web <br><br>
+							</nobr></p></div>
+							<div style="">
+							<p dir="ltr" class="ddg-body"><nobr>Resisting lingerie resisting chapstick call from a burner never<br>
+							A landline too slow to disconnect splintered<br>
+							Knuckles doctor winds up until<br>
+							I can do it myself<br>
+							Orange hospital pill bottle glow&nbsp;<span class="italic">please don&rsquo;t give me fentanyl</span><br>
+							Snow piles up Erie January wasteland in a shoebox<br>
+							<span class="italic">Baby, what do you think this is</span><br>
+							Smudged face ruined mirror reverse<br>
+							Edging towards hysteria assisted upon insistent on&nbsp;<br>
+							Cool white lights bright pills under tongue<br>
+							Heartbeat muddies under sternum chest&nbsp;<br>
+							Under 34th street lamplit the sky unknits itself&nbsp;<br>
+							Weatherman says&nbsp; it cannot be possible</span></span><br>
+							Lake waves break frozen onto crackling</nobr></p>
+					 	 </div>
+				 	 </div>
 				 </div>
 				<div class="slide" id="foundations">
 					<div style="width: 90vw; height:100vh; overflow:hidden;position: relative;">
-						<img class="" style="position: absolute; width: 110vw; top: -30vw; left:-10vw;" src="assets/images/Stillman-Foundations.jpeg" alt="">
-						<button type="button" class="btn" style="position: absolute;font-family:'lust display',serif;font-style:italic;color:white;margin: 50vh auto auto 40%; z-index:20;" data-toggle="modal" data-target="#modal-foundations">Foundations</button>
-						<p style="color: white;">By Miranda Jud                -                 Illustration by Kerstin Stillman</p>
+						<img class="" style="position: absolute; width: 110vw; top: -30vw; left:-10vw;z-index: -1" src="assets/images/Stillman-Foundations.jpeg" alt="">
+						<div style="position: absolute;color:white;margin: 10vh 0% auto 50%; z-index:20;">
+							<button type="button" class="btn foundations-title"  data-toggle="modal" data-target="#modal-foundations">Foundations</button>
+							<p style="white-space:nowrap;margin-top:50px;">By Miranda Jud                -                 Illustration by Kerstin Stillman</p>
+						</div>
 						</div>
 					
 				 </div>
 				<div class="slide" id="feel-better">
-					<div style="width: 400px;margin:10vh 100px;">
-						<p style="font-family: sans-serif; font-size: 50px;font-weight: bold;">It Will Feel Better When It Stops Hurting</p>
-						<p>by Avery Tucker</p>
-						<p class="hurting-body">My series It will feel better when it stops hurting explores the ways divorce alters childhood, memory, and development. These photographs show my half-sister Tuscany on my father’s land. Sometimes they are posed; sometimes they are not. In this project, I explore the connection between our experiences as children of divorce, how our memories and understandings differ. I use the landscape images as a representation of myself and as a meditation on what the future holds. The title comes from an expression my father would say when I scraped my knees or fell off my bike, but in the context of this project, it has transformed into an examination of pain and healing. Will it ever feel better? Does it ever stop hurting?</p>
-	
+					<div style="width: 500px;margin:10vh 100px;text-align:center;">
+						<p style="font-family: sans-serif; font-size: 40px;font-weight: bold;white-space: nowrap; text-align:center;">It Will Feel Better</p> 
+						<img class="" style="height: 50vh; display: inline-block;" src="assets/images/Avery Tucker/AveryTucker1.png" alt="">
+						<p style="font-family: sans-serif; font-size: 40px;font-weight: bold;white-space: nowrap; text-align:center;">When It Stops Hurting</p>
+						<p style="font-size: 18px;font-family: 'futura-pt'; font-weight:500; text-align: center;">by Avery Tucker</p>
 					</div>
-					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker1.tiff" alt="">
+					
 					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker2.png" alt="">
 					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker3.jpg" alt="">
 					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker4.jpg" alt="">
+					<div style="width: 400px;margin:10vh 100px;">
+						<p class="hurting-body">My series It will feel better when it stops hurting explores the ways divorce alters childhood, memory, and development. These photographs show my half-sister Tuscany on my father’s land. Sometimes they are posed; sometimes they are not. In this project, I explore the connection between our experiences as children of divorce, how our memories and understandings differ. I use the landscape images as a representation of myself and as a meditation on what the future holds. The title comes from an expression my father would say when I scraped my knees or fell off my bike, but in the context of this project, it has transformed into an examination of pain and healing. Will it ever feel better? Does it ever stop hurting?</p>
+					</div>
 					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker5.jpg" alt="">
 					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker6.jpg" alt="">
 					<img class="small-image" src="assets/images/Avery Tucker/AveryTucker7.jpg" alt="">
@@ -1052,7 +1058,7 @@
 					
 				 </div>
 				<div class="slide" id="father-mother">
-					<img class="full-image" style="position:absolute;top:-200px;z-index: -100;" src="assets/images/Father_Mother/FM-Tokarski3.png" alt="">
+					<img class="full-image" style="position:absolute;bottom:-50px;left:-350px;z-index: -100;" src="assets/images/Father_Mother/FM-Tokarski3.png" alt="">
 					<div style="position: absolute;">
 						<p style="font-family: 'lust'; font-size: 50px;color:rgb(30,30,50)">Father/Mother</p>
 						<p>by Mara Smith<br>Illustrations by Allie Tokarski</p>
@@ -1084,13 +1090,14 @@
 						someone stops loving you and<br>
 						the blinds are pulled shut</p>
 					</div>
-					<img class="" style="position: absolute;  height: 50vh; bottom: 0px; right:0px; z-index: -2;"src="assets/images/Father_Mother/FM-Tokarski1.png" alt="">
-					<img class="small-image" src="assets/images/Father_Mother/FM-Tokarski2.png" alt="">
+					<img class="" style="position: absolute;  height: 80vh; bottom: -100px; right:-300px; z-index: -2;"src="assets/images/Father_Mother/FM-Tokarski1.png" alt="">
+					<img class="" style="height: 20vh;" src="assets/images/Father_Mother/FM-Tokarski2.png" alt="">
+					<img class="" style="height: 20vh;position: relative;right:100px" src="assets/images/Father_Mother/FM-Tokarski2.png" alt="">
 					
 				 	
 				 </div>
 				<div class="slide" id="missed-connections">
-					<div style="position: absolute">
+					<div style="position: absolute; z-index: 50;">
 						<button type="button" class="btn mc-title" data-toggle="modal" data-target="#modal-connections">A<br>SERIES OF MISSED<br>CONNECTIONS</button>
 						<p style="font-weight: bold;color:white;">by Lexys Sillin<br>illustration by Madelyn DeWitt</p>
 					 </div>
@@ -1099,7 +1106,7 @@
 					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/fools_0002_SCANLINE-by-freeject.net-1.png" alt="">
 					<img class="full-image" style="position:absolute;right:0px;"  src="assets/images/Missed Connections/Dewitt-Missed Connections.png" alt="">
 				 </div>
-				<div class="slide" id="spaces-in-between">
+				<div class="slide" id="spaces-in-between" style="margin-right: 0px;">
 					<img class="full-image" style="position:absolute;" src="assets/images/Snyder-TheBeforetheAfter--Small.png" alt="">
 					<div>
 						<button type="button" style="text-align: left; color:#4c5223; font-family: 'lust display'; font-style: italic;font-size: 60px;" class="btn" data-toggle="modal" data-target="#modal-spaces">The Before, The After, <br>and the Spaces<br>in Between</button>
@@ -1107,7 +1114,7 @@
 					</div>			
 				 </div>
 				<div class="slide" id="le-donne"> 
-					
+					<div class="gradient"></div>
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 1_Cream Overlay.png" alt="">
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 2_MauveOverlay.png" alt="">
 					<img class="small-image" src="assets/images/Le Donne/Le Donne Mouth 4_Mauve Overlay.png" alt="">
@@ -1121,11 +1128,13 @@
 
 				 </div>
 				<div class="slide" id="cloudberry">
-					<div style="position: absolute; ">
-					<p style="font-family: 'futura', sans-serif; font-weight: bold;font-size: 40px;">CLOUDBERRY</p>
-					<p>by Callan Latham          illustration by Mollie Phalen</p>
+					<div style="position: absolute; right: 0px;top:0px;">
+						
 					 </div>
-					<div style="right: 20px; bottom:50px;position:absolute;">
+					<div style="right: -200px; bottom:50px;position:absolute;">
+						<p style="font-family: 'futura', sans-serif; font-weight: bold;font-size: 40px;">C L O U D B E R R Y</p>
+						<p>by Callan Latham          illustration by Mollie Phalen</p>
+
 						<p class="cloudberry-text"><nobr>
 						<br>
 						I am burning  / in dusk<br>
@@ -1170,8 +1179,7 @@
 					<!-- <img class="full-image" style="position:absolute; left:0;" src="assets/images/Cloudberry/Pottebaum-Cloudberry.png" alt=""> -->
 				 </div>
 				<div class="slide" id="goldfish">
-					<p style="font-family: 'futura-pt';">GOLDFISH</p>
-					<p>by Marielle Asensio<br>photo by Ally Philippi</p>
+					
 					<div class="relative-text-wrapper" style="width: 50vw; z-index: 50;">
 						<p dir="ltr" class="goldfish-body"><nobr>
 						<span style="background-color:white;">We did drugs in your car first, in a supermarket parking lot.<br>
@@ -1202,18 +1210,27 @@
 						&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;of a smoker.</span></nobr></p>
 
 					 </div>
-					<img class="full-image" style="position:absolute;right 0px;" src="assets/images/Goldfish/Phillippi-Goldfish.png" alt="">
+					<div>
+					 <p style="font-family: 'futura-pt';color: white;font-size: 40px">GOLDFISH</p>
+					 <p style="color:white;">by Marielle Asensio<br>photo by Ally Philippi</p>
+					</div>
+
+					<img class="full-image" style="position:absolute;right: 0px;" src="assets/images/Goldfish/Phillippi-Goldfish.png" alt="">
 				 </div>
 				<div class="slide" id="being-woman">
-					<p style="font-family: 'lust display',serif;font-size: 50px; color: red;">BEING</p>
-					<p style="font-family: sans-serif;font-size: 50px;color: #f9a826;">woman</p>
-					<p>by Gabby Estlund</p>
+					<div>
+						<p style="font-family: 'lust display',serif;font-size: 50px; color: red;">BEING</p>
+						<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman1.jpg" alt="">
+						<p style="font-family: sans-serif;font-size: 50px;color: #f9a826;">woman</p>
+						<p>by Gabby Estlund</p>
+					</div>
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman2.jpg" alt="">
+					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman3.jpg" alt="">
 					<div class="artist-caption">
 						<p class="woman-body">For so long, my identity as a woman was dictated by others. Though I recognized this early in my life, I never confronted it. I created this project to examine how easily I fall into a habit of comparing myself to the unattainable ideals of womanhood in nearly every realm of pop culture. In this way, I began to explore the bearings that culture has on the individual woman's self-perception, and specifically my own. While each narrative is unique, the overarching experience of being scrutinized remains. Advertising several decades ago boasted blatant sexism toward women, and though it may not be as direct today, it is far from eradicated. Setting scenes from the 1950s and ‘60s is a reminder that remnants from the past persist; women live in a present continually shaped by what came before now. </p>
 					</div>
-					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman1.jpg" alt="">
-					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman2.jpg" alt="">
-					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman3.jpg" alt="">
+					
+					
 					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman4.jpg" alt="">
 					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman5.jpg" alt="">
 					<img class="woman-image" src="assets/images/Estlund - Becoming Woman/e-woman6--Small.jpg" alt="">
@@ -1223,7 +1240,7 @@
 				<div class="slide" id="white-continent">
 					<img class="small-image" style="transform: ScaleX(-1);position:absolute; bottom:0px;left:0px;z-index: 10;" src="assets/images/White Continent/Hall-Continent.png" alt="">
 					<button class="btn" style="margin:30vh auto;color :#f9a826; font-family: 'lust display', serif;" data-toggle="modal" data-target="#modal-continent">The White<br>Continent</button>
-					<p>by Lauren Arzbaecher<br>illustration by Cailin Hall</p>
+					<p style="margin:30vh auto;">by Lauren Arzbaecher<br>illustration by Cailin Hall</p>
 					<div style="height: 90vh; width: 50vw;margin:5vh auto auto auto;overflow:hidden;position:absolute;">
 						<img class="full-image" src="assets/images/White Continent/Arzbaecher-Continent.JPG" alt="">
 					</div>
@@ -1231,10 +1248,13 @@
 					<img class="small-image"style="position:absolute; bottom:0px;right:0px;" src="assets/images/White Continent/Hall-Continent2.png" alt="">
 				 </div>
 				<div class="slide" id="ground-control">
+					<div>
+					<p>ground control</p>
+					<p>using physical space to catalog rising and falling</p>
 					<p>by AV</p>
+					</div>
 					<div class="text-container">
-						<p class="ground-body">“ground control: using physical space to catalog rising and falling”<br><br>
-
+												<p class="ground-body">
 							Coming from an immigrant family where mental illness is highly stigmatized and quickly dismissed by cultural misconceptions, it was difficult to get the support and treatment I needed growing up. Entering college, I misinterpreted my mental health as a symptom of my high school experience. I figured the collegiate transition would relieve the problems I faced.
 							<br><br>
 							When I came into my first semester without any real understanding of the college lifestyle, I began to experiment with what I assumed was normal —but what began as recreational smoking and drinking quickly diverted into a mode of unhealthy coping. Ongoing abuse developed into a period of poorly regulated self-medicating with opiates. 
@@ -1263,17 +1283,19 @@
 					<img class="small-image" src="assets/images/ground control/groundcontrol8.jpg" alt="">
 				 </div>
 				<div class="slide" id="marching">
-					<p>by Stella Tarlin<br>photos by Meria Ivy</p>
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-marching">The Art of Marching</button>
-					<p dir="ltr" class="marching-body">The Art of Marching</p>
-					
+					<div>
+					<button type="button" class="btn" style="font-family: 'lust display', serif; color: white;" data-toggle="modal" data-target="#modal-marching">The<br>Art of<br>Marching</button>
+					<p>by Stella Tarlin<br>photos by Meria Ivy</p>	
+					<div>
 					<img class="full-image" src="assets/images/" alt="">
+
+
 				 </div>
 				<div class="slide" id="geese">
-					<p>by Hannah Reynoso<br>illustration by Julia Reichart</p>
-					<p dir="ltr" class="geese-body" style="white-space:nowrap;">Seeking Validation from The Geese</p>
-					<button type="button" class="btn" data-toggle="modal" data-target="#modal-geese">Seeking Validation from the Geese</button>
-					
+					<div>
+					<button type="button" class="btn" style="font-family:'lust', serif; color: gold;" data-toggle="modal" data-target="#modal-geese">Seeking Validation<br>from the Geese</button>
+					<p style="font-family:'futura-pt', sans-serif; color: gold;">by Hannah Reynoso<br>illustration by Julia Reichart</p>
+					</div>
 					<img class="small-image" src="assets/images/Seeking Validation from the Geese/Reichart-Tree for Validation.png" alt="">
 					<img class="small-image" src="assets/images/Seeking Validation from the Geese/Reichart-Validation.png" alt="">
 				 </div>
@@ -1282,11 +1304,7 @@
 				</div>
 			</div>
 		</div>
-		
-		
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-
-
 	 </body>
 </html> 

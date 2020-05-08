@@ -48,7 +48,7 @@ hr{
 }
 
 #home{
-	background-color: #e8e8e0;
+	background-color: #deded6;
 	/* background: url('assets/images/Estlund - Becoming Woman/EDITCloth.png') center no-repeat; */
 	width: 100vw;
 	margin-right:0vw;
@@ -56,8 +56,11 @@ hr{
 
 #table-of-contents{
 	padding: 20px;
+	margin-right: 0px;
 	font-size: 20px;
 	background-color: #e8e8e0;
+	background: url('assets/images/Estlund - Becoming Woman/EDITCloth.png') center no-repeat;
+	background-size: auto 100%;
 }
 #exit-poem{
 
@@ -65,6 +68,7 @@ hr{
 #goldfish{
 	background-color: black; 
 	width: 60vw;
+	margin-right: 10vw;
 }
 #ismee{
 	background-color: #e31b28;
@@ -77,9 +81,17 @@ hr{
 #duckduckgo{
 	width: 60vw;
 	margin-right: 30vw;
+	padding: 50px;
 }
 #prospect{
 
+}
+#father-mother{
+	margin-right: 10vw;
+	z-index: 10;
+}
+#foundations{
+	margin-right: 10vw;
 }
 
 .outer-wrapper{
@@ -147,18 +159,12 @@ hr{
 	padding: 50px;
  }
 
-.media-bar{
-	position: absolute;
-	bottom: 40px;
-	left: 40px;
-}
 .enter-button{
 	position: absolute;
 	bottom: 100px;
 	left: 80vw;
 	font-family: "futura-pt", sans-serif;
 	color: #ba0029;
-
 }
 
 .full-image{
@@ -355,7 +361,7 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 .ismee-title{
 	color: #126e95;
 	position: absolute;
-	top: 20vh;
+	top: 25vh;
 	left: 50vh;
 	font-family: 'lust display', serif; 
 	font-style: italic;
@@ -420,7 +426,7 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 
 .gradient{
 	background: rgb(255,255,255);
-background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(44,18,25,1) 80%);
+	background: linear-gradient(90deg, #faeff3 0%, rgba(44,18,25,1) 100%);
 	width: 300px
 
 }
@@ -432,5 +438,13 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(44,18,25,1) 80%)
 
 .mc-title{
 	text-align: left;
+	color: white;
+}
+
+.foundations-title{
+	position: relative;font-family:'lust display',serif;font-style:italic;
+	color: white;
+}
+.foundations-title:hover{
 	color: white;
 }
