@@ -408,7 +408,7 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 
 .tokarski-image{
 	height: 40vh;
-	margin: 10px;
+	
 	position: relative;
 
 }
@@ -418,7 +418,7 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 	margin-right: 0px;
 }
 #missed-connections{
-	width: 80vw;
+	width: 110vw;
 	margin-right: 0vw;
 }
 .woman-image{
@@ -484,6 +484,7 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 }
 .hurting-image{
 	height: 40vh;
+	margin-right: 40px;
 }
 
 .march-wrapper{
