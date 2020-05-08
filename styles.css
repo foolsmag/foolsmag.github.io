@@ -62,6 +62,13 @@ hr{
 	background: url('assets/images/Estlund - Becoming Woman/EDITCloth.png') center no-repeat;
 	background-size: auto 100%;
 }
+
+#sponsors{
+	width: 50vw;
+	background: url('assets/images/sponsors-katie.png') center no-repeat;
+	background-size: auto 100%;
+	margin-right: 0px;
+}
 #exit-poem{
 
 }
@@ -79,7 +86,7 @@ hr{
 	margin-right: 10vw;
 }
 #duckduckgo{
-	width: 60vw;
+	width: 50vw;
 	margin-right: 30vw;
 	padding: 50px;
 }
@@ -93,6 +100,10 @@ hr{
 #foundations{
 	margin-right: 10vw;
 }
+#jt{
+	padding-left: 15vw;
+	background-color: #f9a826;
+}
 
 .outer-wrapper{
 	width: 100vh;
@@ -104,6 +115,7 @@ hr{
 	overflow-y: scroll;
 	scrollbar-width:  none;
 	-ms-overflow-style:  none;
+	scroll-behavior: smooth;
 }
 ::-webkit-scrollbar {
 	display: none;
@@ -351,11 +363,13 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
     /* display: inline; */
    /*  margin: auto 0px auto 0px; */
     z-index: 10;
+    overflow: visible;
 }
 .btn:hover{
 	text-shadow: 6px 6px 15px black;
 	transition: 0.2s;
 	color: #ba0029;
+	overflow: visible;
 }
 
 .ismee-title{
@@ -389,7 +403,8 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 	margin-right: 0px;
 }
 #missed-connections{
-	width: 50vw;
+	width: 80vw;
+	margin-right: 0vw;
 }
 .woman-image{
 	height: 70vh;
@@ -438,6 +453,9 @@ font-family:"futura-pt", sans-serif; font-size: 11pt; font-weight: 300; font-sty
 
 .mc-title{
 	text-align: left;
+	color: white;
+}
+.mc-title:hover{
 	color: white;
 }
 
