@@ -84,8 +84,9 @@ hr{
 }
 #goldfish{
 	background-color: black; 
-	width: 60vw;
+	width: 1000px;
 	margin-right: 10vw;
+	padding: 40px;
 }
 #ismee{
 	background-color: #e31b28;
